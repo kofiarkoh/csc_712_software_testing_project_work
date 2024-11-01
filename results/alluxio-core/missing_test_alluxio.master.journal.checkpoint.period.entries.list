@@ -1,0 +1,2 @@
+>>>>[ctest_core] missing test for alluxio-core	alluxio.master.journal.checkpoint.period.entries	1000000
+>>>>[ctest_core] missing test for alluxio-core	alluxio.master.journal.checkpoint.period.entries	4000000

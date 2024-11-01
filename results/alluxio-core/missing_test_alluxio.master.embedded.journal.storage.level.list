@@ -1,0 +1,2 @@
+>>>>[ctest_core] missing test for alluxio-core	alluxio.master.embedded.journal.storage.level	MAPPED
+>>>>[ctest_core] missing test for alluxio-core	alluxio.master.embedded.journal.storage.level	MEMORY

@@ -1,0 +1,2 @@
+>>>>[ctest_core] missing test for alluxio-core	alluxio.master.journal.retry.interval	10sec
+>>>>[ctest_core] missing test for alluxio-core	alluxio.master.journal.retry.interval	2sec

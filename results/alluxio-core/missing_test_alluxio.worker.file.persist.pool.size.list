@@ -1,0 +1,2 @@
+>>>>[ctest_core] missing test for alluxio-core	alluxio.worker.file.persist.pool.size	32
+>>>>[ctest_core] missing test for alluxio-core	alluxio.worker.file.persist.pool.size	128

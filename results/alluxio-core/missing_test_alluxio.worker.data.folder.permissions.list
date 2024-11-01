@@ -1,0 +1,2 @@
+>>>>[ctest_core] missing test for alluxio-core	alluxio.worker.data.folder.permissions	rwx------
+>>>>[ctest_core] missing test for alluxio-core	alluxio.worker.data.folder.permissions	rwxrwx---

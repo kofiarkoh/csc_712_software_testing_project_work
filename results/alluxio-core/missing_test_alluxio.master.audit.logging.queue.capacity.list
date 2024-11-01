@@ -1,0 +1,2 @@
+>>>>[ctest_core] missing test for alluxio-core	alluxio.master.audit.logging.queue.capacity	5000
+>>>>[ctest_core] missing test for alluxio-core	alluxio.master.audit.logging.queue.capacity	20000

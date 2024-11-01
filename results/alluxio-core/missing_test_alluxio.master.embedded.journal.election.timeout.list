@@ -1,0 +1,2 @@
+>>>>[ctest_core] missing test for alluxio-core	alluxio.master.embedded.journal.election.timeout	1s
+>>>>[ctest_core] missing test for alluxio-core	alluxio.master.embedded.journal.election.timeout	20s

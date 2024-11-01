@@ -1,0 +1,2 @@
+>>>>[ctest_core] missing test for alluxio-core	alluxio.master.metastore.inode.cache.max.size	5000000
+>>>>[ctest_core] missing test for alluxio-core	alluxio.master.metastore.inode.cache.max.size	20000000

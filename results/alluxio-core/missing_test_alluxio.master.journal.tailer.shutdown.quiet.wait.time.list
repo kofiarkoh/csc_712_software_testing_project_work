@@ -1,0 +1,2 @@
+>>>>[ctest_core] missing test for alluxio-core	alluxio.master.journal.tailer.shutdown.quiet.wait.time	1sec
+>>>>[ctest_core] missing test for alluxio-core	alluxio.master.journal.tailer.shutdown.quiet.wait.time	10sec
