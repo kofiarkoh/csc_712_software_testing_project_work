@@ -1,0 +1,12 @@
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.state.MapStateDescriptorTest_testSerializerDuplication": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.common.state.MapStateDescriptorTest_testMapStateDescriptor": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.common.state.MapStateDescriptorTest_testHashCodeEquals": []
+  }
+}

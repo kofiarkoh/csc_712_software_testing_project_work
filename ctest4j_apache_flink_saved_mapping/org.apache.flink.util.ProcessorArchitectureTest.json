@@ -1,0 +1,7 @@
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.util.ProcessorArchitectureTest_testNamesNotNull": [],
+    "org.apache.flink.util.ProcessorArchitectureTest_testArchitectureNotUnknown": []
+  }
+}

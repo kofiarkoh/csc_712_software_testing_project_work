@@ -1,0 +1,18 @@
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.configuration.ConfigurationUtilsTest_testRandomTempDirectorySelection": [
+      "io.tmp.dirs"
+    ],
+    "org.apache.flink.configuration.ConfigurationUtilsTest_testPropertiesToConfiguration": [],
+    "org.apache.flink.configuration.ConfigurationUtilsTest_testConvertConfigToWritableLinesAndNoFlattenYaml": [],
+    "org.apache.flink.configuration.ConfigurationUtilsTest_testStandardYamlSupportLegacyPattern": [
+      "mapKey",
+      "listKey"
+    ],
+    "org.apache.flink.configuration.ConfigurationUtilsTest_testGetPrefixedKeyValuePairs": [],
+    "org.apache.flink.configuration.ConfigurationUtilsTest_testConvertToString": [],
+    "org.apache.flink.configuration.ConfigurationUtilsTest_testConvertConfigToWritableLinesAndFlattenYaml": [],
+    "org.apache.flink.configuration.ConfigurationUtilsTest_testHideSensitiveValues": []
+  }
+}

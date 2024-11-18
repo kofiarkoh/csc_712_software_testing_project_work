@@ -1,0 +1,7 @@
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.core.fs.RefCountedFileTest_retainsShouldRequirePlusOneReleasesToDeleteTheFile": [],
+    "org.apache.flink.core.fs.RefCountedFileTest_releaseToZeroRefCounterShouldDeleteTheFile": []
+  }
+}

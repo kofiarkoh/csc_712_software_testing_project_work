@@ -1,0 +1,7 @@
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeinfo.TypeHintTest_testTypeInfoDirect": [],
+    "org.apache.flink.api.common.typeinfo.TypeHintTest_testWithGenericParameter": []
+  }
+}

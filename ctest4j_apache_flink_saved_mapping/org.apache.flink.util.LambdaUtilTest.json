@@ -1,0 +1,7 @@
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.util.LambdaUtilTest_testRunWithContextClassLoaderSupplier": [],
+    "org.apache.flink.util.LambdaUtilTest_testRunWithContextClassLoaderRunnable": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.core.fs.local.LocalFileSystemRecoverableWriterTest_testRecoverWithState": [],
+    "org.apache.flink.core.fs.local.LocalFileSystemRecoverableWriterTest_testRecoverFromIntermWithoutAdditionalState": [],
+    "org.apache.flink.core.fs.local.LocalFileSystemRecoverableWriterTest_testCommitAfterPersist": [],
+    "org.apache.flink.core.fs.local.LocalFileSystemRecoverableWriterTest_testResumeWithWrongOffset": [],
+    "org.apache.flink.core.fs.local.LocalFileSystemRecoverableWriterTest_testCommitAfterNormalClose": [],
+    "org.apache.flink.core.fs.local.LocalFileSystemRecoverableWriterTest_testRecoverAfterMultiplePersistsState": [],
+    "org.apache.flink.core.fs.local.LocalFileSystemRecoverableWriterTest_testRecoverWithEmptyState": [],
+    "org.apache.flink.core.fs.local.LocalFileSystemRecoverableWriterTest_testCommitAfterRecovery": [],
+    "org.apache.flink.core.fs.local.LocalFileSystemRecoverableWriterTest_testCloseWithNoData": [],
+    "org.apache.flink.core.fs.local.LocalFileSystemRecoverableWriterTest_testResumeAfterCommit": [],
+    "org.apache.flink.core.fs.local.LocalFileSystemRecoverableWriterTest_testExceptionWritingAfterCloseForCommit": []
+  }
+}

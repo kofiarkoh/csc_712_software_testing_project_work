@@ -1,0 +1,9 @@
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.core.io.SimpleVersionedSerializationTest_testSerializationRoundTrip": [],
+    "org.apache.flink.core.io.SimpleVersionedSerializationTest_testUnderflow": [],
+    "org.apache.flink.core.io.SimpleVersionedSerializationTest_testListSerializationRoundTrip": [],
+    "org.apache.flink.core.io.SimpleVersionedSerializationTest_testSerializeEmpty": []
+  }
+}

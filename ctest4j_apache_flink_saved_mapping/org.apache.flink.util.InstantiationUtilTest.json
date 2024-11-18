@@ -1,0 +1,17 @@
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.util.InstantiationUtilTest_testClassIsNotProper": [],
+    "org.apache.flink.util.InstantiationUtilTest_testSerializationToByteArray": [],
+    "org.apache.flink.util.InstantiationUtilTest_testInstantiationOfStringValueAndCastToValue": [],
+    "org.apache.flink.util.InstantiationUtilTest_testResolveProxyClass": [],
+    "org.apache.flink.util.InstantiationUtilTest_testInstantiationOfStringValue": [],
+    "org.apache.flink.util.InstantiationUtilTest_testCopyWritable": [],
+    "org.apache.flink.util.InstantiationUtilTest_testClassIsProper": [],
+    "org.apache.flink.util.InstantiationUtilTest_testCheckForInstantiationOfPrivateClass": [],
+    "org.apache.flink.util.InstantiationUtilTest_testHasNullaryConstructorFalse": [],
+    "org.apache.flink.util.InstantiationUtilTest_testWriteToConfigFailingSerialization": [],
+    "org.apache.flink.util.InstantiationUtilTest_testHasNullaryConstructor": [],
+    "org.apache.flink.util.InstantiationUtilTest_testCompressionAndSerializationAlongWithDecompressionAndDeserialization": []
+  }
+}

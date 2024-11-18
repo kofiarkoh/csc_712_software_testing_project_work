@@ -1,0 +1,13 @@
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.configuration.SecurityOptionsTest_checkEnableRestSSLAuthentication": [
+      "security.ssl.rest.authentication-enabled",
+      "security.ssl.rest.enabled"
+    ],
+    "org.apache.flink.configuration.SecurityOptionsTest_checkEnableSSL": [
+      "security.ssl.internal.enabled",
+      "security.ssl.rest.enabled"
+    ]
+  }
+}

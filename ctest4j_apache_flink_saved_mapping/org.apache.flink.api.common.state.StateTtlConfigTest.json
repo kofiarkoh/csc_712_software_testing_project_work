@@ -1,0 +1,8 @@
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.state.StateTtlConfigTest_testStateTtlConfigBuildWithNonPositiveCleanupIncrementalSize": [],
+    "org.apache.flink.api.common.state.StateTtlConfigTest_testStateTtlConfigBuildWithoutCleanupInBackground": [],
+    "org.apache.flink.api.common.state.StateTtlConfigTest_testStateTtlConfigBuildWithCleanupInBackground": []
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.core.fs.RefCountedBufferingFileStreamTest_testSmallWritesGoToBuffer": [],
+    "org.apache.flink.core.fs.RefCountedBufferingFileStreamTest_testSpillingWhenBufferGetsFull": [],
+    "org.apache.flink.core.fs.RefCountedBufferingFileStreamTest_testFlush": [],
+    "org.apache.flink.core.fs.RefCountedBufferingFileStreamTest_testExceptionWhenWritingToClosedFile": [],
+    "org.apache.flink.core.fs.RefCountedBufferingFileStreamTest_testBigWritesGoToFile": []
+  }
+}

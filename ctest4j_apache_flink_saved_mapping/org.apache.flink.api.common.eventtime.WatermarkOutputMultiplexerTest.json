@@ -1,0 +1,26 @@
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.eventtime.WatermarkOutputMultiplexerTest_immediateUpdatesTakeDeferredUpdatesIntoAccount": [],
+    "org.apache.flink.api.common.eventtime.WatermarkOutputMultiplexerTest_multipleImmediateWatermark": [],
+    "org.apache.flink.api.common.eventtime.WatermarkOutputMultiplexerTest_combinedWatermarkDoesNotRegressWhenIdleOutputRegresses": [],
+    "org.apache.flink.api.common.eventtime.WatermarkOutputMultiplexerTest_testRemoveNotRegisteredReturnValue": [],
+    "org.apache.flink.api.common.eventtime.WatermarkOutputMultiplexerTest_lowerImmediateUpdateOnSameOutputDoesNotEmitCombinedUpdate": [],
+    "org.apache.flink.api.common.eventtime.WatermarkOutputMultiplexerTest_noCombinedDeferredUpdateWhenWeHaveZeroOutputs": [],
+    "org.apache.flink.api.common.eventtime.WatermarkOutputMultiplexerTest_multipleDeferredWatermark": [],
+    "org.apache.flink.api.common.eventtime.WatermarkOutputMultiplexerTest_singleImmediateIdleness": [],
+    "org.apache.flink.api.common.eventtime.WatermarkOutputMultiplexerTest_deferredOutputDoesNotImmediatelyAdvanceWatermark": [],
+    "org.apache.flink.api.common.eventtime.WatermarkOutputMultiplexerTest_testRemoveRegisteredReturnValue": [],
+    "org.apache.flink.api.common.eventtime.WatermarkOutputMultiplexerTest_singleDeferredWatermarkAfterIdleness": [],
+    "org.apache.flink.api.common.eventtime.WatermarkOutputMultiplexerTest_singleDeferredWatermark": [],
+    "org.apache.flink.api.common.eventtime.WatermarkOutputMultiplexerTest_testNotEmittingIdleAfterAllSplitsRemoved": [],
+    "org.apache.flink.api.common.eventtime.WatermarkOutputMultiplexerTest_whenImmediateOutputBecomesIdleWatermarkAdvances": [],
+    "org.apache.flink.api.common.eventtime.WatermarkOutputMultiplexerTest_singleDeferredIdleness": [],
+    "org.apache.flink.api.common.eventtime.WatermarkOutputMultiplexerTest_singleImmediateWatermarkAfterIdleness": [],
+    "org.apache.flink.api.common.eventtime.WatermarkOutputMultiplexerTest_singleImmediateWatermark": [],
+    "org.apache.flink.api.common.eventtime.WatermarkOutputMultiplexerTest_testRemoveUnblocksWatermarks": [],
+    "org.apache.flink.api.common.eventtime.WatermarkOutputMultiplexerTest_testRemoveOfHighestDoesNotRetractWatermark": [],
+    "org.apache.flink.api.common.eventtime.WatermarkOutputMultiplexerTest_immediateUpdateOnSameOutputAsDeferredUpdateDoesNotRegress": [],
+    "org.apache.flink.api.common.eventtime.WatermarkOutputMultiplexerTest_testRemoveOfLowestDoesNotImmediatelyAdvanceWatermark": []
+  }
+}

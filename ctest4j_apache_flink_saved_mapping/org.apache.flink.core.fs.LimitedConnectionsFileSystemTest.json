@@ -1,0 +1,17 @@
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.core.fs.LimitedConnectionsFileSystemTest_testSlowOutputStreamNotClosed": [],
+    "org.apache.flink.core.fs.LimitedConnectionsFileSystemTest_testSlowInputStreamNotClosed": [],
+    "org.apache.flink.core.fs.LimitedConnectionsFileSystemTest_testLimitingMixedStreams": [],
+    "org.apache.flink.core.fs.LimitedConnectionsFileSystemTest_testLimitingInputStreams": [],
+    "org.apache.flink.core.fs.LimitedConnectionsFileSystemTest_testTerminateStalledInputStreams": [],
+    "org.apache.flink.core.fs.LimitedConnectionsFileSystemTest_testFailingStreamsUnregister": [],
+    "org.apache.flink.core.fs.LimitedConnectionsFileSystemTest_testTerminateStalledMixedStreams": [],
+    "org.apache.flink.core.fs.LimitedConnectionsFileSystemTest_testConstructionNumericOverflow": [],
+    "org.apache.flink.core.fs.LimitedConnectionsFileSystemTest_testOpenTimeoutInputStreams": [],
+    "org.apache.flink.core.fs.LimitedConnectionsFileSystemTest_testOpenTimeoutOutputStreams": [],
+    "org.apache.flink.core.fs.LimitedConnectionsFileSystemTest_testTerminateStalledOutputStreams": [],
+    "org.apache.flink.core.fs.LimitedConnectionsFileSystemTest_testLimitingOutputStreams": []
+  }
+}

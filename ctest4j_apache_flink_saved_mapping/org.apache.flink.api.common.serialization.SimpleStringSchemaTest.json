@@ -1,0 +1,7 @@
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.serialization.SimpleStringSchemaTest_testSerializability": [],
+    "org.apache.flink.api.common.serialization.SimpleStringSchemaTest_testSerializationWithAnotherCharset": []
+  }
+}

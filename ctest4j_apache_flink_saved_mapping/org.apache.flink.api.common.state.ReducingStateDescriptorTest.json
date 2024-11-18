@@ -1,0 +1,9 @@
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.state.ReducingStateDescriptorTest_testReducingStateDescriptor": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.common.state.ReducingStateDescriptorTest_testHashCodeEquals": []
+  }
+}

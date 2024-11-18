@@ -1,0 +1,8 @@
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.configuration.ConfigOptionTest_testDeprecationFlagForMixedAlternativeKeys": [],
+    "org.apache.flink.configuration.ConfigOptionTest_testDeprecationFlagForDeprecatedKeys": [],
+    "org.apache.flink.configuration.ConfigOptionTest_testDeprecationFlagForFallbackKeys": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.io.FileInputFormatTest_testDecorateInputStream": [
+      "fs.test.limit.input",
+      "fs.allowed-fallback-filesystems",
+      "fs.file.limit.input",
+      "fs.test.limit.output",
+      "fs.test-entropy.limit.output",
+      "fs.default-scheme",
+      "fs.test-entropy.limit.input",
+      "fs.test-entropy.limit.total",
+      "fs.file.limit.output",
+      "fs.file.limit.total",
+      "fs.test.limit.total"
+    ],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testGetStatisticsMultipleFilesNoCachedVersion": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testSetPath": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testSetPathNullPath": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testGetStatsIgnoredUnderscoreFiles": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testSetFileViaConfigurationEmptyPath": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testSetPathsNull": [
+      "taskmanager.runtime.fs-timeout"
+    ],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testSetPathsMulti": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testGetStatisticsMultipleOneFileWithCachedVersion": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testGetStatisticsMultipleFilesMultiplePathsNoCachedVersion": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testReadMultiplePatterns": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testGetStatisticsMultipleFilesWithCachedVersion": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testSetPathsSingleWithMulti": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testGetStatisticsMultipleNonExistingFile": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testGetStatisticsOneFileWithCachedVersion": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testSetPathsOnePathNull": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testFileInputFormatWithCompressionFromFileSource": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testToStringWithoutPathSet": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testGetPathWithoutSettingFirst": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testCreateInputSplitSingleFile": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testGetStatisticsMultipleOneFileNoCachedVersion": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testGetStatisticsNonExistingFile": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testCreateInputSplitMultiFiles": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testGetStatisticsOneFileNoCachedVersion": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testIgnoredUnderscoreFiles": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testFileInputFormatWithCompression": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testSetPathOnMulti": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testSetPathNullString": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testExcludeFiles": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testGetPathsWithoutSettingFirst": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testSetPathsEmptyArray": [],
+    "org.apache.flink.api.common.io.FileInputFormatTest_testSetFileViaConfiguration": []
+  }
+}
