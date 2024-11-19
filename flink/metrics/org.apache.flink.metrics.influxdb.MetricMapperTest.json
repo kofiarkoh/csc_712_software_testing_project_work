@@ -1,0 +1,1 @@
+{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.metrics.influxdb.MetricMapperTest_testMapMeter":[],"org.apache.flink.metrics.influxdb.MetricMapperTest_testMapHistogram":[],"org.apache.flink.metrics.influxdb.MetricMapperTest_testMapGauge":[],"org.apache.flink.metrics.influxdb.MetricMapperTest_testMapCounter":[]}}
