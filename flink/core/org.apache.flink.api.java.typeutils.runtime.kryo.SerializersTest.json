@@ -1,0 +1,1 @@
+{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.runtime.kryo.SerializersTest_testTypeRegistration":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.SerializersTest_testTypeRegistrationFromTypeInfo":["pipeline.force-kryo"]}}

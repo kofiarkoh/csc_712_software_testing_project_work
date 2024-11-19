@@ -1,0 +1,1 @@
+{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.configuration.RestOptionsTest_testBindAddressSecondDeprecatedKey":["rest.bind-address"],"org.apache.flink.configuration.RestOptionsTest_testBindAddressFirstDeprecatedKey":["rest.bind-address"]}}

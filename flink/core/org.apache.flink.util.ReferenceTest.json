@@ -1,0 +1,1 @@
+{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.util.ReferenceTest_testOwnedReferenceReturnsSomeOwned":[],"org.apache.flink.util.ReferenceTest_testBorrowedReferenceReturnsEmptyOwned":[],"org.apache.flink.util.ReferenceTest_testBorrowedReferenceIsNotOwned":[],"org.apache.flink.util.ReferenceTest_testOwnedReferenceIsOwned":[]}}

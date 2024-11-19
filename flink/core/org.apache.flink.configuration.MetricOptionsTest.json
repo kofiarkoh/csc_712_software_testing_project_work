@@ -1,0 +1,1 @@
+{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.configuration.MetricOptionsTest_testForReporterWrite":["metrics.reporter.my_reporter.option"],"org.apache.flink.configuration.MetricOptionsTest_testForReporterRead":["metrics.reporter.my_reporter.option"]}}
