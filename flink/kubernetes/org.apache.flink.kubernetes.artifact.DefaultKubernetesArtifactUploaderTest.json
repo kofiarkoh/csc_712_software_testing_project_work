@@ -1,1 +1,58 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.kubernetes.artifact.DefaultKubernetesArtifactUploaderTest_testMissingTargetConf":["fs.dummyfs.limit.input","fs.allowed-fallback-filesystems","fs.file.limit.input","fs.test.limit.output","fs.default-scheme","fs.test-entropy.limit.total","kubernetes.artifacts.local-upload-target","fs.file.limit.output","fs.dummyfs.limit.total","fs.test.limit.input","fs.test-entropy.limit.output","fs.test-entropy.limit.input","fs.dummyfs.limit.output","fs.file.limit.total","fs.test.limit.total"],"org.apache.flink.kubernetes.artifact.DefaultKubernetesArtifactUploaderTest_testUploadNoOverwrite":["kubernetes.artifacts.local-upload-target","kubernetes.artifacts.local-upload-overwrite"],"org.apache.flink.kubernetes.artifact.DefaultKubernetesArtifactUploaderTest_testUploadOverwrite":["kubernetes.artifacts.local-upload-target","kubernetes.artifacts.local-upload-overwrite"],"org.apache.flink.kubernetes.artifact.DefaultKubernetesArtifactUploaderTest_testInvalidJobJar":["pipeline.jars","kubernetes.artifacts.local-upload-enabled"],"org.apache.flink.kubernetes.artifact.DefaultKubernetesArtifactUploaderTest_testUploadAllWithAdditionalArtifacts":["pipeline.jars","kubernetes.artifacts.local-upload-enabled","kubernetes.artifacts.local-upload-target","user.artifacts.artifact-list","kubernetes.artifacts.local-upload-overwrite"],"org.apache.flink.kubernetes.artifact.DefaultKubernetesArtifactUploaderTest_testUpdateConfig":["user.artifacts.artifact-list"],"org.apache.flink.kubernetes.artifact.DefaultKubernetesArtifactUploaderTest_testRemoteUri":[],"org.apache.flink.kubernetes.artifact.DefaultKubernetesArtifactUploaderTest_testNoUpdateConfig":["user.artifacts.artifact-list"],"org.apache.flink.kubernetes.artifact.DefaultKubernetesArtifactUploaderTest_testUploadAllWithOneJobJar":["pipeline.jars","kubernetes.artifacts.local-upload-enabled","kubernetes.artifacts.local-upload-target","kubernetes.artifacts.local-upload-overwrite"],"org.apache.flink.kubernetes.artifact.DefaultKubernetesArtifactUploaderTest_testUpload":["kubernetes.artifacts.local-upload-target","kubernetes.artifacts.local-upload-overwrite"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.kubernetes.artifact.DefaultKubernetesArtifactUploaderTest_testMissingTargetConf": [
+      "fs.dummyfs.limit.input",
+      "fs.allowed-fallback-filesystems",
+      "fs.file.limit.input",
+      "fs.test.limit.output",
+      "fs.default-scheme",
+      "fs.test-entropy.limit.total",
+      "kubernetes.artifacts.local-upload-target",
+      "fs.file.limit.output",
+      "fs.dummyfs.limit.total",
+      "fs.test.limit.input",
+      "fs.test-entropy.limit.output",
+      "fs.test-entropy.limit.input",
+      "fs.dummyfs.limit.output",
+      "fs.file.limit.total",
+      "fs.test.limit.total"
+    ],
+    "org.apache.flink.kubernetes.artifact.DefaultKubernetesArtifactUploaderTest_testUploadNoOverwrite": [
+      "kubernetes.artifacts.local-upload-target",
+      "kubernetes.artifacts.local-upload-overwrite"
+    ],
+    "org.apache.flink.kubernetes.artifact.DefaultKubernetesArtifactUploaderTest_testUploadOverwrite": [
+      "kubernetes.artifacts.local-upload-target",
+      "kubernetes.artifacts.local-upload-overwrite"
+    ],
+    "org.apache.flink.kubernetes.artifact.DefaultKubernetesArtifactUploaderTest_testInvalidJobJar": [
+      "pipeline.jars",
+      "kubernetes.artifacts.local-upload-enabled"
+    ],
+    "org.apache.flink.kubernetes.artifact.DefaultKubernetesArtifactUploaderTest_testUploadAllWithAdditionalArtifacts": [
+      "pipeline.jars",
+      "kubernetes.artifacts.local-upload-enabled",
+      "kubernetes.artifacts.local-upload-target",
+      "user.artifacts.artifact-list",
+      "kubernetes.artifacts.local-upload-overwrite"
+    ],
+    "org.apache.flink.kubernetes.artifact.DefaultKubernetesArtifactUploaderTest_testUpdateConfig": [
+      "user.artifacts.artifact-list"
+    ],
+    "org.apache.flink.kubernetes.artifact.DefaultKubernetesArtifactUploaderTest_testRemoteUri": [],
+    "org.apache.flink.kubernetes.artifact.DefaultKubernetesArtifactUploaderTest_testNoUpdateConfig": [
+      "user.artifacts.artifact-list"
+    ],
+    "org.apache.flink.kubernetes.artifact.DefaultKubernetesArtifactUploaderTest_testUploadAllWithOneJobJar": [
+      "pipeline.jars",
+      "kubernetes.artifacts.local-upload-enabled",
+      "kubernetes.artifacts.local-upload-target",
+      "kubernetes.artifacts.local-upload-overwrite"
+    ],
+    "org.apache.flink.kubernetes.artifact.DefaultKubernetesArtifactUploaderTest_testUpload": [
+      "kubernetes.artifacts.local-upload-target",
+      "kubernetes.artifacts.local-upload-overwrite"
+    ]
+  }
+}

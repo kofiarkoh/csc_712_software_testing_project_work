@@ -1,1 +1,70 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.kubernetes.kubeclient.decorators.FlinkConfMountDecoratorTest_testDecoratedFlinkPodWithLogback":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.flink.conf.dir","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type","kubernetes.cluster-id"],"org.apache.flink.kubernetes.kubeclient.decorators.FlinkConfMountDecoratorTest_testWhetherPodOrContainerIsDecorated":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.flink.conf.dir","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type","kubernetes.cluster-id"],"org.apache.flink.kubernetes.kubeclient.decorators.FlinkConfMountDecoratorTest_testDecoratedFlinkPodWithLog4j":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.flink.conf.dir","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type","kubernetes.cluster-id"],"org.apache.flink.kubernetes.kubeclient.decorators.FlinkConfMountDecoratorTest_testDecoratedFlinkContainer":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.flink.conf.dir","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type","kubernetes.cluster-id"],"org.apache.flink.kubernetes.kubeclient.decorators.FlinkConfMountDecoratorTest_testDecoratedFlinkPodWithLog4jAndLogback":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.flink.conf.dir","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type","kubernetes.cluster-id"],"org.apache.flink.kubernetes.kubeclient.decorators.FlinkConfMountDecoratorTest_testConfigMap":["kubernetes.transactional-operation.max-retry-delay","kubernetes.config.file","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.flink.conf.dir","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type","kubernetes.cluster-id","$internal.deployment.config-dir"],"org.apache.flink.kubernetes.kubeclient.decorators.FlinkConfMountDecoratorTest_testDecoratedFlinkPodWithoutLog4jAndLogback":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.flink.conf.dir","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type","kubernetes.cluster-id"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.kubernetes.kubeclient.decorators.FlinkConfMountDecoratorTest_testDecoratedFlinkPodWithLogback": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.flink.conf.dir",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "kubernetes.cluster-id"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.decorators.FlinkConfMountDecoratorTest_testWhetherPodOrContainerIsDecorated": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.flink.conf.dir",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "kubernetes.cluster-id"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.decorators.FlinkConfMountDecoratorTest_testDecoratedFlinkPodWithLog4j": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.flink.conf.dir",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "kubernetes.cluster-id"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.decorators.FlinkConfMountDecoratorTest_testDecoratedFlinkContainer": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.flink.conf.dir",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "kubernetes.cluster-id"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.decorators.FlinkConfMountDecoratorTest_testDecoratedFlinkPodWithLog4jAndLogback": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.flink.conf.dir",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "kubernetes.cluster-id"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.decorators.FlinkConfMountDecoratorTest_testConfigMap": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.config.file",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.flink.conf.dir",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "kubernetes.cluster-id",
+      "$internal.deployment.config-dir"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.decorators.FlinkConfMountDecoratorTest_testDecoratedFlinkPodWithoutLog4jAndLogback": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.flink.conf.dir",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "kubernetes.cluster-id"
+    ]
+  }
+}

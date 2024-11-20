@@ -1,1 +1,44 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.kubernetes.kubeclient.decorators.CmdJobManagerDecoratorTest_testUnsupportedDeploymentTargetShouldFail":["kubernetes.transactional-operation.max-retry-delay","kubernetes.entry.path","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type","execution.target"],"org.apache.flink.kubernetes.kubeclient.decorators.CmdJobManagerDecoratorTest_testContainerIsDecorated":["kubernetes.transactional-operation.max-retry-delay","kubernetes.entry.path","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type","execution.target","kubernetes.jobmanager.entrypoint.args"],"org.apache.flink.kubernetes.kubeclient.decorators.CmdJobManagerDecoratorTest_testApplicationClusterCommandsAndArgs":["kubernetes.transactional-operation.max-retry-delay","kubernetes.entry.path","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type","execution.target","kubernetes.jobmanager.entrypoint.args"],"org.apache.flink.kubernetes.kubeclient.decorators.CmdJobManagerDecoratorTest_testSessionClusterCommandsAndArgs":["kubernetes.transactional-operation.max-retry-delay","kubernetes.entry.path","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type","execution.target","kubernetes.jobmanager.entrypoint.args"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.kubernetes.kubeclient.decorators.CmdJobManagerDecoratorTest_testUnsupportedDeploymentTargetShouldFail": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.entry.path",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "execution.target"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.decorators.CmdJobManagerDecoratorTest_testContainerIsDecorated": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.entry.path",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "execution.target",
+      "kubernetes.jobmanager.entrypoint.args"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.decorators.CmdJobManagerDecoratorTest_testApplicationClusterCommandsAndArgs": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.entry.path",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "execution.target",
+      "kubernetes.jobmanager.entrypoint.args"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.decorators.CmdJobManagerDecoratorTest_testSessionClusterCommandsAndArgs": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.entry.path",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "execution.target",
+      "kubernetes.jobmanager.entrypoint.args"
+    ]
+  }
+}

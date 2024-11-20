@@ -1,1 +1,10 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.kubernetes.entrypoint.KubernetesApplicationClusterEntrypointTest_testGenerateJarDir":["kubernetes.namespace","user.artifacts.base-dir","kubernetes.cluster-id"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.kubernetes.entrypoint.KubernetesApplicationClusterEntrypointTest_testGenerateJarDir": [
+      "kubernetes.namespace",
+      "user.artifacts.base-dir",
+      "kubernetes.cluster-id"
+    ]
+  }
+}

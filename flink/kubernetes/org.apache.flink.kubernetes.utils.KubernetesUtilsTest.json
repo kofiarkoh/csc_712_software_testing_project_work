@@ -1,1 +1,114 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testLoadPodFromTemplateWithNonExistPathShouldFail":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testLoadPodFromTemplateWithNoMainContainerShouldReturnEmptyMainContainer":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testCheckWithFixedPort":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type","high-availability.jobmanager.port"],"org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testLoadPodFromTemplateAndCheckSideCarContainer":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testParsePortNull":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type","test.port"],"org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testResolveUserDefinedValueWithDefinedInPodTemplateAndConfigOptionExplicitlySet":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testCheckWithDynamicPort":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type","high-availability.jobmanager.port"],"org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testLoadPodFromNoSpecTemplate":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testResolveUserDefinedValueWithDefinedInPodTemplateAndConfigOptionNotSet":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testResolveUserDefinedValueWithNotDefinedInPodTemplate":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testLoadPodFromTemplateAndCheckInitContainer":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testParsePortRange":["kubernetes.transactional-operation.max-retry-delay","blob.server.port","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testLoadPodFromTemplateAndCheckVolumes":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testLoadPodFromTemplateAndCheckMainContainer":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testLoadPodFromTemplateAndCheckMetaData":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testLoadPodFromTemplateWithNonExistPathShouldFail": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testLoadPodFromTemplateWithNoMainContainerShouldReturnEmptyMainContainer": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testCheckWithFixedPort": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "high-availability.jobmanager.port"
+    ],
+    "org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testLoadPodFromTemplateAndCheckSideCarContainer": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testParsePortNull": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "test.port"
+    ],
+    "org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testResolveUserDefinedValueWithDefinedInPodTemplateAndConfigOptionExplicitlySet": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testCheckWithDynamicPort": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "high-availability.jobmanager.port"
+    ],
+    "org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testLoadPodFromNoSpecTemplate": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testResolveUserDefinedValueWithDefinedInPodTemplateAndConfigOptionNotSet": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testResolveUserDefinedValueWithNotDefinedInPodTemplate": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testLoadPodFromTemplateAndCheckInitContainer": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testParsePortRange": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "blob.server.port",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testLoadPodFromTemplateAndCheckVolumes": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testLoadPodFromTemplateAndCheckMainContainer": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.utils.KubernetesUtilsTest_testLoadPodFromTemplateAndCheckMetaData": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ]
+  }
+}

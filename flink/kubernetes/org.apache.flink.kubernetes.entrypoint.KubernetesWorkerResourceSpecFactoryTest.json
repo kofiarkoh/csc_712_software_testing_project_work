@@ -1,1 +1,16 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.kubernetes.entrypoint.KubernetesWorkerResourceSpecFactoryTest_testGetCpuCoresKubernetesOption":["kubernetes.taskmanager.cpu.amount"],"org.apache.flink.kubernetes.entrypoint.KubernetesWorkerResourceSpecFactoryTest_testGetCpuCoresCommonOption":["kubernetes.taskmanager.cpu.amount","taskmanager.cpu.cores"],"org.apache.flink.kubernetes.entrypoint.KubernetesWorkerResourceSpecFactoryTest_testGetCpuCoresNumSlots":["kubernetes.taskmanager.cpu.amount","taskmanager.numberOfTaskSlots"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.kubernetes.entrypoint.KubernetesWorkerResourceSpecFactoryTest_testGetCpuCoresKubernetesOption": [
+      "kubernetes.taskmanager.cpu.amount"
+    ],
+    "org.apache.flink.kubernetes.entrypoint.KubernetesWorkerResourceSpecFactoryTest_testGetCpuCoresCommonOption": [
+      "kubernetes.taskmanager.cpu.amount",
+      "taskmanager.cpu.cores"
+    ],
+    "org.apache.flink.kubernetes.entrypoint.KubernetesWorkerResourceSpecFactoryTest_testGetCpuCoresNumSlots": [
+      "kubernetes.taskmanager.cpu.amount",
+      "taskmanager.numberOfTaskSlots"
+    ]
+  }
+}

@@ -1,1 +1,38 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.kubernetes.kubeclient.decorators.InitTaskManagerDecoratorAccountTest_testPodServiceAccountName":["kubernetes.taskmanager.service-account","kubernetes.hostnetwork.enabled","kubernetes.transactional-operation.max-retries","taskmanager.memory.jvm-metaspace.size","taskmanager.memory.task.off-heap.size","taskmanager.cpu.cores","external-resources","kubernetes.cluster-id","taskmanager.memory.jvm-overhead.min","taskmanager.memory.framework.off-heap.size","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","taskmanager.numberOfTaskSlots","kubernetes.taskmanager.memory.limit-factor","kubernetes.taskmanager.cpu.limit-factor","taskmanager.memory.jvm-overhead.max","kubernetes.container.image.ref","kubernetes.transactional-operation.max-retry-delay","taskmanager.memory.process.size","taskmanager.memory.network.min","taskmanager.memory.network.fraction","kubernetes.flink.log.dir","kubernetes.container.image.pull-secrets","taskmanager.rpc.port","kubernetes.container.image.pull-policy","taskmanager.memory.jvm-overhead.fraction","taskmanager.memory.network.max","kubernetes.node-name-label","taskmanager.memory.framework.heap.size","kubernetes.rest-service.exposed.node-port-address-type","taskmanager.memory.managed.fraction"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.kubernetes.kubeclient.decorators.InitTaskManagerDecoratorAccountTest_testPodServiceAccountName": [
+      "kubernetes.taskmanager.service-account",
+      "kubernetes.hostnetwork.enabled",
+      "kubernetes.transactional-operation.max-retries",
+      "taskmanager.memory.jvm-metaspace.size",
+      "taskmanager.memory.task.off-heap.size",
+      "taskmanager.cpu.cores",
+      "external-resources",
+      "kubernetes.cluster-id",
+      "taskmanager.memory.jvm-overhead.min",
+      "taskmanager.memory.framework.off-heap.size",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "taskmanager.numberOfTaskSlots",
+      "kubernetes.taskmanager.memory.limit-factor",
+      "kubernetes.taskmanager.cpu.limit-factor",
+      "taskmanager.memory.jvm-overhead.max",
+      "kubernetes.container.image.ref",
+      "kubernetes.transactional-operation.max-retry-delay",
+      "taskmanager.memory.process.size",
+      "taskmanager.memory.network.min",
+      "taskmanager.memory.network.fraction",
+      "kubernetes.flink.log.dir",
+      "kubernetes.container.image.pull-secrets",
+      "taskmanager.rpc.port",
+      "kubernetes.container.image.pull-policy",
+      "taskmanager.memory.jvm-overhead.fraction",
+      "taskmanager.memory.network.max",
+      "kubernetes.node-name-label",
+      "taskmanager.memory.framework.heap.size",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "taskmanager.memory.managed.fraction"
+    ]
+  }
+}

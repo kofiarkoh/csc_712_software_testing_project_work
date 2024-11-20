@@ -1,1 +1,143 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testRemoveFailedShouldNotDiscardState":["high-availability.kubernetes.leader-election.retry-period","kubernetes.cluster-id","high-availability.kubernetes.leader-election.lease-duration","high-availability.kubernetes.leader-election.renew-deadline"],"org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testReplaceWithNoLeadershipAndDiscardState":["high-availability.kubernetes.leader-election.retry-period","kubernetes.cluster-id","high-availability.kubernetes.leader-election.lease-duration","high-availability.kubernetes.leader-election.renew-deadline"],"org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testRemoveAllHandles":["high-availability.kubernetes.leader-election.retry-period","kubernetes.cluster-id","high-availability.kubernetes.leader-election.lease-duration","high-availability.kubernetes.leader-election.renew-deadline"],"org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testReplaceWithKeyNotExist":["high-availability.kubernetes.leader-election.retry-period","kubernetes.cluster-id","high-availability.kubernetes.leader-election.lease-duration","high-availability.kubernetes.leader-election.renew-deadline"],"org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testAdd":["high-availability.kubernetes.leader-election.retry-period","kubernetes.cluster-id","high-availability.kubernetes.leader-election.lease-duration","high-availability.kubernetes.leader-election.renew-deadline"],"org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testGetNonExistingKey":["high-availability.kubernetes.leader-election.retry-period","kubernetes.cluster-id","high-availability.kubernetes.leader-election.lease-duration","high-availability.kubernetes.leader-election.renew-deadline"],"org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testAddFailedWhenConfigMapNotExistAndDiscardState":["high-availability.kubernetes.leader-election.retry-period","kubernetes.cluster-id","high-availability.kubernetes.leader-election.lease-duration","high-availability.kubernetes.leader-election.renew-deadline"],"org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testReplace":["high-availability.kubernetes.leader-election.retry-period","kubernetes.cluster-id","high-availability.kubernetes.leader-election.lease-duration","high-availability.kubernetes.leader-election.renew-deadline"],"org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testRemoveOfNonExistingState":["high-availability.kubernetes.leader-election.retry-period","kubernetes.cluster-id","high-availability.kubernetes.leader-election.lease-duration","high-availability.kubernetes.leader-election.renew-deadline"],"org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testAddWithPossiblyInconsistentStateHandling":["high-availability.kubernetes.leader-election.retry-period","kubernetes.cluster-id","high-availability.kubernetes.leader-election.lease-duration","high-availability.kubernetes.leader-election.renew-deadline"],"org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testReplaceFailedWithPossiblyInconsistentState":["high-availability.kubernetes.leader-election.retry-period","kubernetes.cluster-id","high-availability.kubernetes.leader-election.lease-duration","high-availability.kubernetes.leader-election.renew-deadline"],"org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testGetAll":["high-availability.kubernetes.leader-election.retry-period","kubernetes.cluster-id","high-availability.kubernetes.leader-election.lease-duration","high-availability.kubernetes.leader-election.renew-deadline"],"org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testRemove":["high-availability.kubernetes.leader-election.retry-period","kubernetes.cluster-id","high-availability.kubernetes.leader-election.lease-duration","high-availability.kubernetes.leader-election.renew-deadline"],"org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testAddAndLockShouldNotThrowAlreadyExistExceptionWithSameContents":["high-availability.kubernetes.leader-election.retry-period","kubernetes.cluster-id","high-availability.kubernetes.leader-election.lease-duration","high-availability.kubernetes.leader-election.renew-deadline"],"org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testReleaseAndTryRemoveIsIdempotent":["high-availability.kubernetes.leader-election.retry-period","kubernetes.cluster-id","high-availability.kubernetes.leader-election.lease-duration","high-availability.kubernetes.leader-election.renew-deadline"],"org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testGetAndExist":["high-availability.kubernetes.leader-election.retry-period","kubernetes.cluster-id","high-availability.kubernetes.leader-election.lease-duration","high-availability.kubernetes.leader-election.renew-deadline"],"org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testReplaceFailedAndDiscardState":["high-availability.kubernetes.leader-election.retry-period","kubernetes.cluster-id","high-availability.kubernetes.leader-election.lease-duration","high-availability.kubernetes.leader-election.renew-deadline"],"org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testExistsWithDeletingEntry":["high-availability.kubernetes.leader-election.retry-period","kubernetes.cluster-id","high-availability.kubernetes.leader-election.lease-duration","high-availability.kubernetes.leader-election.renew-deadline"],"org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testAddAndLockWithDeletingEntry":["high-availability.kubernetes.leader-election.retry-period","kubernetes.cluster-id","high-availability.kubernetes.leader-election.lease-duration","high-availability.kubernetes.leader-election.renew-deadline"],"org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testAddAndLockWithExistingKey":["high-availability.kubernetes.leader-election.retry-period","kubernetes.cluster-id","high-availability.kubernetes.leader-election.lease-duration","high-availability.kubernetes.leader-election.renew-deadline"],"org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testReplaceWithDeletingKeyWithFailingDiscard":["high-availability.kubernetes.leader-election.retry-period","kubernetes.cluster-id","high-availability.kubernetes.leader-election.lease-duration","high-availability.kubernetes.leader-election.renew-deadline"],"org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testGetAllHandles":["high-availability.kubernetes.leader-election.retry-period","kubernetes.cluster-id","high-availability.kubernetes.leader-election.lease-duration","high-availability.kubernetes.leader-election.renew-deadline"],"org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testReplaceWithDeletingKey":["high-availability.kubernetes.leader-election.retry-period","kubernetes.cluster-id","high-availability.kubernetes.leader-election.lease-duration","high-availability.kubernetes.leader-election.renew-deadline"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testRemoveFailedShouldNotDiscardState": [
+      "high-availability.kubernetes.leader-election.retry-period",
+      "kubernetes.cluster-id",
+      "high-availability.kubernetes.leader-election.lease-duration",
+      "high-availability.kubernetes.leader-election.renew-deadline"
+    ],
+    "org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testReplaceWithNoLeadershipAndDiscardState": [
+      "high-availability.kubernetes.leader-election.retry-period",
+      "kubernetes.cluster-id",
+      "high-availability.kubernetes.leader-election.lease-duration",
+      "high-availability.kubernetes.leader-election.renew-deadline"
+    ],
+    "org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testRemoveAllHandles": [
+      "high-availability.kubernetes.leader-election.retry-period",
+      "kubernetes.cluster-id",
+      "high-availability.kubernetes.leader-election.lease-duration",
+      "high-availability.kubernetes.leader-election.renew-deadline"
+    ],
+    "org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testReplaceWithKeyNotExist": [
+      "high-availability.kubernetes.leader-election.retry-period",
+      "kubernetes.cluster-id",
+      "high-availability.kubernetes.leader-election.lease-duration",
+      "high-availability.kubernetes.leader-election.renew-deadline"
+    ],
+    "org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testAdd": [
+      "high-availability.kubernetes.leader-election.retry-period",
+      "kubernetes.cluster-id",
+      "high-availability.kubernetes.leader-election.lease-duration",
+      "high-availability.kubernetes.leader-election.renew-deadline"
+    ],
+    "org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testGetNonExistingKey": [
+      "high-availability.kubernetes.leader-election.retry-period",
+      "kubernetes.cluster-id",
+      "high-availability.kubernetes.leader-election.lease-duration",
+      "high-availability.kubernetes.leader-election.renew-deadline"
+    ],
+    "org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testAddFailedWhenConfigMapNotExistAndDiscardState": [
+      "high-availability.kubernetes.leader-election.retry-period",
+      "kubernetes.cluster-id",
+      "high-availability.kubernetes.leader-election.lease-duration",
+      "high-availability.kubernetes.leader-election.renew-deadline"
+    ],
+    "org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testReplace": [
+      "high-availability.kubernetes.leader-election.retry-period",
+      "kubernetes.cluster-id",
+      "high-availability.kubernetes.leader-election.lease-duration",
+      "high-availability.kubernetes.leader-election.renew-deadline"
+    ],
+    "org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testRemoveOfNonExistingState": [
+      "high-availability.kubernetes.leader-election.retry-period",
+      "kubernetes.cluster-id",
+      "high-availability.kubernetes.leader-election.lease-duration",
+      "high-availability.kubernetes.leader-election.renew-deadline"
+    ],
+    "org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testAddWithPossiblyInconsistentStateHandling": [
+      "high-availability.kubernetes.leader-election.retry-period",
+      "kubernetes.cluster-id",
+      "high-availability.kubernetes.leader-election.lease-duration",
+      "high-availability.kubernetes.leader-election.renew-deadline"
+    ],
+    "org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testReplaceFailedWithPossiblyInconsistentState": [
+      "high-availability.kubernetes.leader-election.retry-period",
+      "kubernetes.cluster-id",
+      "high-availability.kubernetes.leader-election.lease-duration",
+      "high-availability.kubernetes.leader-election.renew-deadline"
+    ],
+    "org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testGetAll": [
+      "high-availability.kubernetes.leader-election.retry-period",
+      "kubernetes.cluster-id",
+      "high-availability.kubernetes.leader-election.lease-duration",
+      "high-availability.kubernetes.leader-election.renew-deadline"
+    ],
+    "org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testRemove": [
+      "high-availability.kubernetes.leader-election.retry-period",
+      "kubernetes.cluster-id",
+      "high-availability.kubernetes.leader-election.lease-duration",
+      "high-availability.kubernetes.leader-election.renew-deadline"
+    ],
+    "org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testAddAndLockShouldNotThrowAlreadyExistExceptionWithSameContents": [
+      "high-availability.kubernetes.leader-election.retry-period",
+      "kubernetes.cluster-id",
+      "high-availability.kubernetes.leader-election.lease-duration",
+      "high-availability.kubernetes.leader-election.renew-deadline"
+    ],
+    "org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testReleaseAndTryRemoveIsIdempotent": [
+      "high-availability.kubernetes.leader-election.retry-period",
+      "kubernetes.cluster-id",
+      "high-availability.kubernetes.leader-election.lease-duration",
+      "high-availability.kubernetes.leader-election.renew-deadline"
+    ],
+    "org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testGetAndExist": [
+      "high-availability.kubernetes.leader-election.retry-period",
+      "kubernetes.cluster-id",
+      "high-availability.kubernetes.leader-election.lease-duration",
+      "high-availability.kubernetes.leader-election.renew-deadline"
+    ],
+    "org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testReplaceFailedAndDiscardState": [
+      "high-availability.kubernetes.leader-election.retry-period",
+      "kubernetes.cluster-id",
+      "high-availability.kubernetes.leader-election.lease-duration",
+      "high-availability.kubernetes.leader-election.renew-deadline"
+    ],
+    "org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testExistsWithDeletingEntry": [
+      "high-availability.kubernetes.leader-election.retry-period",
+      "kubernetes.cluster-id",
+      "high-availability.kubernetes.leader-election.lease-duration",
+      "high-availability.kubernetes.leader-election.renew-deadline"
+    ],
+    "org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testAddAndLockWithDeletingEntry": [
+      "high-availability.kubernetes.leader-election.retry-period",
+      "kubernetes.cluster-id",
+      "high-availability.kubernetes.leader-election.lease-duration",
+      "high-availability.kubernetes.leader-election.renew-deadline"
+    ],
+    "org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testAddAndLockWithExistingKey": [
+      "high-availability.kubernetes.leader-election.retry-period",
+      "kubernetes.cluster-id",
+      "high-availability.kubernetes.leader-election.lease-duration",
+      "high-availability.kubernetes.leader-election.renew-deadline"
+    ],
+    "org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testReplaceWithDeletingKeyWithFailingDiscard": [
+      "high-availability.kubernetes.leader-election.retry-period",
+      "kubernetes.cluster-id",
+      "high-availability.kubernetes.leader-election.lease-duration",
+      "high-availability.kubernetes.leader-election.renew-deadline"
+    ],
+    "org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testGetAllHandles": [
+      "high-availability.kubernetes.leader-election.retry-period",
+      "kubernetes.cluster-id",
+      "high-availability.kubernetes.leader-election.lease-duration",
+      "high-availability.kubernetes.leader-election.renew-deadline"
+    ],
+    "org.apache.flink.kubernetes.highavailability.KubernetesStateHandleStoreTest_testReplaceWithDeletingKey": [
+      "high-availability.kubernetes.leader-election.retry-period",
+      "kubernetes.cluster-id",
+      "high-availability.kubernetes.leader-election.lease-duration",
+      "high-availability.kubernetes.leader-election.renew-deadline"
+    ]
+  }
+}

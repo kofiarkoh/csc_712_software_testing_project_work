@@ -1,1 +1,16 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.kubernetes.configuration.KubernetesDeploymentTargetTest_testThatAnInvalidOptionIsInvalid":[],"org.apache.flink.kubernetes.configuration.KubernetesDeploymentTargetTest_testCorrectInstantiationFromConfiguration":["execution.target"],"org.apache.flink.kubernetes.configuration.KubernetesDeploymentTargetTest_testNullInstantiationFromConfiguration":["execution.target"],"org.apache.flink.kubernetes.configuration.KubernetesDeploymentTargetTest_testInvalidInstantiationFromConfiguration":["execution.target"],"org.apache.flink.kubernetes.configuration.KubernetesDeploymentTargetTest_testThatAValidOptionIsValid":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.kubernetes.configuration.KubernetesDeploymentTargetTest_testThatAnInvalidOptionIsInvalid": [],
+    "org.apache.flink.kubernetes.configuration.KubernetesDeploymentTargetTest_testCorrectInstantiationFromConfiguration": [
+      "execution.target"
+    ],
+    "org.apache.flink.kubernetes.configuration.KubernetesDeploymentTargetTest_testNullInstantiationFromConfiguration": [
+      "execution.target"
+    ],
+    "org.apache.flink.kubernetes.configuration.KubernetesDeploymentTargetTest_testInvalidInstantiationFromConfiguration": [
+      "execution.target"
+    ],
+    "org.apache.flink.kubernetes.configuration.KubernetesDeploymentTargetTest_testThatAValidOptionIsValid": []
+  }
+}

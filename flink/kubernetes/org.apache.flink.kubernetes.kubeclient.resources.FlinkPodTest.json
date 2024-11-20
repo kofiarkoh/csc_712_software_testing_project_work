@@ -1,1 +1,12 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.kubernetes.kubeclient.resources.FlinkPodTest_testCopyFlinkPod":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.kubernetes.kubeclient.resources.FlinkPodTest_testCopyFlinkPod": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ]
+  }
+}

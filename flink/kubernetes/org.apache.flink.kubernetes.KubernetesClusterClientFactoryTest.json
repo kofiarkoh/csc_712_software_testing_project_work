@@ -1,1 +1,8 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.kubernetes.KubernetesClusterClientFactoryTest_testKubernetesClusterClientFactoryDiscoveryWithSessionExecutor":["execution.target"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.kubernetes.KubernetesClusterClientFactoryTest_testKubernetesClusterClientFactoryDiscoveryWithSessionExecutor": [
+      "execution.target"
+    ]
+  }
+}

@@ -1,1 +1,191 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetBlobServerPortException2":["kubernetes.transactional-operation.max-retry-delay","blob.server.port","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetBlobServerPortException1":["kubernetes.transactional-operation.max-retry-delay","blob.server.port","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetJobManagerCPULimitFactor":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type","kubernetes.jobmanager.cpu.limit-factor"],"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetEntrypointMainClass":["kubernetes.transactional-operation.max-retry-delay","kubernetes.internal.jobmanager.entrypoint.class","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetRestPort":["kubernetes.transactional-operation.max-retry-delay","rest.port","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetJobManagerCPU":["kubernetes.transactional-operation.max-retry-delay","kubernetes.jobmanager.cpu.amount","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetEnvironments":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetReplicasWithTwoShouldFailWhenHAIsNotEnabled":["kubernetes.transactional-operation.max-retry-delay","kubernetes.jobmanager.replicas","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetRestServiceAnnotations":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetEmptyAnnotations":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetBlobServerPort":["kubernetes.transactional-operation.max-retry-delay","blob.server.port","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetJobManagerMemoryMB":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetRpcPort":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type","jobmanager.rpc.port"],"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetServiceAccountShouldReturnDefaultIfNotExplicitlySet":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type","kubernetes.jobmanager.service-account"],"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetReplicasWithInvalidValue":["kubernetes.transactional-operation.max-retry-delay","kubernetes.jobmanager.replicas","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetServiceAccountFallback":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type","kubernetes.jobmanager.service-account"],"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetInternalServiceAnnotations":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetReplicas":["kubernetes.transactional-operation.max-retry-delay","kubernetes.jobmanager.replicas","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetServiceAccount":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type","kubernetes.jobmanager.service-account"],"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetJobManagerMemoryLimitFactor":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type","kubernetes.jobmanager.memory.limit-factor"],"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetJobManagerAnnotations":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type"],"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testPrioritizeBuiltInLabels":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type","kubernetes.cluster-id"],"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetRestServiceExposedType":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type","kubernetes.rest-service.exposed.type"],"org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetUserArtifactsBaseDir":["kubernetes.transactional-operation.max-retry-delay","kubernetes.transactional-operation.max-retries","kubernetes.namespace","kubernetes.transactional-operation.initial-retry-delay","kubernetes.rest-service.exposed.node-port-address-type","user.artifacts.base-dir"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetBlobServerPortException2": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "blob.server.port",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetBlobServerPortException1": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "blob.server.port",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetJobManagerCPULimitFactor": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "kubernetes.jobmanager.cpu.limit-factor"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetEntrypointMainClass": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.internal.jobmanager.entrypoint.class",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetRestPort": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "rest.port",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetJobManagerCPU": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.jobmanager.cpu.amount",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetEnvironments": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetReplicasWithTwoShouldFailWhenHAIsNotEnabled": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.jobmanager.replicas",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetRestServiceAnnotations": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetEmptyAnnotations": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetBlobServerPort": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "blob.server.port",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetJobManagerMemoryMB": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetRpcPort": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "jobmanager.rpc.port"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetServiceAccountShouldReturnDefaultIfNotExplicitlySet": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "kubernetes.jobmanager.service-account"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetReplicasWithInvalidValue": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.jobmanager.replicas",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetServiceAccountFallback": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "kubernetes.jobmanager.service-account"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetInternalServiceAnnotations": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetReplicas": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.jobmanager.replicas",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetServiceAccount": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "kubernetes.jobmanager.service-account"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetJobManagerMemoryLimitFactor": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "kubernetes.jobmanager.memory.limit-factor"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetJobManagerAnnotations": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testPrioritizeBuiltInLabels": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "kubernetes.cluster-id"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetRestServiceExposedType": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "kubernetes.rest-service.exposed.type"
+    ],
+    "org.apache.flink.kubernetes.kubeclient.parameters.KubernetesJobManagerParametersTest_testGetUserArtifactsBaseDir": [
+      "kubernetes.transactional-operation.max-retry-delay",
+      "kubernetes.transactional-operation.max-retries",
+      "kubernetes.namespace",
+      "kubernetes.transactional-operation.initial-retry-delay",
+      "kubernetes.rest-service.exposed.node-port-address-type",
+      "user.artifacts.base-dir"
+    ]
+  }
+}
