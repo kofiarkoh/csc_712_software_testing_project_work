@@ -1,9 +1,0 @@
-{
-  "classLevelParams": [],
-  "methodLevelParams": {
-    "org.apache.flink.api.common.state.AggregatingStateDeclarationTest_testAggregatingStateDeclarationType": [],
-    "org.apache.flink.api.common.state.AggregatingStateDeclarationTest_testAggregatingStateDeclarationFunc": [],
-    "org.apache.flink.api.common.state.AggregatingStateDeclarationTest_testAggregatingStateDeclarationDist": [],
-    "org.apache.flink.api.common.state.AggregatingStateDeclarationTest_testAggregatingStateDeclarationName": []
-  }
-}

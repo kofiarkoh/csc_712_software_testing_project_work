@@ -1,9 +1,0 @@
-{
-  "classLevelParams": [],
-  "methodLevelParams": {
-    "org.apache.flink.util.OutputTagTest_testNullRejectedWithTypeInfo": [],
-    "org.apache.flink.util.OutputTagTest_testEmptyStringRejected": [],
-    "org.apache.flink.util.OutputTagTest_testNullRejected": [],
-    "org.apache.flink.util.OutputTagTest_testEmptyStringRejectedWithTypeInfo": []
-  }
-}

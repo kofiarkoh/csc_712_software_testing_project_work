@@ -1,8 +1,0 @@
-{
-  "classLevelParams": [],
-  "methodLevelParams": {
-    "org.apache.flink.core.fs.CloseableRegistryTest_testNonBlockingClose": [],
-    "org.apache.flink.core.fs.CloseableRegistryTest_testUnregisterAndCloseAll": [],
-    "org.apache.flink.core.fs.CloseableRegistryTest_testClose": []
-  }
-}

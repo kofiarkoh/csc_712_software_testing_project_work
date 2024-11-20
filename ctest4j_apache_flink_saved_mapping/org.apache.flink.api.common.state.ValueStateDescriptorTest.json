@@ -1,9 +1,0 @@
-{
-  "classLevelParams": [],
-  "methodLevelParams": {
-    "org.apache.flink.api.common.state.ValueStateDescriptorTest_testHashCodeEquals": [],
-    "org.apache.flink.api.common.state.ValueStateDescriptorTest_testVeryLargeDefaultValue": [
-      "pipeline.force-kryo"
-    ]
-  }
-}

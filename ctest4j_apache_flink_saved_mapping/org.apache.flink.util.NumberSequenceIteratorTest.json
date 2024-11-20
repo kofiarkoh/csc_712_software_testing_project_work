@@ -1,8 +1,0 @@
-{
-  "classLevelParams": [],
-  "methodLevelParams": {
-    "org.apache.flink.util.NumberSequenceIteratorTest_testSplitRegular": [],
-    "org.apache.flink.util.NumberSequenceIteratorTest_testSplittingLargeRangesBy2": [],
-    "org.apache.flink.util.NumberSequenceIteratorTest_testSplittingTooSmallRanges": []
-  }
-}

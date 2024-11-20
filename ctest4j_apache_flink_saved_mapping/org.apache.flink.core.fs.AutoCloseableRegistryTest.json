@@ -1,7 +1,0 @@
-{
-  "classLevelParams": [],
-  "methodLevelParams": {
-    "org.apache.flink.core.fs.AutoCloseableRegistryTest_testReverseOrderOfClosing": [],
-    "org.apache.flink.core.fs.AutoCloseableRegistryTest_testSuppressedExceptions": []
-  }
-}

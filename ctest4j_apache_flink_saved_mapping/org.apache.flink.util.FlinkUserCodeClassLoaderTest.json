@@ -1,6 +1,0 @@
-{
-  "classLevelParams": [],
-  "methodLevelParams": {
-    "org.apache.flink.util.FlinkUserCodeClassLoaderTest_testExceptionHandling": []
-  }
-}

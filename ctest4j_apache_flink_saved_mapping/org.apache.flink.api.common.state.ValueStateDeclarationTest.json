@@ -1,8 +1,0 @@
-{
-  "classLevelParams": [],
-  "methodLevelParams": {
-    "org.apache.flink.api.common.state.ValueStateDeclarationTest_testValueStateDeclarationType": [],
-    "org.apache.flink.api.common.state.ValueStateDeclarationTest_testValueStateDeclarationName": [],
-    "org.apache.flink.api.common.state.ValueStateDeclarationTest_testValueStateDeclarationDistribution": []
-  }
-}

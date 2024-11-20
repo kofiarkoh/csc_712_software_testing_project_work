@@ -1,7 +1,0 @@
-{
-  "classLevelParams": [],
-  "methodLevelParams": {
-    "getPluginsDir_existingDirectory_returnsDirectoryFile": [],
-    "getPluginsDir_nonExistingDirectory_returnsEmpty": []
-  }
-}

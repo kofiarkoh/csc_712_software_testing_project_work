@@ -1,7 +1,0 @@
-{
-  "classLevelParams": [],
-  "methodLevelParams": {
-    "org.apache.flink.management.jmx.JMXServiceTest_testJMXServiceInitWithOccupiedPort": [],
-    "org.apache.flink.management.jmx.JMXServiceTest_testJMXServiceInit": []
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "classLevelParams": [],
-  "methodLevelParams": {
-    "org.apache.flink.testutils.runtime.NoFetchingInputTest_testDeserializeEmptyObject": []
-  }
-}
