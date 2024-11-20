@@ -1,0 +1,1 @@
+{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.api.datastream.JoinedStreamsTest_testSetAllowedLateness":["parallelism.default","pipeline.closure-cleaner-level"],"org.apache.flink.streaming.api.datastream.JoinedStreamsTest_testDelegateToCoGrouped":["parallelism.default","pipeline.closure-cleaner-level"]}}

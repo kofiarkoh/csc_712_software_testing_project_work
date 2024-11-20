@@ -1,0 +1,1 @@
+{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.operators.sort.LargeRecordHandlerTest_testEmptyRecordHandler":[],"org.apache.flink.runtime.operators.sort.LargeRecordHandlerTest_testRecordHandlerCompositeKey":["pipeline.object-reuse"],"org.apache.flink.runtime.operators.sort.LargeRecordHandlerTest_testRecordHandlerSingleKey":["pipeline.object-reuse"]}}

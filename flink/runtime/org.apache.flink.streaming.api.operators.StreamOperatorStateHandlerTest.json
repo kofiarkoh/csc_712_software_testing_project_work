@@ -1,0 +1,1 @@
+{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.api.operators.StreamOperatorStateHandlerTest_testFailingBackendSnapshotMethod":["metrics.scope.tm","metrics.scope.tm-job","metrics.scope.operator","metrics.scope.jm","metrics.scope.jm-job","metrics.scope.jm-operator","metrics.scope.task","execution.checkpointing.snapshot-compression"]}}

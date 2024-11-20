@@ -1,0 +1,1 @@
+{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.metrics.dump.MetricDumpSerializerTest_testNullGaugeHandling":[],"org.apache.flink.runtime.metrics.dump.MetricDumpSerializerTest_testJavaSerialization":[],"org.apache.flink.runtime.metrics.dump.MetricDumpSerializerTest_testSerialization":[]}}
