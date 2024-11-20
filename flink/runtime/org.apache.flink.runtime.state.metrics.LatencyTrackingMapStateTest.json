@@ -1,1 +1,26 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.state.metrics.LatencyTrackingMapStateTest_testLatencyTrackingStateClear":["state.latency-track.state-name-as-variable","state.latency-track.history-size","state.latency-track.keyed-state-enabled","execution.checkpointing.snapshot-compression","state.latency-track.sample-interval"],"org.apache.flink.runtime.state.metrics.LatencyTrackingMapStateTest_testLatencyTrackingMapState":["state.latency-track.state-name-as-variable","state.latency-track.history-size","state.latency-track.keyed-state-enabled","execution.checkpointing.snapshot-compression","state.latency-track.sample-interval"],"org.apache.flink.runtime.state.metrics.LatencyTrackingMapStateTest_testLatencyTrackingMapStateIterator":["state.latency-track.state-name-as-variable","state.latency-track.history-size","state.latency-track.keyed-state-enabled","execution.checkpointing.snapshot-compression","state.latency-track.sample-interval"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.state.metrics.LatencyTrackingMapStateTest_testLatencyTrackingStateClear": [
+      "state.latency-track.state-name-as-variable",
+      "state.latency-track.history-size",
+      "state.latency-track.keyed-state-enabled",
+      "execution.checkpointing.snapshot-compression",
+      "state.latency-track.sample-interval"
+    ],
+    "org.apache.flink.runtime.state.metrics.LatencyTrackingMapStateTest_testLatencyTrackingMapState": [
+      "state.latency-track.state-name-as-variable",
+      "state.latency-track.history-size",
+      "state.latency-track.keyed-state-enabled",
+      "execution.checkpointing.snapshot-compression",
+      "state.latency-track.sample-interval"
+    ],
+    "org.apache.flink.runtime.state.metrics.LatencyTrackingMapStateTest_testLatencyTrackingMapStateIterator": [
+      "state.latency-track.state-name-as-variable",
+      "state.latency-track.history-size",
+      "state.latency-track.keyed-state-enabled",
+      "execution.checkpointing.snapshot-compression",
+      "state.latency-track.sample-interval"
+    ]
+  }
+}

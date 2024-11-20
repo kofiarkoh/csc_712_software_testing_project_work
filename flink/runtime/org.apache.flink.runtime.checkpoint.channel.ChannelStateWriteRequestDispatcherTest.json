@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.checkpoint.channel.ChannelStateWriteRequestDispatcherTest_doRun":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.checkpoint.channel.ChannelStateWriteRequestDispatcherTest_doRun": []
+  }
+}

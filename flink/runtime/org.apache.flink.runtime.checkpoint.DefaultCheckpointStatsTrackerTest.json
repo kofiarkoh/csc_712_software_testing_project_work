@@ -1,1 +1,40 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.checkpoint.DefaultCheckpointStatsTrackerTest_testCheckpointStatsListenerOnCompletedCheckpoint":[],"org.apache.flink.runtime.checkpoint.DefaultCheckpointStatsTrackerTest_testTrackerWithoutHistory":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.checkpoint.DefaultCheckpointStatsTrackerTest_testCheckpointTracking":["taskmanager.memory.segment-size","jobmanager.partition.release-during-job-execution","execution.batch-shuffle-mode","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","taskmanager.network.sort-shuffle.min-buffers","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.checkpoint.DefaultCheckpointStatsTrackerTest_testMetricsAreUpdated":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.checkpoint.DefaultCheckpointStatsTrackerTest_testMetricsRegistration":[],"org.apache.flink.runtime.checkpoint.DefaultCheckpointStatsTrackerTest_testInitializationSpanCreation":[],"org.apache.flink.runtime.checkpoint.DefaultCheckpointStatsTrackerTest_testCheckpointStatsListenerOnFailedCheckpoint":[],"org.apache.flink.runtime.checkpoint.DefaultCheckpointStatsTrackerTest_testCreateSnapshot":[],"org.apache.flink.runtime.checkpoint.DefaultCheckpointStatsTrackerTest_testSpanCreation":["metrics.scope.tm","metrics.scope.tm-job","metrics.scope.operator","metrics.scope.jm","metrics.scope.jm-job","metrics.scope.jm-operator","metrics.scope.task"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.checkpoint.DefaultCheckpointStatsTrackerTest_testCheckpointStatsListenerOnCompletedCheckpoint": [],
+    "org.apache.flink.runtime.checkpoint.DefaultCheckpointStatsTrackerTest_testTrackerWithoutHistory": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.checkpoint.DefaultCheckpointStatsTrackerTest_testCheckpointTracking": [
+      "taskmanager.memory.segment-size",
+      "jobmanager.partition.release-during-job-execution",
+      "execution.batch-shuffle-mode",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "taskmanager.network.sort-shuffle.min-buffers",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.checkpoint.DefaultCheckpointStatsTrackerTest_testMetricsAreUpdated": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.checkpoint.DefaultCheckpointStatsTrackerTest_testMetricsRegistration": [],
+    "org.apache.flink.runtime.checkpoint.DefaultCheckpointStatsTrackerTest_testInitializationSpanCreation": [],
+    "org.apache.flink.runtime.checkpoint.DefaultCheckpointStatsTrackerTest_testCheckpointStatsListenerOnFailedCheckpoint": [],
+    "org.apache.flink.runtime.checkpoint.DefaultCheckpointStatsTrackerTest_testCreateSnapshot": [],
+    "org.apache.flink.runtime.checkpoint.DefaultCheckpointStatsTrackerTest_testSpanCreation": [
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "metrics.scope.operator",
+      "metrics.scope.jm",
+      "metrics.scope.jm-job",
+      "metrics.scope.jm-operator",
+      "metrics.scope.task"
+    ]
+  }
+}

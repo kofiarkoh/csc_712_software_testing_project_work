@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.runtime.io.MultipleInputSelectionHandlerTest_testLargeInputCount":[],"org.apache.flink.streaming.runtime.io.MultipleInputSelectionHandlerTest_testShouldSetAvailableForAnotherInput":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.runtime.io.MultipleInputSelectionHandlerTest_testLargeInputCount": [],
+    "org.apache.flink.streaming.runtime.io.MultipleInputSelectionHandlerTest_testShouldSetAvailableForAnotherInput": []
+  }
+}

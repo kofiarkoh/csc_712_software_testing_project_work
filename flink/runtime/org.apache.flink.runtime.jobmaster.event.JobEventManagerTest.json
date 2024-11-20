@@ -1,1 +1,9 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.jobmaster.event.JobEventManagerTest_testRestart":[],"org.apache.flink.runtime.jobmaster.event.JobEventManagerTest_testStop":[],"org.apache.flink.runtime.jobmaster.event.JobEventManagerTest_testInvalidInvoke":[],"org.apache.flink.runtime.jobmaster.event.JobEventManagerTest_testStartTwice":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.jobmaster.event.JobEventManagerTest_testRestart": [],
+    "org.apache.flink.runtime.jobmaster.event.JobEventManagerTest_testStop": [],
+    "org.apache.flink.runtime.jobmaster.event.JobEventManagerTest_testInvalidInvoke": [],
+    "org.apache.flink.runtime.jobmaster.event.JobEventManagerTest_testStartTwice": []
+  }
+}

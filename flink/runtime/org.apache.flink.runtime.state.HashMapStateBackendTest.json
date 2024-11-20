@@ -1,1 +1,243 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.state.HashMapStateBackendTest_testCopyDefaultValue":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testMapStateEntryCompare":["fs.allowed-fallback-filesystems","fs.file.limit.input","fs.test.limit.output","fs.default-scheme","fs.test-entropy.limit.total","fs.file.limit.output","fs.test.limit.input","fs.test-entropy.limit.output","fs.test-entropy.limit.input","execution.checkpointing.snapshot-compression","fs.file.limit.total","fs.test.limit.total"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testListStateAPIs":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testReducingState":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testGetKeys":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testReducingStateAddAndGet":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testListStateAddAllNull":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testGetKeysAndNamespaces":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testNonConcurrentSnapshotTransformerAccess":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testListStateUpdateNull":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testKryoRestoreResilienceWithDifferentRegistrationOrder":["pipeline.generic-types","execution.checkpointing.snapshot-compression","pipeline.force-kryo"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testIsSafeToReuseState":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testListStateDefaultValue":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testAggregatingStateAddAndGetWithImmutableAccumulator":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testValueState":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testConcurrentModificationWithApplyToAllKeys":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testEnableStateLatencyTracking":["state.latency-track.state-name-as-variable","state.latency-track.history-size","state.latency-track.keyed-state-enabled","execution.checkpointing.snapshot-compression","state.latency-track.sample-interval"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testMapStateRestoreWithWrongSerializers":[],"org.apache.flink.runtime.state.HashMapStateBackendTest_testListStateMerging":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testValueStateRestoreWithWrongSerializers":[],"org.apache.flink.runtime.state.HashMapStateBackendTest_testEmptyStateCheckpointing":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testParallelAsyncSnapshots":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testValueStateNullUpdate":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testKeyGroupsSnapshotRestoreNoRescale":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testBackendUsesRegisteredKryoSerializer":["pipeline.generic-types","execution.checkpointing.snapshot-compression","pipeline.force-kryo"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testListStateRestoreWithWrongSerializers":[],"org.apache.flink.runtime.state.HashMapStateBackendTest_testKryoRegisteringRestoreResilienceWithRegisteredType":["pipeline.generic-types","execution.checkpointing.snapshot-compression","pipeline.force-kryo"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testMapStateIsEmpty":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testMapStateGetKeys":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testKeyGroupSnapshotRestoreScaleDown":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testKeyGroupsSnapshotRestoreScaleUpUnEvenDistribute":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testMapStateGetKeysAndNamespaces":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testListState":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testListStateAddAllNullEntries":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testKryoRegisteringRestoreResilienceWithDefaultSerializer":["pipeline.generic-types","execution.checkpointing.snapshot-compression","pipeline.force-kryo"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testValueStateRace":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testPojoRestoreResilienceWithDifferentRegistrationOrder":["pipeline.force-avro","execution.checkpointing.snapshot-compression","pipeline.force-kryo"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testMultipleValueStates":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testAggregatingStateAddAndGetWithMutableAccumulator":["pipeline.generic-types","execution.checkpointing.snapshot-compression","pipeline.force-kryo"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testListStateUpdateNullEntries":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testAsyncSnapshotCancellation":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testAggregatingStateMergingWithImmutableAccumulator":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testValueStateWorkWithTtl":["pipeline.generic-types","execution.checkpointing.snapshot-compression","pipeline.force-kryo"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testMapState":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testKeyGroupSnapshotRestoreScaleUp":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testListStateAddNull":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testNumStateEntries":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testKeyGroupsSnapshotRestoreScaleDownUnEvenDistribute":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testRequireNonNullNamespace":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testQueryableStateRegistration":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testMapStateIteratorArbitraryAccess":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testReducingStateRestoreWithWrongSerializers":[],"org.apache.flink.runtime.state.HashMapStateBackendTest_testKeyGroupedInternalPriorityQueueAddAll":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testKeyGroupedInternalPriorityQueue":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testValueStateDefaultValue":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testAsyncSnapshot":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testAggregatingStateMergingWithMutableAccumulator":["pipeline.generic-types","execution.checkpointing.snapshot-compression","pipeline.force-kryo"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testSnapshotNonAccessedState":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testKryoRegisteringRestoreResilienceWithRegisteredSerializer":["pipeline.generic-types","execution.checkpointing.snapshot-compression","pipeline.force-kryo"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testRestoreWithWrongKeySerializer":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testMapStateDefaultValue":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testReducingStateMerging":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testBackendUsesRegisteredKryoDefaultSerializer":["pipeline.generic-types","execution.checkpointing.snapshot-compression","pipeline.force-kryo"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testReducingStateDefaultValue":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testBackendUsesRegisteredKryoDefaultSerializerUsingGetOrCreate":["pipeline.generic-types","execution.checkpointing.snapshot-compression","pipeline.force-kryo"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testCheckConcurrencyProblemWhenPerformingCheckpointAsync":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testValueStateNullAsDefaultValue":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testBackendUsesRegisteredKryoSerializerUsingGetOrCreate":["pipeline.generic-types","execution.checkpointing.snapshot-compression","pipeline.force-kryo"],"org.apache.flink.runtime.state.HashMapStateBackendTest_testApplyToAllKeysLambdaFunction":["execution.checkpointing.snapshot-compression"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testCopyDefaultValue": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testMapStateEntryCompare": [
+      "fs.allowed-fallback-filesystems",
+      "fs.file.limit.input",
+      "fs.test.limit.output",
+      "fs.default-scheme",
+      "fs.test-entropy.limit.total",
+      "fs.file.limit.output",
+      "fs.test.limit.input",
+      "fs.test-entropy.limit.output",
+      "fs.test-entropy.limit.input",
+      "execution.checkpointing.snapshot-compression",
+      "fs.file.limit.total",
+      "fs.test.limit.total"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testListStateAPIs": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testReducingState": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testGetKeys": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testReducingStateAddAndGet": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testListStateAddAllNull": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testGetKeysAndNamespaces": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testNonConcurrentSnapshotTransformerAccess": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testListStateUpdateNull": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testKryoRestoreResilienceWithDifferentRegistrationOrder": [
+      "pipeline.generic-types",
+      "execution.checkpointing.snapshot-compression",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testIsSafeToReuseState": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testListStateDefaultValue": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testAggregatingStateAddAndGetWithImmutableAccumulator": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testValueState": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testConcurrentModificationWithApplyToAllKeys": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testEnableStateLatencyTracking": [
+      "state.latency-track.state-name-as-variable",
+      "state.latency-track.history-size",
+      "state.latency-track.keyed-state-enabled",
+      "execution.checkpointing.snapshot-compression",
+      "state.latency-track.sample-interval"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testMapStateRestoreWithWrongSerializers": [],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testListStateMerging": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testValueStateRestoreWithWrongSerializers": [],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testEmptyStateCheckpointing": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testParallelAsyncSnapshots": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testValueStateNullUpdate": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testKeyGroupsSnapshotRestoreNoRescale": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testBackendUsesRegisteredKryoSerializer": [
+      "pipeline.generic-types",
+      "execution.checkpointing.snapshot-compression",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testListStateRestoreWithWrongSerializers": [],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testKryoRegisteringRestoreResilienceWithRegisteredType": [
+      "pipeline.generic-types",
+      "execution.checkpointing.snapshot-compression",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testMapStateIsEmpty": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testMapStateGetKeys": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testKeyGroupSnapshotRestoreScaleDown": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testKeyGroupsSnapshotRestoreScaleUpUnEvenDistribute": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testMapStateGetKeysAndNamespaces": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testListState": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testListStateAddAllNullEntries": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testKryoRegisteringRestoreResilienceWithDefaultSerializer": [
+      "pipeline.generic-types",
+      "execution.checkpointing.snapshot-compression",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testValueStateRace": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testPojoRestoreResilienceWithDifferentRegistrationOrder": [
+      "pipeline.force-avro",
+      "execution.checkpointing.snapshot-compression",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testMultipleValueStates": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testAggregatingStateAddAndGetWithMutableAccumulator": [
+      "pipeline.generic-types",
+      "execution.checkpointing.snapshot-compression",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testListStateUpdateNullEntries": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testAsyncSnapshotCancellation": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testAggregatingStateMergingWithImmutableAccumulator": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testValueStateWorkWithTtl": [
+      "pipeline.generic-types",
+      "execution.checkpointing.snapshot-compression",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testMapState": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testKeyGroupSnapshotRestoreScaleUp": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testListStateAddNull": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testNumStateEntries": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testKeyGroupsSnapshotRestoreScaleDownUnEvenDistribute": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testRequireNonNullNamespace": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testQueryableStateRegistration": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testMapStateIteratorArbitraryAccess": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testReducingStateRestoreWithWrongSerializers": [],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testKeyGroupedInternalPriorityQueueAddAll": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testKeyGroupedInternalPriorityQueue": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testValueStateDefaultValue": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testAsyncSnapshot": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testAggregatingStateMergingWithMutableAccumulator": [
+      "pipeline.generic-types",
+      "execution.checkpointing.snapshot-compression",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testSnapshotNonAccessedState": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testKryoRegisteringRestoreResilienceWithRegisteredSerializer": [
+      "pipeline.generic-types",
+      "execution.checkpointing.snapshot-compression",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testRestoreWithWrongKeySerializer": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testMapStateDefaultValue": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testReducingStateMerging": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testBackendUsesRegisteredKryoDefaultSerializer": [
+      "pipeline.generic-types",
+      "execution.checkpointing.snapshot-compression",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testReducingStateDefaultValue": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testBackendUsesRegisteredKryoDefaultSerializerUsingGetOrCreate": [
+      "pipeline.generic-types",
+      "execution.checkpointing.snapshot-compression",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testCheckConcurrencyProblemWhenPerformingCheckpointAsync": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testValueStateNullAsDefaultValue": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testBackendUsesRegisteredKryoSerializerUsingGetOrCreate": [
+      "pipeline.generic-types",
+      "execution.checkpointing.snapshot-compression",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendTest_testApplyToAllKeysLambdaFunction": [
+      "execution.checkpointing.snapshot-compression"
+    ]
+  }
+}

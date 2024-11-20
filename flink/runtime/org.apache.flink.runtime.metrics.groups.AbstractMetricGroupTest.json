@@ -1,1 +1,64 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.metrics.groups.AbstractMetricGroupTest_testGetAllVariablesWithExclusionsForReporters":["metrics.scope.tm","metrics.scope.tm-job","metrics.scope.operator","metrics.scope.jm","metrics.scope.jm-job","metrics.scope.jm-operator","metrics.scope.task"],"org.apache.flink.runtime.metrics.groups.AbstractMetricGroupTest_testScopeGenerationWithoutReporters":["metrics.scope.tm","metrics.scope.tm-job","metrics.scope.operator","metrics.scope.jm","metrics.scope.jm-job","metrics.scope.jm-operator","metrics.scope.task","metrics.scope.delimiter"],"org.apache.flink.runtime.metrics.groups.AbstractMetricGroupTest_testLogicalScopeCachingForMultipleReporters":[],"org.apache.flink.runtime.metrics.groups.AbstractMetricGroupTest_testGetAllVariables":["metrics.scope.tm","metrics.scope.tm-job","metrics.scope.operator","metrics.scope.jm","metrics.scope.jm-job","metrics.scope.jm-operator","metrics.scope.task","metrics.scope.delimiter"],"org.apache.flink.runtime.metrics.groups.AbstractMetricGroupTest_testGetAllVariablesWithExclusions":["metrics.scope.tm","metrics.scope.tm-job","metrics.scope.operator","metrics.scope.jm","metrics.scope.jm-job","metrics.scope.jm-operator","metrics.scope.task"],"org.apache.flink.runtime.metrics.groups.AbstractMetricGroupTest_testGetAllVariablesWithOutExclusions":[],"org.apache.flink.runtime.metrics.groups.AbstractMetricGroupTest_testScopeCachingForMultipleReporters":["metrics.scope.tm","metrics.scope.tm-job","metrics.scope.operator","metrics.scope.jm","metrics.scope.jm-job","metrics.scope.jm-operator","metrics.scope.task","metrics.scope.delimiter"],"org.apache.flink.runtime.metrics.groups.AbstractMetricGroupTest_testGetAllVariablesDoesNotDeadlock":["metrics.scope.tm","metrics.scope.tm-job","metrics.scope.operator","metrics.scope.jm","metrics.scope.jm-job","metrics.scope.jm-operator","metrics.scope.task"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.metrics.groups.AbstractMetricGroupTest_testGetAllVariablesWithExclusionsForReporters": [
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "metrics.scope.operator",
+      "metrics.scope.jm",
+      "metrics.scope.jm-job",
+      "metrics.scope.jm-operator",
+      "metrics.scope.task"
+    ],
+    "org.apache.flink.runtime.metrics.groups.AbstractMetricGroupTest_testScopeGenerationWithoutReporters": [
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "metrics.scope.operator",
+      "metrics.scope.jm",
+      "metrics.scope.jm-job",
+      "metrics.scope.jm-operator",
+      "metrics.scope.task",
+      "metrics.scope.delimiter"
+    ],
+    "org.apache.flink.runtime.metrics.groups.AbstractMetricGroupTest_testLogicalScopeCachingForMultipleReporters": [],
+    "org.apache.flink.runtime.metrics.groups.AbstractMetricGroupTest_testGetAllVariables": [
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "metrics.scope.operator",
+      "metrics.scope.jm",
+      "metrics.scope.jm-job",
+      "metrics.scope.jm-operator",
+      "metrics.scope.task",
+      "metrics.scope.delimiter"
+    ],
+    "org.apache.flink.runtime.metrics.groups.AbstractMetricGroupTest_testGetAllVariablesWithExclusions": [
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "metrics.scope.operator",
+      "metrics.scope.jm",
+      "metrics.scope.jm-job",
+      "metrics.scope.jm-operator",
+      "metrics.scope.task"
+    ],
+    "org.apache.flink.runtime.metrics.groups.AbstractMetricGroupTest_testGetAllVariablesWithOutExclusions": [],
+    "org.apache.flink.runtime.metrics.groups.AbstractMetricGroupTest_testScopeCachingForMultipleReporters": [
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "metrics.scope.operator",
+      "metrics.scope.jm",
+      "metrics.scope.jm-job",
+      "metrics.scope.jm-operator",
+      "metrics.scope.task",
+      "metrics.scope.delimiter"
+    ],
+    "org.apache.flink.runtime.metrics.groups.AbstractMetricGroupTest_testGetAllVariablesDoesNotDeadlock": [
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "metrics.scope.operator",
+      "metrics.scope.jm",
+      "metrics.scope.jm-job",
+      "metrics.scope.jm-operator",
+      "metrics.scope.task"
+    ]
+  }
+}

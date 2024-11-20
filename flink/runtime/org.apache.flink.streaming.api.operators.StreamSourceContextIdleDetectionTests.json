@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.api.operators.StreamSourceContextIdleDetectionTests_testManualWatermarkContext":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.api.operators.StreamSourceContextIdleDetectionTests_testManualWatermarkContext": []
+  }
+}

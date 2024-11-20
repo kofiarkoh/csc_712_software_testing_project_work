@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.state.v2.AbstractReducingStateTest_testMergeNamespace":[],"org.apache.flink.runtime.state.v2.AbstractReducingStateTest_testEachOperation":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.state.v2.AbstractReducingStateTest_testMergeNamespace": [],
+    "org.apache.flink.runtime.state.v2.AbstractReducingStateTest_testEachOperation": []
+  }
+}

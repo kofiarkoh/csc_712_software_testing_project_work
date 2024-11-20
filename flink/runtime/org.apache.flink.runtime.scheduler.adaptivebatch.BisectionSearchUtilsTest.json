@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.scheduler.adaptivebatch.BisectionSearchUtilsTest_testFindMaxLegalValue":[],"org.apache.flink.runtime.scheduler.adaptivebatch.BisectionSearchUtilsTest_testFindMinLegalValue":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.scheduler.adaptivebatch.BisectionSearchUtilsTest_testFindMaxLegalValue": [],
+    "org.apache.flink.runtime.scheduler.adaptivebatch.BisectionSearchUtilsTest_testFindMinLegalValue": []
+  }
+}

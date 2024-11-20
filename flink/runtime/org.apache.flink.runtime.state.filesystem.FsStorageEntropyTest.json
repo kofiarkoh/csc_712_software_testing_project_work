@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.state.filesystem.FsStorageEntropyTest_testEntropyInjection":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.state.filesystem.FsStorageEntropyTest_testEntropyInjection": []
+  }
+}

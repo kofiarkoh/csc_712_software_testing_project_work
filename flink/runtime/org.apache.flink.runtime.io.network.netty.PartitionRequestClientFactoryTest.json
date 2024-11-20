@@ -1,1 +1,41 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.io.network.netty.PartitionRequestClientFactoryTest_testExceptionsAreNotCached":["taskmanager.network.netty.client.connectTimeoutSec","security.ssl.internal.enabled","taskmanager.data.ssl.enabled"],"org.apache.flink.runtime.io.network.netty.PartitionRequestClientFactoryTest_testNettyClientConnectRetryFailure":["taskmanager.network.netty.client.connectTimeoutSec","security.ssl.internal.enabled","taskmanager.data.ssl.enabled"],"org.apache.flink.runtime.io.network.netty.PartitionRequestClientFactoryTest_testFailureReportedToSubsequentRequests":[],"org.apache.flink.runtime.io.network.netty.PartitionRequestClientFactoryTest_testNettyClientConnectRetry":["taskmanager.network.netty.client.connectTimeoutSec","security.ssl.internal.enabled","taskmanager.data.ssl.enabled"],"org.apache.flink.runtime.io.network.netty.PartitionRequestClientFactoryTest_testConnectionReuseWhenRemoteCloseAndNoInputChannel":["taskmanager.network.netty.client.connectTimeoutSec","security.ssl.internal.enabled","taskmanager.data.ssl.enabled"],"org.apache.flink.runtime.io.network.netty.PartitionRequestClientFactoryTest_testReuseNettyPartitionRequestClient":["taskmanager.network.netty.client.connectTimeoutSec","security.ssl.internal.enabled","taskmanager.data.ssl.enabled"],"org.apache.flink.runtime.io.network.netty.PartitionRequestClientFactoryTest_testInterruptsNotCached":["taskmanager.network.netty.client.connectTimeoutSec","security.ssl.internal.enabled","taskmanager.data.ssl.enabled"],"org.apache.flink.runtime.io.network.netty.PartitionRequestClientFactoryTest_testNettyClientConnectRetryMultipleThread":["taskmanager.network.netty.client.connectTimeoutSec","security.ssl.internal.enabled","taskmanager.data.ssl.enabled"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.io.network.netty.PartitionRequestClientFactoryTest_testExceptionsAreNotCached": [
+      "taskmanager.network.netty.client.connectTimeoutSec",
+      "security.ssl.internal.enabled",
+      "taskmanager.data.ssl.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.netty.PartitionRequestClientFactoryTest_testNettyClientConnectRetryFailure": [
+      "taskmanager.network.netty.client.connectTimeoutSec",
+      "security.ssl.internal.enabled",
+      "taskmanager.data.ssl.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.netty.PartitionRequestClientFactoryTest_testFailureReportedToSubsequentRequests": [],
+    "org.apache.flink.runtime.io.network.netty.PartitionRequestClientFactoryTest_testNettyClientConnectRetry": [
+      "taskmanager.network.netty.client.connectTimeoutSec",
+      "security.ssl.internal.enabled",
+      "taskmanager.data.ssl.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.netty.PartitionRequestClientFactoryTest_testConnectionReuseWhenRemoteCloseAndNoInputChannel": [
+      "taskmanager.network.netty.client.connectTimeoutSec",
+      "security.ssl.internal.enabled",
+      "taskmanager.data.ssl.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.netty.PartitionRequestClientFactoryTest_testReuseNettyPartitionRequestClient": [
+      "taskmanager.network.netty.client.connectTimeoutSec",
+      "security.ssl.internal.enabled",
+      "taskmanager.data.ssl.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.netty.PartitionRequestClientFactoryTest_testInterruptsNotCached": [
+      "taskmanager.network.netty.client.connectTimeoutSec",
+      "security.ssl.internal.enabled",
+      "taskmanager.data.ssl.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.netty.PartitionRequestClientFactoryTest_testNettyClientConnectRetryMultipleThread": [
+      "taskmanager.network.netty.client.connectTimeoutSec",
+      "security.ssl.internal.enabled",
+      "taskmanager.data.ssl.enabled"
+    ]
+  }
+}

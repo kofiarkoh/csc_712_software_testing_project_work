@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.checkpoint.hooks.MasterHooksTest_wrapHook":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.checkpoint.hooks.MasterHooksTest_wrapHook": []
+  }
+}

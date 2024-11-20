@@ -1,1 +1,41 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.security.SecurityConfigurationTest_notExistingKeytabShouldThrowException":["zookeeper.sasl.login-context-name","zookeeper.sasl.disable","security.context.factory.classes","security.kerberos.login.use-ticket-cache","security.kerberos.relogin.period","security.kerberos.login.contexts","security.kerberos.login.keytab","security.module.factory.classes","security.kerberos.login.principal","zookeeper.sasl.service-name"],"org.apache.flink.runtime.security.SecurityConfigurationTest_keytabWithoutPrincipalShouldThrowException":["zookeeper.sasl.login-context-name","zookeeper.sasl.disable","security.context.factory.classes","security.kerberos.login.use-ticket-cache","security.kerberos.relogin.period","security.kerberos.login.contexts","security.kerberos.login.keytab","security.module.factory.classes","security.kerberos.login.principal","zookeeper.sasl.service-name"],"org.apache.flink.runtime.security.SecurityConfigurationTest_principalWithoutKeytabShouldThrowException":["zookeeper.sasl.login-context-name","zookeeper.sasl.disable","security.context.factory.classes","security.kerberos.login.use-ticket-cache","security.kerberos.relogin.period","security.kerberos.login.contexts","security.kerberos.login.keytab","security.module.factory.classes","security.kerberos.login.principal","zookeeper.sasl.service-name"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.security.SecurityConfigurationTest_notExistingKeytabShouldThrowException": [
+      "zookeeper.sasl.login-context-name",
+      "zookeeper.sasl.disable",
+      "security.context.factory.classes",
+      "security.kerberos.login.use-ticket-cache",
+      "security.kerberos.relogin.period",
+      "security.kerberos.login.contexts",
+      "security.kerberos.login.keytab",
+      "security.module.factory.classes",
+      "security.kerberos.login.principal",
+      "zookeeper.sasl.service-name"
+    ],
+    "org.apache.flink.runtime.security.SecurityConfigurationTest_keytabWithoutPrincipalShouldThrowException": [
+      "zookeeper.sasl.login-context-name",
+      "zookeeper.sasl.disable",
+      "security.context.factory.classes",
+      "security.kerberos.login.use-ticket-cache",
+      "security.kerberos.relogin.period",
+      "security.kerberos.login.contexts",
+      "security.kerberos.login.keytab",
+      "security.module.factory.classes",
+      "security.kerberos.login.principal",
+      "zookeeper.sasl.service-name"
+    ],
+    "org.apache.flink.runtime.security.SecurityConfigurationTest_principalWithoutKeytabShouldThrowException": [
+      "zookeeper.sasl.login-context-name",
+      "zookeeper.sasl.disable",
+      "security.context.factory.classes",
+      "security.kerberos.login.use-ticket-cache",
+      "security.kerberos.relogin.period",
+      "security.kerberos.login.contexts",
+      "security.kerberos.login.keytab",
+      "security.module.factory.classes",
+      "security.kerberos.login.principal",
+      "zookeeper.sasl.service-name"
+    ]
+  }
+}

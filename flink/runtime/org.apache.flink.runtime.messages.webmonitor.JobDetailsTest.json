@@ -1,1 +1,8 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.messages.webmonitor.JobDetailsTest_testJobDetailsCompatibleUnmarshalling":[],"org.apache.flink.runtime.messages.webmonitor.JobDetailsTest_testJobDetailsCompatibleUnmarshallingSkipUnknown":[],"org.apache.flink.runtime.messages.webmonitor.JobDetailsTest_testJobDetailsMarshalling":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.messages.webmonitor.JobDetailsTest_testJobDetailsCompatibleUnmarshalling": [],
+    "org.apache.flink.runtime.messages.webmonitor.JobDetailsTest_testJobDetailsCompatibleUnmarshallingSkipUnknown": [],
+    "org.apache.flink.runtime.messages.webmonitor.JobDetailsTest_testJobDetailsMarshalling": []
+  }
+}

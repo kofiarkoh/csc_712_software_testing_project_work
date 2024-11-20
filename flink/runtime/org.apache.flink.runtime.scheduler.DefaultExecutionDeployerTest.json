@@ -1,1 +1,81 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.scheduler.DefaultExecutionDeployerTest_testDeploymentWaitForProducedPartitionRegistration":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.DefaultExecutionDeployerTest_testSkipDeploymentIfVertexVersionOutdated":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.DefaultExecutionDeployerTest_testDeployOnlyIfVertexIsCreated":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.DefaultExecutionDeployerTest_testFailedProducedPartitionRegistration":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.DefaultExecutionDeployerTest_testProducedPartitionRegistrationTimeout":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.DefaultExecutionDeployerTest_testDirectExceptionOnProducedPartitionRegistration":["metrics.scope.operator","taskmanager.memory.segment-size","metrics.scope.jm","metrics.scope.task","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","taskmanager.network.sort-shuffle.min-buffers","jobmanager.execution.attempts-history-size","metrics.scope.tm","metrics.scope.tm-job","jobmanager.partition.release-during-job-execution","metrics.scope.jm-job","metrics.scope.jm-operator","execution.batch-shuffle-mode","execution.job-status-changed-listeners"],"org.apache.flink.runtime.scheduler.DefaultExecutionDeployerTest_testReleaseSlotIfVertexVersionOutdated":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.DefaultExecutionDeployerTest_testDeployTasks":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.DefaultExecutionDeployerTest_testDeployTasksOnlyIfAllSlotRequestsAreFulfilled":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.DefaultExecutionDeployerTest_testDeploymentFailures":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.DefaultExecutionDeployerTest_testSlotAllocationTimeout":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.scheduler.DefaultExecutionDeployerTest_testDeploymentWaitForProducedPartitionRegistration": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.DefaultExecutionDeployerTest_testSkipDeploymentIfVertexVersionOutdated": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.DefaultExecutionDeployerTest_testDeployOnlyIfVertexIsCreated": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.DefaultExecutionDeployerTest_testFailedProducedPartitionRegistration": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.DefaultExecutionDeployerTest_testProducedPartitionRegistrationTimeout": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.DefaultExecutionDeployerTest_testDirectExceptionOnProducedPartitionRegistration": [
+      "metrics.scope.operator",
+      "taskmanager.memory.segment-size",
+      "metrics.scope.jm",
+      "metrics.scope.task",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "taskmanager.network.sort-shuffle.min-buffers",
+      "jobmanager.execution.attempts-history-size",
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "jobmanager.partition.release-during-job-execution",
+      "metrics.scope.jm-job",
+      "metrics.scope.jm-operator",
+      "execution.batch-shuffle-mode",
+      "execution.job-status-changed-listeners"
+    ],
+    "org.apache.flink.runtime.scheduler.DefaultExecutionDeployerTest_testReleaseSlotIfVertexVersionOutdated": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.DefaultExecutionDeployerTest_testDeployTasks": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.DefaultExecutionDeployerTest_testDeployTasksOnlyIfAllSlotRequestsAreFulfilled": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.DefaultExecutionDeployerTest_testDeploymentFailures": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.DefaultExecutionDeployerTest_testSlotAllocationTimeout": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ]
+  }
+}

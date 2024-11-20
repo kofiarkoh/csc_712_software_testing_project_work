@@ -1,1 +1,17 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.state.OperatorStateRestoreOperationTest_testRepartitionOperatorState":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.OperatorStateRestoreOperationTest_testMergeOperatorState":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.OperatorStateRestoreOperationTest_testRestoringMixedOperatorState":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.OperatorStateRestoreOperationTest_testEmptyPartitionedOperatorState":["execution.checkpointing.snapshot-compression"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.state.OperatorStateRestoreOperationTest_testRepartitionOperatorState": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.OperatorStateRestoreOperationTest_testMergeOperatorState": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.OperatorStateRestoreOperationTest_testRestoringMixedOperatorState": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.OperatorStateRestoreOperationTest_testEmptyPartitionedOperatorState": [
+      "execution.checkpointing.snapshot-compression"
+    ]
+  }
+}

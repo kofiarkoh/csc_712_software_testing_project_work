@@ -1,1 +1,10 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.api.operators.co.BufferEntrySerializerUpgradeTest_upgradedSerializerIsValidAfterReconfiguration":[],"org.apache.flink.streaming.api.operators.co.BufferEntrySerializerUpgradeTest_restoreSerializerIsValid":[],"org.apache.flink.streaming.api.operators.co.BufferEntrySerializerUpgradeTest_upgradedSerializerIsValidWhenCompatibleAsIs":[],"org.apache.flink.streaming.api.operators.co.BufferEntrySerializerUpgradeTest_upgradedSerializerIsValidAfterMigration":[],"org.apache.flink.streaming.api.operators.co.BufferEntrySerializerUpgradeTest_upgradedSerializerHasExpectedSchemaCompatibility":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.api.operators.co.BufferEntrySerializerUpgradeTest_upgradedSerializerIsValidAfterReconfiguration": [],
+    "org.apache.flink.streaming.api.operators.co.BufferEntrySerializerUpgradeTest_restoreSerializerIsValid": [],
+    "org.apache.flink.streaming.api.operators.co.BufferEntrySerializerUpgradeTest_upgradedSerializerIsValidWhenCompatibleAsIs": [],
+    "org.apache.flink.streaming.api.operators.co.BufferEntrySerializerUpgradeTest_upgradedSerializerIsValidAfterMigration": [],
+    "org.apache.flink.streaming.api.operators.co.BufferEntrySerializerUpgradeTest_upgradedSerializerHasExpectedSchemaCompatibility": []
+  }
+}

@@ -1,1 +1,11 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.scheduler.strategy.VertexwiseSchedulingStrategyTest_testScheduleDownstreamOfHybridEdge":[],"org.apache.flink.runtime.scheduler.strategy.VertexwiseSchedulingStrategyTest_testOnExecutionStateChangeToFinished":[],"org.apache.flink.runtime.scheduler.strategy.VertexwiseSchedulingStrategyTest_testUpdateStrategyWithAllToAll":[],"org.apache.flink.runtime.scheduler.strategy.VertexwiseSchedulingStrategyTest_testStartScheduling":[],"org.apache.flink.runtime.scheduler.strategy.VertexwiseSchedulingStrategyTest_testUpdateStrategyWithPointWise":[],"org.apache.flink.runtime.scheduler.strategy.VertexwiseSchedulingStrategyTest_testRestartTasks":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.scheduler.strategy.VertexwiseSchedulingStrategyTest_testScheduleDownstreamOfHybridEdge": [],
+    "org.apache.flink.runtime.scheduler.strategy.VertexwiseSchedulingStrategyTest_testOnExecutionStateChangeToFinished": [],
+    "org.apache.flink.runtime.scheduler.strategy.VertexwiseSchedulingStrategyTest_testUpdateStrategyWithAllToAll": [],
+    "org.apache.flink.runtime.scheduler.strategy.VertexwiseSchedulingStrategyTest_testStartScheduling": [],
+    "org.apache.flink.runtime.scheduler.strategy.VertexwiseSchedulingStrategyTest_testUpdateStrategyWithPointWise": [],
+    "org.apache.flink.runtime.scheduler.strategy.VertexwiseSchedulingStrategyTest_testRestartTasks": []
+  }
+}

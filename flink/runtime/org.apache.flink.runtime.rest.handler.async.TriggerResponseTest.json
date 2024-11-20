@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.rest.handler.async.TriggerResponseTest_testJsonMarshalling":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.rest.handler.async.TriggerResponseTest_testJsonMarshalling": []
+  }
+}

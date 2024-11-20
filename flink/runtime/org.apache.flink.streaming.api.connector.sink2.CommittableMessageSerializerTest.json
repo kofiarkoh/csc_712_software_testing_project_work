@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.api.connector.sink2.CommittableMessageSerializerTest_testCommittableSummarySerDe":[],"org.apache.flink.streaming.api.connector.sink2.CommittableMessageSerializerTest_testCommittableWithLinageSerDe":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.api.connector.sink2.CommittableMessageSerializerTest_testCommittableSummarySerDe": [],
+    "org.apache.flink.streaming.api.connector.sink2.CommittableMessageSerializerTest_testCommittableWithLinageSerDe": []
+  }
+}

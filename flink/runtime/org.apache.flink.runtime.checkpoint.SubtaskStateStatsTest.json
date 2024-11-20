@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.checkpoint.SubtaskStateStatsTest_testIsJavaSerializable":[],"org.apache.flink.runtime.checkpoint.SubtaskStateStatsTest_testSimpleAccess":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.checkpoint.SubtaskStateStatsTest_testIsJavaSerializable": [],
+    "org.apache.flink.runtime.checkpoint.SubtaskStateStatsTest_testSimpleAccess": []
+  }
+}

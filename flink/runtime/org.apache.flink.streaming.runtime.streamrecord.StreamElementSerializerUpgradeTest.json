@@ -1,1 +1,10 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.runtime.streamrecord.StreamElementSerializerUpgradeTest_upgradedSerializerIsValidWhenCompatibleAsIs":[],"org.apache.flink.streaming.runtime.streamrecord.StreamElementSerializerUpgradeTest_upgradedSerializerIsValidAfterReconfiguration":[],"org.apache.flink.streaming.runtime.streamrecord.StreamElementSerializerUpgradeTest_restoreSerializerIsValid":[],"org.apache.flink.streaming.runtime.streamrecord.StreamElementSerializerUpgradeTest_upgradedSerializerHasExpectedSchemaCompatibility":[],"org.apache.flink.streaming.runtime.streamrecord.StreamElementSerializerUpgradeTest_upgradedSerializerIsValidAfterMigration":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.runtime.streamrecord.StreamElementSerializerUpgradeTest_upgradedSerializerIsValidWhenCompatibleAsIs": [],
+    "org.apache.flink.streaming.runtime.streamrecord.StreamElementSerializerUpgradeTest_upgradedSerializerIsValidAfterReconfiguration": [],
+    "org.apache.flink.streaming.runtime.streamrecord.StreamElementSerializerUpgradeTest_restoreSerializerIsValid": [],
+    "org.apache.flink.streaming.runtime.streamrecord.StreamElementSerializerUpgradeTest_upgradedSerializerHasExpectedSchemaCompatibility": [],
+    "org.apache.flink.streaming.runtime.streamrecord.StreamElementSerializerUpgradeTest_upgradedSerializerIsValidAfterMigration": []
+  }
+}

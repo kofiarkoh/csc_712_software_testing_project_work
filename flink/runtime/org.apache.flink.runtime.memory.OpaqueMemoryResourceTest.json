@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.memory.OpaqueMemoryResourceTest_testCloseIsIdempotent":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.memory.OpaqueMemoryResourceTest_testCloseIsIdempotent": []
+  }
+}

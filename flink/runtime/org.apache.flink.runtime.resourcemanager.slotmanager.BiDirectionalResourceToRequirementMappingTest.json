@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.resourcemanager.slotmanager.BiDirectionalResourceToRequirementMappingTest_testIncrement":[],"org.apache.flink.runtime.resourcemanager.slotmanager.BiDirectionalResourceToRequirementMappingTest_testDecrement":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.resourcemanager.slotmanager.BiDirectionalResourceToRequirementMappingTest_testIncrement": [],
+    "org.apache.flink.runtime.resourcemanager.slotmanager.BiDirectionalResourceToRequirementMappingTest_testDecrement": []
+  }
+}

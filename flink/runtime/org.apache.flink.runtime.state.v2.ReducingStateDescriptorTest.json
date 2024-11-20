@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.state.v2.ReducingStateDescriptorTest_testHashCodeAndEquals":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.state.v2.ReducingStateDescriptorTest_testHashCodeAndEquals": []
+  }
+}

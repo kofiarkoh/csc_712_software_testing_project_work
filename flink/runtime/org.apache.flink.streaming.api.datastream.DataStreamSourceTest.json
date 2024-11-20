@@ -1,1 +1,8 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.api.datastream.DataStreamSourceTest_testConstructor":["parallelism.default"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.api.datastream.DataStreamSourceTest_testConstructor": [
+      "parallelism.default"
+    ]
+  }
+}

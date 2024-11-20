@@ -1,1 +1,12 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.api.operators.InputSelectionTest_testFairSelectNextIndexWithSomeInputsSelected":[],"org.apache.flink.streaming.api.operators.InputSelectionTest_testInputSelectionNormalization":[],"org.apache.flink.streaming.api.operators.InputSelectionTest_testIsInputSelected":[],"org.apache.flink.streaming.api.operators.InputSelectionTest_testInputSelectionNormalizationOverflow":[],"org.apache.flink.streaming.api.operators.InputSelectionTest_testFairSelectNextIndexWithAllInputsSelected":[],"org.apache.flink.streaming.api.operators.InputSelectionTest_testFairSelectNextIndexOutOf2":[],"org.apache.flink.streaming.api.operators.InputSelectionTest_testUnsupportedFairSelectNextIndexOutOf2":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.api.operators.InputSelectionTest_testFairSelectNextIndexWithSomeInputsSelected": [],
+    "org.apache.flink.streaming.api.operators.InputSelectionTest_testInputSelectionNormalization": [],
+    "org.apache.flink.streaming.api.operators.InputSelectionTest_testIsInputSelected": [],
+    "org.apache.flink.streaming.api.operators.InputSelectionTest_testInputSelectionNormalizationOverflow": [],
+    "org.apache.flink.streaming.api.operators.InputSelectionTest_testFairSelectNextIndexWithAllInputsSelected": [],
+    "org.apache.flink.streaming.api.operators.InputSelectionTest_testFairSelectNextIndexOutOf2": [],
+    "org.apache.flink.streaming.api.operators.InputSelectionTest_testUnsupportedFairSelectNextIndexOutOf2": []
+  }
+}

@@ -1,1 +1,14 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.scheduler.DefaultSchedulerComponentsFactoryTest_testCreatingPipelinedRegionSchedulingStrategyFactoryByDefault":["execution.state-recovery.from-local","taskmanager.load-balance.mode"],"org.apache.flink.runtime.scheduler.DefaultSchedulerComponentsFactoryTest_testCreatingPipelinedRegionSchedulingStrategyFactoryWithApproximateLocalRecovery":[],"org.apache.flink.runtime.scheduler.DefaultSchedulerComponentsFactoryTest_testCreatingPipelinedSchedulingStrategyFactory":["execution.state-recovery.from-local","taskmanager.load-balance.mode"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.scheduler.DefaultSchedulerComponentsFactoryTest_testCreatingPipelinedRegionSchedulingStrategyFactoryByDefault": [
+      "execution.state-recovery.from-local",
+      "taskmanager.load-balance.mode"
+    ],
+    "org.apache.flink.runtime.scheduler.DefaultSchedulerComponentsFactoryTest_testCreatingPipelinedRegionSchedulingStrategyFactoryWithApproximateLocalRecovery": [],
+    "org.apache.flink.runtime.scheduler.DefaultSchedulerComponentsFactoryTest_testCreatingPipelinedSchedulingStrategyFactory": [
+      "execution.state-recovery.from-local",
+      "taskmanager.load-balance.mode"
+    ]
+  }
+}

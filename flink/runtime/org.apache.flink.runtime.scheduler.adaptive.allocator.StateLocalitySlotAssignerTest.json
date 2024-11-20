@@ -1,1 +1,9 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.scheduler.adaptive.allocator.StateLocalitySlotAssignerTest_testSlotsAreNotWasted":[],"org.apache.flink.runtime.scheduler.adaptive.allocator.StateLocalitySlotAssignerTest_testUpScaling":[],"org.apache.flink.runtime.scheduler.adaptive.allocator.StateLocalitySlotAssignerTest_testDownScaleWithUnevenStateSize":[],"org.apache.flink.runtime.scheduler.adaptive.allocator.StateLocalitySlotAssignerTest_testDownScaling":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.scheduler.adaptive.allocator.StateLocalitySlotAssignerTest_testSlotsAreNotWasted": [],
+    "org.apache.flink.runtime.scheduler.adaptive.allocator.StateLocalitySlotAssignerTest_testUpScaling": [],
+    "org.apache.flink.runtime.scheduler.adaptive.allocator.StateLocalitySlotAssignerTest_testDownScaleWithUnevenStateSize": [],
+    "org.apache.flink.runtime.scheduler.adaptive.allocator.StateLocalitySlotAssignerTest_testDownScaling": []
+  }
+}

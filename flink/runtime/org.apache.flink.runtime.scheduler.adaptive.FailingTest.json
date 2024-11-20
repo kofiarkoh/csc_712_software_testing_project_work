@@ -1,1 +1,17 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.scheduler.adaptive.FailingTest_testIgnoreGlobalFailure":[],"org.apache.flink.runtime.scheduler.adaptive.FailingTest_testTransitionToCancelingOnCancel":[],"org.apache.flink.runtime.scheduler.adaptive.FailingTest_testFailingStateOnEnter":[],"org.apache.flink.runtime.scheduler.adaptive.FailingTest_testTransitionToFinishedOnSuspend":[],"org.apache.flink.runtime.scheduler.adaptive.FailingTest_testTaskFailuresAreIgnored":[],"org.apache.flink.runtime.scheduler.adaptive.FailingTest_testTransitionToFailedWhenFailingCompletes":["parallelism.default","pipeline.object-reuse","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.scheduler.adaptive.FailingTest_testStateDoesNotExposeGloballyTerminalExecutionGraph":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.scheduler.adaptive.FailingTest_testIgnoreGlobalFailure": [],
+    "org.apache.flink.runtime.scheduler.adaptive.FailingTest_testTransitionToCancelingOnCancel": [],
+    "org.apache.flink.runtime.scheduler.adaptive.FailingTest_testFailingStateOnEnter": [],
+    "org.apache.flink.runtime.scheduler.adaptive.FailingTest_testTransitionToFinishedOnSuspend": [],
+    "org.apache.flink.runtime.scheduler.adaptive.FailingTest_testTaskFailuresAreIgnored": [],
+    "org.apache.flink.runtime.scheduler.adaptive.FailingTest_testTransitionToFailedWhenFailingCompletes": [
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptive.FailingTest_testStateDoesNotExposeGloballyTerminalExecutionGraph": []
+  }
+}

@@ -1,1 +1,11 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.registration.RetryingRegistrationConfigurationTest_testConfigurationParsing":["cluster.registration.max-timeout","cluster.registration.initial-timeout","cluster.registration.refused-registration-delay","cluster.registration.error-delay"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.registration.RetryingRegistrationConfigurationTest_testConfigurationParsing": [
+      "cluster.registration.max-timeout",
+      "cluster.registration.initial-timeout",
+      "cluster.registration.refused-registration-delay",
+      "cluster.registration.error-delay"
+    ]
+  }
+}

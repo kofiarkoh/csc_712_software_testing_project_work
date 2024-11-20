@@ -1,1 +1,11 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeResourceDeclarationTest_testRequirementsDecreasedOnSlotAllocationFailure":[],"org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeResourceDeclarationTest_testRequirementsIncreasedOnNewAllocation":[],"org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeResourceDeclarationTest_testRequirementsUnchangedOnNewSlotsNotification":[],"org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeResourceDeclarationTest_testRequirementsIncreasedOnSlotReservation":[],"org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeResourceDeclarationTest_testRequirementsDecreasedOnAllocationTimeout":[],"org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeResourceDeclarationTest_testRequirementsDecreasedOnSlotFreeing":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeResourceDeclarationTest_testRequirementsDecreasedOnSlotAllocationFailure": [],
+    "org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeResourceDeclarationTest_testRequirementsIncreasedOnNewAllocation": [],
+    "org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeResourceDeclarationTest_testRequirementsUnchangedOnNewSlotsNotification": [],
+    "org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeResourceDeclarationTest_testRequirementsIncreasedOnSlotReservation": [],
+    "org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeResourceDeclarationTest_testRequirementsDecreasedOnAllocationTimeout": [],
+    "org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeResourceDeclarationTest_testRequirementsDecreasedOnSlotFreeing": []
+  }
+}

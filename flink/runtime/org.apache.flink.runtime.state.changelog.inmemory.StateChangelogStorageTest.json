@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.state.changelog.inmemory.StateChangelogStorageTest_testWriteAndRead":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.state.changelog.inmemory.StateChangelogStorageTest_testWriteAndRead": []
+  }
+}

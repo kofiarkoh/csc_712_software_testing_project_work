@@ -1,1 +1,12 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.operators.FlatMapTaskTest_testFailingMapTask":["pipeline.object-reuse"],"org.apache.flink.runtime.operators.FlatMapTaskTest_testCancelMapTask":[],"org.apache.flink.runtime.operators.FlatMapTaskTest_testMapTask":["pipeline.object-reuse"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.operators.FlatMapTaskTest_testFailingMapTask": [
+      "pipeline.object-reuse"
+    ],
+    "org.apache.flink.runtime.operators.FlatMapTaskTest_testCancelMapTask": [],
+    "org.apache.flink.runtime.operators.FlatMapTaskTest_testMapTask": [
+      "pipeline.object-reuse"
+    ]
+  }
+}

@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.source.coordinator.SourceCoordinatorAlignmentBenchmarkTest_testWatermarkAggregation":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.source.coordinator.SourceCoordinatorAlignmentBenchmarkTest_testWatermarkAggregation": []
+  }
+}

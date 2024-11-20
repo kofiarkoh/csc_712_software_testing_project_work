@@ -1,1 +1,87 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testArchiveNonFailedExecutionWithArchiveFailedExecutionMethod":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testGetExecutionState":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testCancel":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testSuspend":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testFail":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testArchiveTheOnlyCurrentExecution":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testGetNextInputSplit":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testCreateSpeculativeExecution":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testMarkFailed":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testArchiveFailedExecutions":["metrics.scope.operator","taskmanager.memory.segment-size","metrics.scope.jm","metrics.scope.task","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","taskmanager.network.sort-shuffle.min-buffers","jobmanager.execution.attempts-history-size","metrics.scope.tm","metrics.scope.tm-job","jobmanager.partition.release-during-job-execution","metrics.scope.jm-job","metrics.scope.jm-operator","execution.batch-shuffle-mode","execution.job-status-changed-listeners"],"org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testVertexTerminationAndJobTermination":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testResetExecutionVertex":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testArchiveNonFailedExecutionWithArchiveFailedExecutionMethod": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testGetExecutionState": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testCancel": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testSuspend": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testFail": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testArchiveTheOnlyCurrentExecution": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testGetNextInputSplit": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testCreateSpeculativeExecution": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testMarkFailed": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testArchiveFailedExecutions": [
+      "metrics.scope.operator",
+      "taskmanager.memory.segment-size",
+      "metrics.scope.jm",
+      "metrics.scope.task",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "taskmanager.network.sort-shuffle.min-buffers",
+      "jobmanager.execution.attempts-history-size",
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "jobmanager.partition.release-during-job-execution",
+      "metrics.scope.jm-job",
+      "metrics.scope.jm-operator",
+      "execution.batch-shuffle-mode",
+      "execution.job-status-changed-listeners"
+    ],
+    "org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testVertexTerminationAndJobTermination": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.executiongraph.SpeculativeExecutionVertexTest_testResetExecutionVertex": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ]
+  }
+}

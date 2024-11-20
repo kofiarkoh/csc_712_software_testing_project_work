@@ -1,1 +1,119 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testOperatorParitionableListStateMigration":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testBroadcastStateValueMigration":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedListStateSerializerReconfiguration":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedValueStateRegistrationFailsIfNewStateSerializerIsIncompatible":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testBroadcastStateValueSerializerReconfiguration":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testBroadcastStateRegistrationFailsIfNewKeySerializerIsIncompatible":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedMapStateAsIs":["metrics.scope.operator","fs.allowed-fallback-filesystems","fs.file.limit.input","fs.test.limit.output","fs.default-scheme","metrics.scope.jm","fs.test-entropy.limit.total","metrics.scope.task","fs.file.limit.output","metrics.scope.tm","metrics.scope.tm-job","fs.test.limit.input","fs.test-entropy.limit.output","fs.test-entropy.limit.input","metrics.scope.jm-job","metrics.scope.jm-operator","execution.checkpointing.snapshot-compression","fs.file.limit.total","fs.test.limit.total"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedListStateRegistrationFailsIfNewStateSerializerIsIncompatible":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedStateRegistrationFailsIfNewNamespaceSerializerIsIncompatible":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testBroadcastStateRegistrationFailsIfNewValueSerializerIsIncompatible":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedStateRegistrationSucceedsIfNewNamespaceSerializerRequiresReconfiguration":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedMapStateRegistrationFailsIfNewStateSerializerIsIncompatible":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testStateBackendRestoreFailsIfNewKeySerializerIsIncompatible":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedValueStateMigration":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testOperatorUnionListStateSerializerReconfiguration":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testStateBackendRestoreSucceedsIfNewKeySerializerRequiresReconfiguration":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedMapStateStateMigration":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testStateBackendRestoreFailsIfNewKeySerializerRequiresMigration":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testStateMigrationAfterChangingTTL":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testOperatorParitionableListStateSerializerReconfiguration":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testPriorityQueueStateCreationFailsIfNewSerializerIsNotCompatible":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedStateRegistrationFailsIfNewNamespaceSerializerRequiresMigration":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testOperatorUnionListStateMigration":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testBroadcastStateKeySerializerReconfiguration":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testOperatorUnionListStateRegistrationFailsIfNewSerializerIsIncompatible":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testStateMigrationAfterChangingTTLFromDisablingToEnabling":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedListStateMigration":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testBroadcastStateKeyMigration":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testOperatorParitionableListStateRegistrationFailsIfNewSerializerIsIncompatible":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testStateMigrationAfterChangingTTLFromEnablingToDisabling":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedMapStateSerializerReconfiguration":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedValueStateSerializerReconfiguration":["execution.checkpointing.snapshot-compression"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testOperatorParitionableListStateMigration": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testBroadcastStateValueMigration": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedListStateSerializerReconfiguration": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedValueStateRegistrationFailsIfNewStateSerializerIsIncompatible": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testBroadcastStateValueSerializerReconfiguration": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testBroadcastStateRegistrationFailsIfNewKeySerializerIsIncompatible": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedMapStateAsIs": [
+      "metrics.scope.operator",
+      "fs.allowed-fallback-filesystems",
+      "fs.file.limit.input",
+      "fs.test.limit.output",
+      "fs.default-scheme",
+      "metrics.scope.jm",
+      "fs.test-entropy.limit.total",
+      "metrics.scope.task",
+      "fs.file.limit.output",
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "fs.test.limit.input",
+      "fs.test-entropy.limit.output",
+      "fs.test-entropy.limit.input",
+      "metrics.scope.jm-job",
+      "metrics.scope.jm-operator",
+      "execution.checkpointing.snapshot-compression",
+      "fs.file.limit.total",
+      "fs.test.limit.total"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedListStateRegistrationFailsIfNewStateSerializerIsIncompatible": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedStateRegistrationFailsIfNewNamespaceSerializerIsIncompatible": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testBroadcastStateRegistrationFailsIfNewValueSerializerIsIncompatible": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedStateRegistrationSucceedsIfNewNamespaceSerializerRequiresReconfiguration": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedMapStateRegistrationFailsIfNewStateSerializerIsIncompatible": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testStateBackendRestoreFailsIfNewKeySerializerIsIncompatible": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedValueStateMigration": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testOperatorUnionListStateSerializerReconfiguration": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testStateBackendRestoreSucceedsIfNewKeySerializerRequiresReconfiguration": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedMapStateStateMigration": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testStateBackendRestoreFailsIfNewKeySerializerRequiresMigration": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testStateMigrationAfterChangingTTL": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testOperatorParitionableListStateSerializerReconfiguration": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testPriorityQueueStateCreationFailsIfNewSerializerIsNotCompatible": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedStateRegistrationFailsIfNewNamespaceSerializerRequiresMigration": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testOperatorUnionListStateMigration": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testBroadcastStateKeySerializerReconfiguration": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testOperatorUnionListStateRegistrationFailsIfNewSerializerIsIncompatible": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testStateMigrationAfterChangingTTLFromDisablingToEnabling": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedListStateMigration": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testBroadcastStateKeyMigration": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testOperatorParitionableListStateRegistrationFailsIfNewSerializerIsIncompatible": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testStateMigrationAfterChangingTTLFromEnablingToDisabling": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedMapStateSerializerReconfiguration": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.HashMapStateBackendWithFsStorageMigrationTest_testKeyedValueStateSerializerReconfiguration": [
+      "execution.checkpointing.snapshot-compression"
+    ]
+  }
+}

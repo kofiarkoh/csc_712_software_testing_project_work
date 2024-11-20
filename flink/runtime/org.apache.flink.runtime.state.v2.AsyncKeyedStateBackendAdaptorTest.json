@@ -1,1 +1,20 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.state.v2.AsyncKeyedStateBackendAdaptorTest_testListStateAdaptor":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.v2.AsyncKeyedStateBackendAdaptorTest_testReducingStateAdaptor":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.v2.AsyncKeyedStateBackendAdaptorTest_testAggregatingStateAdaptor":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.v2.AsyncKeyedStateBackendAdaptorTest_testValueStateAdaptor":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.v2.AsyncKeyedStateBackendAdaptorTest_testMapStateAdaptor":["execution.checkpointing.snapshot-compression"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.state.v2.AsyncKeyedStateBackendAdaptorTest_testListStateAdaptor": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.v2.AsyncKeyedStateBackendAdaptorTest_testReducingStateAdaptor": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.v2.AsyncKeyedStateBackendAdaptorTest_testAggregatingStateAdaptor": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.v2.AsyncKeyedStateBackendAdaptorTest_testValueStateAdaptor": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.v2.AsyncKeyedStateBackendAdaptorTest_testMapStateAdaptor": [
+      "execution.checkpointing.snapshot-compression"
+    ]
+  }
+}

@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.state.memory.MemoryCheckpointOutputStreamTest_testOversizedState":[],"org.apache.flink.runtime.state.memory.MemoryCheckpointOutputStreamTest_testStateStream":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.state.memory.MemoryCheckpointOutputStreamTest_testOversizedState": [],
+    "org.apache.flink.runtime.state.memory.MemoryCheckpointOutputStreamTest_testStateStream": []
+  }
+}

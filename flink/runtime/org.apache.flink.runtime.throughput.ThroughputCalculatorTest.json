@@ -1,1 +1,11 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.throughput.ThroughputCalculatorTest_testCorrectThroughputCalculation":[],"org.apache.flink.runtime.throughput.ThroughputCalculatorTest_testMultiplyIdleEnd":[],"org.apache.flink.runtime.throughput.ThroughputCalculatorTest_testIgnoringIdleTime":[],"org.apache.flink.runtime.throughput.ThroughputCalculatorTest_testNotRestartTimerOnCalculationDuringIdleTime":[],"org.apache.flink.runtime.throughput.ThroughputCalculatorTest_testResetValueAfterCalculation":[],"org.apache.flink.runtime.throughput.ThroughputCalculatorTest_testCalculationDuringIdleTime":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.throughput.ThroughputCalculatorTest_testCorrectThroughputCalculation": [],
+    "org.apache.flink.runtime.throughput.ThroughputCalculatorTest_testMultiplyIdleEnd": [],
+    "org.apache.flink.runtime.throughput.ThroughputCalculatorTest_testIgnoringIdleTime": [],
+    "org.apache.flink.runtime.throughput.ThroughputCalculatorTest_testNotRestartTimerOnCalculationDuringIdleTime": [],
+    "org.apache.flink.runtime.throughput.ThroughputCalculatorTest_testResetValueAfterCalculation": [],
+    "org.apache.flink.runtime.throughput.ThroughputCalculatorTest_testCalculationDuringIdleTime": []
+  }
+}

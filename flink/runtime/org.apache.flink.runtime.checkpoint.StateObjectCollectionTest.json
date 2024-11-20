@@ -1,1 +1,9 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.checkpoint.StateObjectCollectionTest_testForwardingStateObjectMethods":[],"org.apache.flink.runtime.checkpoint.StateObjectCollectionTest_testEmptyCollection":[],"org.apache.flink.runtime.checkpoint.StateObjectCollectionTest_testHasState":[],"org.apache.flink.runtime.checkpoint.StateObjectCollectionTest_testForwardingCollectionMethods":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.checkpoint.StateObjectCollectionTest_testForwardingStateObjectMethods": [],
+    "org.apache.flink.runtime.checkpoint.StateObjectCollectionTest_testEmptyCollection": [],
+    "org.apache.flink.runtime.checkpoint.StateObjectCollectionTest_testHasState": [],
+    "org.apache.flink.runtime.checkpoint.StateObjectCollectionTest_testForwardingCollectionMethods": []
+  }
+}

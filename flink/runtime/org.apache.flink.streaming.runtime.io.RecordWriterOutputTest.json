@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.runtime.io.RecordWriterOutputTest_testDisableUnalignedCheckpoint":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.runtime.io.RecordWriterOutputTest_testDisableUnalignedCheckpoint": []
+  }
+}

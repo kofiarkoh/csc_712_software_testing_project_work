@@ -1,1 +1,9 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.runtime.operators.windowing.PurgingTriggerTest_testForwarding":["execution.checkpointing.snapshot-compression"],"org.apache.flink.streaming.runtime.operators.windowing.PurgingTriggerTest_testAllMethodsImplemented":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.runtime.operators.windowing.PurgingTriggerTest_testForwarding": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.streaming.runtime.operators.windowing.PurgingTriggerTest_testAllMethodsImplemented": []
+  }
+}

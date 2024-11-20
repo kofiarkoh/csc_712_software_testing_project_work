@@ -1,1 +1,26 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.metrics.filter.DefaultMetricFilterTest_testFromConfigurationMultiplePatterns":["filter.excludes","filter.includes"],"org.apache.flink.runtime.metrics.filter.DefaultMetricFilterTest_testFromConfigurationIncludeByType":["filter.excludes","filter.includes"],"org.apache.flink.runtime.metrics.filter.DefaultMetricFilterTest_testFromConfigurationExcludeDefault":["filter.excludes","filter.includes"],"org.apache.flink.runtime.metrics.filter.DefaultMetricFilterTest_testFromConfigurationIncludeDefault":["filter.excludes","filter.includes"],"org.apache.flink.runtime.metrics.filter.DefaultMetricFilterTest_testFromConfigurationIncludeByScope":["filter.excludes","filter.includes"],"org.apache.flink.runtime.metrics.filter.DefaultMetricFilterTest_testConvertToPatternMultiple":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.metrics.filter.DefaultMetricFilterTest_testFromConfigurationMultiplePatterns": [
+      "filter.excludes",
+      "filter.includes"
+    ],
+    "org.apache.flink.runtime.metrics.filter.DefaultMetricFilterTest_testFromConfigurationIncludeByType": [
+      "filter.excludes",
+      "filter.includes"
+    ],
+    "org.apache.flink.runtime.metrics.filter.DefaultMetricFilterTest_testFromConfigurationExcludeDefault": [
+      "filter.excludes",
+      "filter.includes"
+    ],
+    "org.apache.flink.runtime.metrics.filter.DefaultMetricFilterTest_testFromConfigurationIncludeDefault": [
+      "filter.excludes",
+      "filter.includes"
+    ],
+    "org.apache.flink.runtime.metrics.filter.DefaultMetricFilterTest_testFromConfigurationIncludeByScope": [
+      "filter.excludes",
+      "filter.includes"
+    ],
+    "org.apache.flink.runtime.metrics.filter.DefaultMetricFilterTest_testConvertToPatternMultiple": []
+  }
+}

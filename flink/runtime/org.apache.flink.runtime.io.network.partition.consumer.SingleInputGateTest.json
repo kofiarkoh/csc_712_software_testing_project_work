@@ -1,1 +1,273 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testRequestBuffersWithUnknownInputChannel":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testRequestBackoffConfiguration":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testUpdateRemoteInputChannelWithNewPartitionId":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testBufferInUseCount":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testBackwardsEventWithUninitializedChannel":["taskmanager.memory.min-segment-size","metrics.scope.operator","taskmanager.memory.segment-size","metrics.scope.jm","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","metrics.scope.task","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled","metrics.scope.tm","metrics.scope.tm-job","metrics.scope.jm-job","metrics.scope.jm-operator"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testRequestBuffersWithRemoteInputChannel":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testPartitionNotFoundExceptionWhileGetNextBuffer":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testSingleInputGateWithSubpartitionIndexRange":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testGetCompressedBuffer":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testQueuedBuffers":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testNotifyAfterEndOfPartition":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testDrainFlagComputation":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testIsMoreAvailableReadingFromSingleInputChannel":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testCheckpointsDeclinedUnlessAllChannelsAreKnown":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testIsAvailable":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testBasicGetNextLogic":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testUpdateUnknownInputChannel":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testInputGateRemovalFromNettyShuffleEnvironment":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testReleaseWhilePollingChannel":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testCheckpointsDeclinedUnlessStateConsumed":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testIsAvailableAfterFinished":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testGetUnfinishedChannels":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testUpdateChannelBeforeRequest":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testSetupLogic":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testSingleInputGateInfo":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testAnnounceBufferSize":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testUpdateLocalInputChannelWithNewPartitionId":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testCalculateInputGateNetworkBuffers":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testPartitionRequestLogic":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testRequestBuffersWithUnknownInputChannel": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testRequestBackoffConfiguration": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testUpdateRemoteInputChannelWithNewPartitionId": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testBufferInUseCount": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testBackwardsEventWithUninitializedChannel": [
+      "taskmanager.memory.min-segment-size",
+      "metrics.scope.operator",
+      "taskmanager.memory.segment-size",
+      "metrics.scope.jm",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "metrics.scope.task",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled",
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "metrics.scope.jm-job",
+      "metrics.scope.jm-operator"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testRequestBuffersWithRemoteInputChannel": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testPartitionNotFoundExceptionWhileGetNextBuffer": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testSingleInputGateWithSubpartitionIndexRange": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testGetCompressedBuffer": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testQueuedBuffers": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testNotifyAfterEndOfPartition": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testDrainFlagComputation": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testIsMoreAvailableReadingFromSingleInputChannel": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testCheckpointsDeclinedUnlessAllChannelsAreKnown": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testIsAvailable": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testBasicGetNextLogic": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testUpdateUnknownInputChannel": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testInputGateRemovalFromNettyShuffleEnvironment": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testReleaseWhilePollingChannel": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testCheckpointsDeclinedUnlessStateConsumed": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testIsAvailableAfterFinished": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testGetUnfinishedChannels": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testUpdateChannelBeforeRequest": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testSetupLogic": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testSingleInputGateInfo": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testAnnounceBufferSize": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testUpdateLocalInputChannelWithNewPartitionId": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testCalculateInputGateNetworkBuffers": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.runtime.io.network.partition.consumer.SingleInputGateTest_testPartitionRequestLogic": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ]
+  }
+}

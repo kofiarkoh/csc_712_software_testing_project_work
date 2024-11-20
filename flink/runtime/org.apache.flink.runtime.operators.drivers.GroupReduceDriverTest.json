@@ -1,1 +1,32 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.operators.drivers.GroupReduceDriverTest_testAllReduceDriverIncorrectlyAccumulatingMutable":["driver.strategy","pipeline.object-reuse"],"org.apache.flink.runtime.operators.drivers.GroupReduceDriverTest_testAllReduceDriverImmutable":["driver.strategy","pipeline.object-reuse"],"org.apache.flink.runtime.operators.drivers.GroupReduceDriverTest_testAllReduceDriverAccumulatingImmutable":["metrics.scope.tm","metrics.scope.tm-job","metrics.scope.operator","metrics.scope.jm","metrics.scope.jm-job","metrics.scope.jm-operator","driver.strategy","metrics.scope.task","pipeline.object-reuse"],"org.apache.flink.runtime.operators.drivers.GroupReduceDriverTest_testAllReduceDriverMutable":["driver.strategy","pipeline.object-reuse"],"org.apache.flink.runtime.operators.drivers.GroupReduceDriverTest_testAllReduceDriverImmutableEmpty":["driver.strategy","pipeline.object-reuse"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.operators.drivers.GroupReduceDriverTest_testAllReduceDriverIncorrectlyAccumulatingMutable": [
+      "driver.strategy",
+      "pipeline.object-reuse"
+    ],
+    "org.apache.flink.runtime.operators.drivers.GroupReduceDriverTest_testAllReduceDriverImmutable": [
+      "driver.strategy",
+      "pipeline.object-reuse"
+    ],
+    "org.apache.flink.runtime.operators.drivers.GroupReduceDriverTest_testAllReduceDriverAccumulatingImmutable": [
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "metrics.scope.operator",
+      "metrics.scope.jm",
+      "metrics.scope.jm-job",
+      "metrics.scope.jm-operator",
+      "driver.strategy",
+      "metrics.scope.task",
+      "pipeline.object-reuse"
+    ],
+    "org.apache.flink.runtime.operators.drivers.GroupReduceDriverTest_testAllReduceDriverMutable": [
+      "driver.strategy",
+      "pipeline.object-reuse"
+    ],
+    "org.apache.flink.runtime.operators.drivers.GroupReduceDriverTest_testAllReduceDriverImmutableEmpty": [
+      "driver.strategy",
+      "pipeline.object-reuse"
+    ]
+  }
+}

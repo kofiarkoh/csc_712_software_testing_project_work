@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.runtime.partitioner.KeyGroupStreamPartitionerTest_testSelectChannelsGrouping":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.runtime.partitioner.KeyGroupStreamPartitionerTest_testSelectChannelsGrouping": []
+  }
+}

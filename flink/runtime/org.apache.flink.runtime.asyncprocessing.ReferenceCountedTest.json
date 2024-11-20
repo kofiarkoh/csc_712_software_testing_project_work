@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.asyncprocessing.ReferenceCountedTest_testRefCountReachedZero":[],"org.apache.flink.runtime.asyncprocessing.ReferenceCountedTest_testConcurrency":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.asyncprocessing.ReferenceCountedTest_testRefCountReachedZero": [],
+    "org.apache.flink.runtime.asyncprocessing.ReferenceCountedTest_testConcurrency": []
+  }
+}

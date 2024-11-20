@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.jobmaster.slotpool.PreferredAllocationRequestSlotMatchingStrategyTest_testNewSlotsAreMatchedAgainstPreferredAllocationIDs":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.jobmaster.slotpool.PreferredAllocationRequestSlotMatchingStrategyTest_testNewSlotsAreMatchedAgainstPreferredAllocationIDs": []
+  }
+}

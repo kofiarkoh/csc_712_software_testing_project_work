@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.rest.messages.job.savepoints.SavepointInfoTest_testSetBothLocationAndFailureCause":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.rest.messages.job.savepoints.SavepointInfoTest_testSetBothLocationAndFailureCause": []
+  }
+}

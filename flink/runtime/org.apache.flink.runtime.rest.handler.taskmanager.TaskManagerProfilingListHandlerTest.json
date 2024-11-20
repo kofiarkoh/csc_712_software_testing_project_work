@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.rest.handler.taskmanager.TaskManagerProfilingListHandlerTest_testGetTaskManagerProfilingListForUnknownTaskExecutorException":[],"org.apache.flink.runtime.rest.handler.taskmanager.TaskManagerProfilingListHandlerTest_testGetTaskManagerProfilingList":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.rest.handler.taskmanager.TaskManagerProfilingListHandlerTest_testGetTaskManagerProfilingListForUnknownTaskExecutorException": [],
+    "org.apache.flink.runtime.rest.handler.taskmanager.TaskManagerProfilingListHandlerTest_testGetTaskManagerProfilingList": []
+  }
+}

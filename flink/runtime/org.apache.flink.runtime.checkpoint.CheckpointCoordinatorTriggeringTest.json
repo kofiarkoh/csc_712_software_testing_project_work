@@ -1,1 +1,128 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggeringFullSnapshotAfterJobmasterFailover":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggerCheckpointWithShuttingDownCoordinator":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggerCheckpointBeforePreviousOneCompleted":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggeringCheckpointsWithNullCheckpointType":["metrics.scope.operator","taskmanager.memory.segment-size","metrics.scope.jm","metrics.scope.task","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","taskmanager.network.sort-shuffle.min-buffers","jobmanager.execution.attempts-history-size","metrics.scope.tm","metrics.scope.tm-job","jobmanager.partition.release-during-job-execution","metrics.scope.jm-job","metrics.scope.jm-operator","execution.batch-shuffle-mode","execution.job-status-changed-listeners"],"org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggeringCheckpointsWithIncrementalCheckpointType":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggerCheckpointRequestQueuedWithFailure":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testMinTimeBetweenCheckpointsInterval":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggeringCheckpointsWithCheckpointTypeAfterNoClaimSavepoint":["fs.allowed-fallback-filesystems","fs.file.limit.input","fs.test.limit.output","fs.default-scheme","fs.test-entropy.limit.total","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","fs.file.limit.output","jobmanager.execution.attempts-history-size","fs.test.limit.input","jobmanager.partition.release-during-job-execution","fs.test-entropy.limit.output","fs.test-entropy.limit.input","execution.job-status-changed-listeners","fs.file.limit.total","fs.test.limit.total"],"org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testWithNoOpCheckpointStatsTracker":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggeringFullCheckpoints":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggerCheckpointInitializationFailed":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggerCheckpointRequestCancelled":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testPeriodicTriggering":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testStopPeriodicScheduler":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggerCheckpointSnapshotMasterHookFailed":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggeringCheckpointsWithFullCheckpointType":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_discardingTriggeringCheckpointWillExecuteNextCheckpointRequest":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggeringFullSnapshotAfterJobmasterFailover": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggerCheckpointWithShuttingDownCoordinator": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggerCheckpointBeforePreviousOneCompleted": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggeringCheckpointsWithNullCheckpointType": [
+      "metrics.scope.operator",
+      "taskmanager.memory.segment-size",
+      "metrics.scope.jm",
+      "metrics.scope.task",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "taskmanager.network.sort-shuffle.min-buffers",
+      "jobmanager.execution.attempts-history-size",
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "jobmanager.partition.release-during-job-execution",
+      "metrics.scope.jm-job",
+      "metrics.scope.jm-operator",
+      "execution.batch-shuffle-mode",
+      "execution.job-status-changed-listeners"
+    ],
+    "org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggeringCheckpointsWithIncrementalCheckpointType": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggerCheckpointRequestQueuedWithFailure": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testMinTimeBetweenCheckpointsInterval": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggeringCheckpointsWithCheckpointTypeAfterNoClaimSavepoint": [
+      "fs.allowed-fallback-filesystems",
+      "fs.file.limit.input",
+      "fs.test.limit.output",
+      "fs.default-scheme",
+      "fs.test-entropy.limit.total",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "fs.file.limit.output",
+      "jobmanager.execution.attempts-history-size",
+      "fs.test.limit.input",
+      "jobmanager.partition.release-during-job-execution",
+      "fs.test-entropy.limit.output",
+      "fs.test-entropy.limit.input",
+      "execution.job-status-changed-listeners",
+      "fs.file.limit.total",
+      "fs.test.limit.total"
+    ],
+    "org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testWithNoOpCheckpointStatsTracker": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggeringFullCheckpoints": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggerCheckpointInitializationFailed": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggerCheckpointRequestCancelled": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testPeriodicTriggering": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testStopPeriodicScheduler": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggerCheckpointSnapshotMasterHookFailed": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_testTriggeringCheckpointsWithFullCheckpointType": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.checkpoint.CheckpointCoordinatorTriggeringTest_discardingTriggeringCheckpointWillExecuteNextCheckpointRequest": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ]
+  }
+}

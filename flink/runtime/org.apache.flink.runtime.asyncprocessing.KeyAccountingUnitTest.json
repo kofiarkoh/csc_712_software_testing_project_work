@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.asyncprocessing.KeyAccountingUnitTest_testBasic":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.asyncprocessing.KeyAccountingUnitTest_testBasic": []
+  }
+}

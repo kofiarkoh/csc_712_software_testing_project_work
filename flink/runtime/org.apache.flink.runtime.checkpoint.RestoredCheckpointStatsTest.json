@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.checkpoint.RestoredCheckpointStatsTest_testSimpleAccess":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.checkpoint.RestoredCheckpointStatsTest_testSimpleAccess": []
+  }
+}

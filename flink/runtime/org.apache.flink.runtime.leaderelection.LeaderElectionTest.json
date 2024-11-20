@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.leaderelection.LeaderElectionTest_testHasLeadership":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.leaderelection.LeaderElectionTest_testHasLeadership": []
+  }
+}

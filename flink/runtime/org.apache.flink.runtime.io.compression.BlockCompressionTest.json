@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.io.compression.BlockCompressionTest_testBlockCompression":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.io.compression.BlockCompressionTest_testBlockCompression": []
+  }
+}

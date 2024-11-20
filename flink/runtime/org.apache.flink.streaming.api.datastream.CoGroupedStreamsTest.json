@@ -1,1 +1,13 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.api.datastream.CoGroupedStreamsTest_testSetAllowedLateness":["parallelism.default","pipeline.closure-cleaner-level"],"org.apache.flink.streaming.api.datastream.CoGroupedStreamsTest_testDelegateToCoGrouped":["parallelism.default","pipeline.closure-cleaner-level"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.api.datastream.CoGroupedStreamsTest_testSetAllowedLateness": [
+      "parallelism.default",
+      "pipeline.closure-cleaner-level"
+    ],
+    "org.apache.flink.streaming.api.datastream.CoGroupedStreamsTest_testDelegateToCoGrouped": [
+      "parallelism.default",
+      "pipeline.closure-cleaner-level"
+    ]
+  }
+}

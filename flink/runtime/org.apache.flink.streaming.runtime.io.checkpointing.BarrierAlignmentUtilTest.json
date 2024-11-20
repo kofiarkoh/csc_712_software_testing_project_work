@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.runtime.io.checkpointing.BarrierAlignmentUtilTest_testDelayableTimerNotHiddenException":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.runtime.io.checkpointing.BarrierAlignmentUtilTest_testDelayableTimerNotHiddenException": []
+  }
+}

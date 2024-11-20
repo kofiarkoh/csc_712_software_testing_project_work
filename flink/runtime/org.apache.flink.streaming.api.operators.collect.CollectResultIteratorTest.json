@@ -1,1 +1,8 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.api.operators.collect.CollectResultIteratorTest_testCheckpointedIterator":[],"org.apache.flink.streaming.api.operators.collect.CollectResultIteratorTest_testEarlyClose":[],"org.apache.flink.streaming.api.operators.collect.CollectResultIteratorTest_testUncheckpointedIterator":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.api.operators.collect.CollectResultIteratorTest_testCheckpointedIterator": [],
+    "org.apache.flink.streaming.api.operators.collect.CollectResultIteratorTest_testEarlyClose": [],
+    "org.apache.flink.streaming.api.operators.collect.CollectResultIteratorTest_testUncheckpointedIterator": []
+  }
+}

@@ -1,1 +1,22 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testDuplicate":[],"org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testCopyIntoNewElements":[],"org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testSerializeIndividually":[],"org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testSerializabilityAndEquals":[],"org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testCopyIntoReusedElements":[],"org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testInstantiate":[],"org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testSerializedCopyAsSequence":[],"org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testSerializeIndividuallyReusingValues":[],"org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testNullability":[],"org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testSnapshotConfigurationAndReconfigure":[],"org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testCopyIndependently":[],"org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testSerializedCopyIndividually":[],"org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testSerializeAsSequenceNoReuse":[],"org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testConfigSnapshotInstantiation":[],"org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testGetLength":[],"org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testCopy":[],"org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testSerializeAsSequenceReusingValues":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testDuplicate": [],
+    "org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testCopyIntoNewElements": [],
+    "org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testSerializeIndividually": [],
+    "org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testSerializabilityAndEquals": [],
+    "org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testCopyIntoReusedElements": [],
+    "org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testInstantiate": [],
+    "org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testSerializedCopyAsSequence": [],
+    "org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testSerializeIndividuallyReusingValues": [],
+    "org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testNullability": [],
+    "org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testSnapshotConfigurationAndReconfigure": [],
+    "org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testCopyIndependently": [],
+    "org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testSerializedCopyIndividually": [],
+    "org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testSerializeAsSequenceNoReuse": [],
+    "org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testConfigSnapshotInstantiation": [],
+    "org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testGetLength": [],
+    "org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testCopy": [],
+    "org.apache.flink.streaming.api.operators.sortpartition.KeyAndValueSerializerTest_testSerializeAsSequenceReusingValues": []
+  }
+}

@@ -1,1 +1,63 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.blob.BlobServerSslTest_testFailedToInitWithTwoProtocolsSet":["blob.server.port","security.ssl.internal.truststore","blob.service.cleanup.interval","blob.fetch.backlog","security.ssl.key-password","security.ssl.protocol","blob.service.ssl.enabled","security.ssl.truststore","security.ssl.internal.session-cache-size","blob.fetch.num-concurrent","security.ssl.internal.enabled","security.ssl.internal.key-password","security.ssl.internal.session-timeout","security.ssl.internal.truststore-type","security.ssl.internal.truststore-password","security.ssl.internal.cert.fingerprint","security.ssl.algorithms","security.ssl.truststore-password","security.ssl.internal.keystore-password","security.ssl.internal.keystore","security.ssl.internal.keystore-type","security.ssl.keystore","security.ssl.keystore-password"],"org.apache.flink.runtime.blob.BlobServerSslTest_testFailedToInitWithMissingMandatorySslConfiguration":["blob.server.port","blob.service.cleanup.interval","blob.fetch.backlog","security.ssl.protocol","blob.service.ssl.enabled","security.ssl.internal.session-cache-size","blob.fetch.num-concurrent","security.ssl.internal.enabled","security.ssl.internal.session-timeout","security.ssl.algorithms","security.ssl.internal.keystore","security.ssl.keystore"],"org.apache.flink.runtime.blob.BlobServerSslTest_testFailedToInitWithInvalidSslKeystoreConfigured":["blob.server.port","blob.service.cleanup.interval","blob.fetch.backlog","security.ssl.key-password","security.ssl.protocol","blob.service.ssl.enabled","security.ssl.internal.session-cache-size","blob.fetch.num-concurrent","security.ssl.internal.enabled","security.ssl.internal.key-password","security.ssl.internal.session-timeout","security.ssl.algorithms","security.ssl.internal.keystore-password","security.ssl.internal.keystore","security.ssl.internal.keystore-type","security.ssl.keystore","security.ssl.keystore-password"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.blob.BlobServerSslTest_testFailedToInitWithTwoProtocolsSet": [
+      "blob.server.port",
+      "security.ssl.internal.truststore",
+      "blob.service.cleanup.interval",
+      "blob.fetch.backlog",
+      "security.ssl.key-password",
+      "security.ssl.protocol",
+      "blob.service.ssl.enabled",
+      "security.ssl.truststore",
+      "security.ssl.internal.session-cache-size",
+      "blob.fetch.num-concurrent",
+      "security.ssl.internal.enabled",
+      "security.ssl.internal.key-password",
+      "security.ssl.internal.session-timeout",
+      "security.ssl.internal.truststore-type",
+      "security.ssl.internal.truststore-password",
+      "security.ssl.internal.cert.fingerprint",
+      "security.ssl.algorithms",
+      "security.ssl.truststore-password",
+      "security.ssl.internal.keystore-password",
+      "security.ssl.internal.keystore",
+      "security.ssl.internal.keystore-type",
+      "security.ssl.keystore",
+      "security.ssl.keystore-password"
+    ],
+    "org.apache.flink.runtime.blob.BlobServerSslTest_testFailedToInitWithMissingMandatorySslConfiguration": [
+      "blob.server.port",
+      "blob.service.cleanup.interval",
+      "blob.fetch.backlog",
+      "security.ssl.protocol",
+      "blob.service.ssl.enabled",
+      "security.ssl.internal.session-cache-size",
+      "blob.fetch.num-concurrent",
+      "security.ssl.internal.enabled",
+      "security.ssl.internal.session-timeout",
+      "security.ssl.algorithms",
+      "security.ssl.internal.keystore",
+      "security.ssl.keystore"
+    ],
+    "org.apache.flink.runtime.blob.BlobServerSslTest_testFailedToInitWithInvalidSslKeystoreConfigured": [
+      "blob.server.port",
+      "blob.service.cleanup.interval",
+      "blob.fetch.backlog",
+      "security.ssl.key-password",
+      "security.ssl.protocol",
+      "blob.service.ssl.enabled",
+      "security.ssl.internal.session-cache-size",
+      "blob.fetch.num-concurrent",
+      "security.ssl.internal.enabled",
+      "security.ssl.internal.key-password",
+      "security.ssl.internal.session-timeout",
+      "security.ssl.algorithms",
+      "security.ssl.internal.keystore-password",
+      "security.ssl.internal.keystore",
+      "security.ssl.internal.keystore-type",
+      "security.ssl.keystore",
+      "security.ssl.keystore-password"
+    ]
+  }
+}

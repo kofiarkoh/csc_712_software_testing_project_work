@@ -1,1 +1,11 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.io.network.netty.NettyServerTest_testBindFailureDetection":[],"org.apache.flink.runtime.io.network.netty.NettyServerTest_testStartMultipleNettyServerSameConfig":["taskmanager.network.netty.client.connectTimeoutSec","security.ssl.internal.enabled","taskmanager.data.ssl.enabled"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.io.network.netty.NettyServerTest_testBindFailureDetection": [],
+    "org.apache.flink.runtime.io.network.netty.NettyServerTest_testStartMultipleNettyServerSameConfig": [
+      "taskmanager.network.netty.client.connectTimeoutSec",
+      "security.ssl.internal.enabled",
+      "taskmanager.data.ssl.enabled"
+    ]
+  }
+}

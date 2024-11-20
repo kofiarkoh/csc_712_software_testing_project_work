@@ -1,1 +1,27 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testExceptionalSavepointCompletionLeadsToExceptionalOperationFutureCompletion":[],"org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testFailingOnUpdateTaskExecutionStateWithNoRestart":[],"org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testJobFinishedBeforeSavepointFuture":[],"org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testJobFailedAndSavepointOperationFails":[],"org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testExceptionalOperationFutureCompletionOnLeaveWhileWaitingOnSavepointCompletion":[],"org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testOnFailureWaitsForSavepointCompletion":[],"org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testRestartOnGlobalFailureIfRestartConfigured":[],"org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testRestartingOnUpdateTaskExecutionStateWithRestart":[],"org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testJobFailedAndSavepointOperationSucceeds":[],"org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testTransitionToFinishedOnSuspend":[],"org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testErrorCreatingSavepointLeadsToTransitionToExecutingState":[],"org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testRestartOnTaskFailureAfterSavepointCompletion":[],"org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testConcurrentSavepointFailureAndGloballyTerminalStateCauseRestart":[],"org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testTransitionToCancellingOnCancel":[],"org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testFailingOnGlobalFailureIfNoRestartConfigured":[],"org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testEnsureCheckpointSchedulerIsStartedAgain":[],"org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testFinishedOnSuccessfulStopWithSavepoint":["parallelism.default","pipeline.object-reuse","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testExceptionalSavepointCompletionLeadsToExceptionalOperationFutureCompletion": [],
+    "org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testFailingOnUpdateTaskExecutionStateWithNoRestart": [],
+    "org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testJobFinishedBeforeSavepointFuture": [],
+    "org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testJobFailedAndSavepointOperationFails": [],
+    "org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testExceptionalOperationFutureCompletionOnLeaveWhileWaitingOnSavepointCompletion": [],
+    "org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testOnFailureWaitsForSavepointCompletion": [],
+    "org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testRestartOnGlobalFailureIfRestartConfigured": [],
+    "org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testRestartingOnUpdateTaskExecutionStateWithRestart": [],
+    "org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testJobFailedAndSavepointOperationSucceeds": [],
+    "org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testTransitionToFinishedOnSuspend": [],
+    "org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testErrorCreatingSavepointLeadsToTransitionToExecutingState": [],
+    "org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testRestartOnTaskFailureAfterSavepointCompletion": [],
+    "org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testConcurrentSavepointFailureAndGloballyTerminalStateCauseRestart": [],
+    "org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testTransitionToCancellingOnCancel": [],
+    "org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testFailingOnGlobalFailureIfNoRestartConfigured": [],
+    "org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testEnsureCheckpointSchedulerIsStartedAgain": [],
+    "org.apache.flink.runtime.scheduler.adaptive.StopWithSavepointTest_testFinishedOnSuccessfulStopWithSavepoint": [
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ]
+  }
+}

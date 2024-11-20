@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.io.network.partition.AbstractPartitionTrackerTest_testStartStopTracking":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.io.network.partition.AbstractPartitionTrackerTest_testStartStopTracking": []
+  }
+}

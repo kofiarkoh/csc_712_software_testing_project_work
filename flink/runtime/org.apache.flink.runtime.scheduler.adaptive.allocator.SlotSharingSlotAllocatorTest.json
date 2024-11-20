@@ -1,1 +1,18 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testReserveAvailableResources":[],"org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testDetermineParallelismWithAllEqualLowerUpperBoundFreSlots":[],"org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testDetermineParallelismWithMinimumSlots":[],"org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testCalculateRequiredSlots":[],"org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testDetermineParallelismWithManySlots":[],"org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testStickyAllocation":[],"org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testReserveUnavailableResources":[],"org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testDetermineParallelismWithVariedParallelism":[],"org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testDetermineParallelismWithLowerBoundsInsufficientSlotsForPartialVertices":[],"org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testDetermineParallelismUnsuccessfulWithLessSlotsThanSlotSharingGroups":[],"org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testDetermineParallelismWithAllEqualLowerUpperBoundManySlots":[],"org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testDetermineParallelismWithPartiallyEqualLowerUpperBound":[],"org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testDetermineParallelismWithLowerBoundsInsufficientSlots":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testReserveAvailableResources": [],
+    "org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testDetermineParallelismWithAllEqualLowerUpperBoundFreSlots": [],
+    "org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testDetermineParallelismWithMinimumSlots": [],
+    "org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testCalculateRequiredSlots": [],
+    "org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testDetermineParallelismWithManySlots": [],
+    "org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testStickyAllocation": [],
+    "org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testReserveUnavailableResources": [],
+    "org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testDetermineParallelismWithVariedParallelism": [],
+    "org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testDetermineParallelismWithLowerBoundsInsufficientSlotsForPartialVertices": [],
+    "org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testDetermineParallelismUnsuccessfulWithLessSlotsThanSlotSharingGroups": [],
+    "org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testDetermineParallelismWithAllEqualLowerUpperBoundManySlots": [],
+    "org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testDetermineParallelismWithPartiallyEqualLowerUpperBound": [],
+    "org.apache.flink.runtime.scheduler.adaptive.allocator.SlotSharingSlotAllocatorTest_testDetermineParallelismWithLowerBoundsInsufficientSlots": []
+  }
+}

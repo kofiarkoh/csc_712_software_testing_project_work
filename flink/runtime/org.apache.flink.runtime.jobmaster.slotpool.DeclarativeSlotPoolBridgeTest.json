@@ -1,1 +1,12 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeTest_testIfJobIsRestartingAllOfferedSlotsWillBeRegistered":[],"org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeTest_testNotEnoughResourcesAvailableFailsPendingRequests":[],"org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeTest_testSlotsBatchAllocatableLogic":[],"org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeTest_testNoConcurrentModificationWhenSuspendingAndReleasingSlot":[],"org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeTest_testAcceptingOfferedSlotsWithoutResourceManagerConnected":[],"org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeTest_testSlotOffer":[],"org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeTest_testReleasingAllocatedSlot":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeTest_testIfJobIsRestartingAllOfferedSlotsWillBeRegistered": [],
+    "org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeTest_testNotEnoughResourcesAvailableFailsPendingRequests": [],
+    "org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeTest_testSlotsBatchAllocatableLogic": [],
+    "org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeTest_testNoConcurrentModificationWhenSuspendingAndReleasingSlot": [],
+    "org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeTest_testAcceptingOfferedSlotsWithoutResourceManagerConnected": [],
+    "org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeTest_testSlotOffer": [],
+    "org.apache.flink.runtime.jobmaster.slotpool.DeclarativeSlotPoolBridgeTest_testReleasingAllocatedSlot": []
+  }
+}

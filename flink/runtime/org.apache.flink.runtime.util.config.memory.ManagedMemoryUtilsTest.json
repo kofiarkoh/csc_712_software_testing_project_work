@@ -1,1 +1,25 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.util.config.memory.ManagedMemoryUtilsTest_testConvertToFractionOfSlotStateBackendUseManagedMemory":["taskmanager.memory.managed.consumer-weights"],"org.apache.flink.runtime.util.config.memory.ManagedMemoryUtilsTest_testUseCaseWeightsConfiguredWithConflictValue":[],"org.apache.flink.runtime.util.config.memory.ManagedMemoryUtilsTest_testUseCaseWeightsConfiguredWithConsistentValue":[],"org.apache.flink.runtime.util.config.memory.ManagedMemoryUtilsTest_testGetWeightsFromConfig":["taskmanager.memory.managed.consumer-weights"],"org.apache.flink.runtime.util.config.memory.ManagedMemoryUtilsTest_testConvertToFractionOfSlotWeightNotConfigured":["taskmanager.memory.managed.consumer-weights"],"org.apache.flink.runtime.util.config.memory.ManagedMemoryUtilsTest_testGetWeightsFromConfigFailNegativeWeight":["taskmanager.memory.managed.consumer-weights"],"org.apache.flink.runtime.util.config.memory.ManagedMemoryUtilsTest_testConvertToFractionOfSlot":["taskmanager.memory.managed.consumer-weights"],"org.apache.flink.runtime.util.config.memory.ManagedMemoryUtilsTest_testConvertToFractionOfSlotStateBackendNotUserManagedMemory":["taskmanager.memory.managed.consumer-weights"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.util.config.memory.ManagedMemoryUtilsTest_testConvertToFractionOfSlotStateBackendUseManagedMemory": [
+      "taskmanager.memory.managed.consumer-weights"
+    ],
+    "org.apache.flink.runtime.util.config.memory.ManagedMemoryUtilsTest_testUseCaseWeightsConfiguredWithConflictValue": [],
+    "org.apache.flink.runtime.util.config.memory.ManagedMemoryUtilsTest_testUseCaseWeightsConfiguredWithConsistentValue": [],
+    "org.apache.flink.runtime.util.config.memory.ManagedMemoryUtilsTest_testGetWeightsFromConfig": [
+      "taskmanager.memory.managed.consumer-weights"
+    ],
+    "org.apache.flink.runtime.util.config.memory.ManagedMemoryUtilsTest_testConvertToFractionOfSlotWeightNotConfigured": [
+      "taskmanager.memory.managed.consumer-weights"
+    ],
+    "org.apache.flink.runtime.util.config.memory.ManagedMemoryUtilsTest_testGetWeightsFromConfigFailNegativeWeight": [
+      "taskmanager.memory.managed.consumer-weights"
+    ],
+    "org.apache.flink.runtime.util.config.memory.ManagedMemoryUtilsTest_testConvertToFractionOfSlot": [
+      "taskmanager.memory.managed.consumer-weights"
+    ],
+    "org.apache.flink.runtime.util.config.memory.ManagedMemoryUtilsTest_testConvertToFractionOfSlotStateBackendNotUserManagedMemory": [
+      "taskmanager.memory.managed.consumer-weights"
+    ]
+  }
+}

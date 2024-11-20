@@ -1,1 +1,8 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.rest.handler.job.metrics.JobVertexWatermarksHandlerTest_testPartialWatermarksAvailable":[],"org.apache.flink.runtime.rest.handler.job.metrics.JobVertexWatermarksHandlerTest_testNoWatermarksAvailable":[],"org.apache.flink.runtime.rest.handler.job.metrics.JobVertexWatermarksHandlerTest_testWatermarksRetrieval":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.rest.handler.job.metrics.JobVertexWatermarksHandlerTest_testPartialWatermarksAvailable": [],
+    "org.apache.flink.runtime.rest.handler.job.metrics.JobVertexWatermarksHandlerTest_testNoWatermarksAvailable": [],
+    "org.apache.flink.runtime.rest.handler.job.metrics.JobVertexWatermarksHandlerTest_testWatermarksRetrieval": []
+  }
+}

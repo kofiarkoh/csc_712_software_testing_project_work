@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.state.KeyGroupRangeTest_testKeyGroupRangeBasics":[],"org.apache.flink.runtime.state.KeyGroupRangeTest_testKeyGroupIntersection":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.state.KeyGroupRangeTest_testKeyGroupRangeBasics": [],
+    "org.apache.flink.runtime.state.KeyGroupRangeTest_testKeyGroupIntersection": []
+  }
+}

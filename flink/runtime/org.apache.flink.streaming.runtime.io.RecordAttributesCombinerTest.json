@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.runtime.io.RecordAttributesCombinerTest_testCombineRecordAttributes":[],"org.apache.flink.streaming.runtime.io.RecordAttributesCombinerTest_testCombinerOnlyOutputNonBacklogWhenAllInputChannelAreNonBacklog":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.runtime.io.RecordAttributesCombinerTest_testCombineRecordAttributes": [],
+    "org.apache.flink.streaming.runtime.io.RecordAttributesCombinerTest_testCombinerOnlyOutputNonBacklogWhenAllInputChannelAreNonBacklog": []
+  }
+}

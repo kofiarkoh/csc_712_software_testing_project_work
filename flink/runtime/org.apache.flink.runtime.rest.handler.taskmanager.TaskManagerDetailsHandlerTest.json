@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.rest.handler.taskmanager.TaskManagerDetailsHandlerTest_testTaskManagerMetricsInfoExtraction":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.rest.handler.taskmanager.TaskManagerDetailsHandlerTest_testTaskManagerMetricsInfoExtraction": []
+  }
+}

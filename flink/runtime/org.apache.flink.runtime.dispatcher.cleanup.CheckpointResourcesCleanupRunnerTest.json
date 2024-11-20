@@ -1,1 +1,137 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testIsInitializedBeforeStart":["execution.checkpointing.cleaner.parallel-mode"],"testRequestJob_InitiatizationTimestamp":[],"org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testCloseAsyncBeforeStart":["execution.checkpointing.cleaner.parallel-mode"],"org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testSuccessfulCloseAsyncAfterStart":["execution.checkpointing.cleaner.parallel-mode","parallelism.default","pipeline.object-reuse","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testCancellationBeforeStart":["execution.checkpointing.cleaner.parallel-mode"],"org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testCancellationAfterClose":["execution.checkpointing.cleaner.parallel-mode","parallelism.default","pipeline.object-reuse","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testResultFutureWithErrorAfterClose":["execution.checkpointing.cleaner.parallel-mode","parallelism.default","pipeline.object-reuse","execution.checkpointing.num-retained","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testRequestJobWithFailure":["execution.checkpointing.cleaner.parallel-mode","parallelism.default","pipeline.object-reuse","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testResultFutureWithErrorAfterStart":["execution.checkpointing.cleaner.parallel-mode","parallelism.default","pipeline.object-reuse","execution.checkpointing.num-retained","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testResultFutureWithSuccessAfterClose":["execution.checkpointing.cleaner.parallel-mode","parallelism.default","pipeline.object-reuse","execution.checkpointing.num-retained","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"testRequestJob_JobId":[],"testRequestJob_ExceptionHistory":[],"org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testGetJobMasterGatewayAfterClose":["execution.checkpointing.cleaner.parallel-mode","parallelism.default","pipeline.object-reuse","execution.checkpointing.num-retained","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testIsInitializedAfterStart":["execution.checkpointing.cleaner.parallel-mode","parallelism.default","pipeline.object-reuse","execution.checkpointing.num-retained","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"testRequestJob_JobState":[],"org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testGetJobID":["execution.checkpointing.cleaner.parallel-mode"],"org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testCloseAsyncAfterStartAndErrorInCheckpointIDCounterShutdown":["execution.checkpointing.cleaner.parallel-mode","parallelism.default","pipeline.object-reuse","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testGetJobMasterGatewayBeforeStart":["execution.checkpointing.cleaner.parallel-mode"],"org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testIsInitializedAfterClose":["execution.checkpointing.cleaner.parallel-mode","parallelism.default","pipeline.object-reuse","execution.checkpointing.num-retained","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testCloseAsyncAfterStartAndErrorInCompletedCheckpointStoreShutdown":["execution.checkpointing.cleaner.parallel-mode","parallelism.default","pipeline.object-reuse","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testResultFutureWithErrorBeforeStart":["execution.checkpointing.cleaner.parallel-mode"],"org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testResultFutureWithSuccessAfterStart":["execution.checkpointing.cleaner.parallel-mode","parallelism.default","pipeline.object-reuse","execution.checkpointing.num-retained","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testGetJobMasterGatewayAfterStart":["execution.checkpointing.cleaner.parallel-mode","parallelism.default","pipeline.object-reuse","execution.checkpointing.num-retained","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testResultFutureWithSuccessBeforeStart":["execution.checkpointing.cleaner.parallel-mode"],"org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testCancellationAfterStart":["execution.checkpointing.cleaner.parallel-mode","parallelism.default","pipeline.object-reuse","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"testRequestJob_JobName":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testIsInitializedBeforeStart": [
+      "execution.checkpointing.cleaner.parallel-mode"
+    ],
+    "testRequestJob_InitiatizationTimestamp": [],
+    "org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testCloseAsyncBeforeStart": [
+      "execution.checkpointing.cleaner.parallel-mode"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testSuccessfulCloseAsyncAfterStart": [
+      "execution.checkpointing.cleaner.parallel-mode",
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testCancellationBeforeStart": [
+      "execution.checkpointing.cleaner.parallel-mode"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testCancellationAfterClose": [
+      "execution.checkpointing.cleaner.parallel-mode",
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testResultFutureWithErrorAfterClose": [
+      "execution.checkpointing.cleaner.parallel-mode",
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "execution.checkpointing.num-retained",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testRequestJobWithFailure": [
+      "execution.checkpointing.cleaner.parallel-mode",
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testResultFutureWithErrorAfterStart": [
+      "execution.checkpointing.cleaner.parallel-mode",
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "execution.checkpointing.num-retained",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testResultFutureWithSuccessAfterClose": [
+      "execution.checkpointing.cleaner.parallel-mode",
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "execution.checkpointing.num-retained",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "testRequestJob_JobId": [],
+    "testRequestJob_ExceptionHistory": [],
+    "org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testGetJobMasterGatewayAfterClose": [
+      "execution.checkpointing.cleaner.parallel-mode",
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "execution.checkpointing.num-retained",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testIsInitializedAfterStart": [
+      "execution.checkpointing.cleaner.parallel-mode",
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "execution.checkpointing.num-retained",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "testRequestJob_JobState": [],
+    "org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testGetJobID": [
+      "execution.checkpointing.cleaner.parallel-mode"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testCloseAsyncAfterStartAndErrorInCheckpointIDCounterShutdown": [
+      "execution.checkpointing.cleaner.parallel-mode",
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testGetJobMasterGatewayBeforeStart": [
+      "execution.checkpointing.cleaner.parallel-mode"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testIsInitializedAfterClose": [
+      "execution.checkpointing.cleaner.parallel-mode",
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "execution.checkpointing.num-retained",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testCloseAsyncAfterStartAndErrorInCompletedCheckpointStoreShutdown": [
+      "execution.checkpointing.cleaner.parallel-mode",
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testResultFutureWithErrorBeforeStart": [
+      "execution.checkpointing.cleaner.parallel-mode"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testResultFutureWithSuccessAfterStart": [
+      "execution.checkpointing.cleaner.parallel-mode",
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "execution.checkpointing.num-retained",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testGetJobMasterGatewayAfterStart": [
+      "execution.checkpointing.cleaner.parallel-mode",
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "execution.checkpointing.num-retained",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testResultFutureWithSuccessBeforeStart": [
+      "execution.checkpointing.cleaner.parallel-mode"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CheckpointResourcesCleanupRunnerTest_testCancellationAfterStart": [
+      "execution.checkpointing.cleaner.parallel-mode",
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "testRequestJob_JobName": []
+  }
+}

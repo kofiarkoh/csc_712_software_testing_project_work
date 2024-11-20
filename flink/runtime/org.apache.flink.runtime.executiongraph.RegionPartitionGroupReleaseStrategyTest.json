@@ -1,1 +1,10 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.executiongraph.RegionPartitionGroupReleaseStrategyTest_releasePartitionsIfDownstreamRegionWithMultipleOperatorsIsFinished":[],"org.apache.flink.runtime.executiongraph.RegionPartitionGroupReleaseStrategyTest_toggleVertexFinishedUnfinished":[],"org.apache.flink.runtime.executiongraph.RegionPartitionGroupReleaseStrategyTest_updateStrategyOnTopologyUpdate":[],"org.apache.flink.runtime.executiongraph.RegionPartitionGroupReleaseStrategyTest_releasePartitionsIfDownstreamRegionIsFinished":[],"org.apache.flink.runtime.executiongraph.RegionPartitionGroupReleaseStrategyTest_notReleasePartitionsIfDownstreamRegionIsNotFinished":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.executiongraph.RegionPartitionGroupReleaseStrategyTest_releasePartitionsIfDownstreamRegionWithMultipleOperatorsIsFinished": [],
+    "org.apache.flink.runtime.executiongraph.RegionPartitionGroupReleaseStrategyTest_toggleVertexFinishedUnfinished": [],
+    "org.apache.flink.runtime.executiongraph.RegionPartitionGroupReleaseStrategyTest_updateStrategyOnTopologyUpdate": [],
+    "org.apache.flink.runtime.executiongraph.RegionPartitionGroupReleaseStrategyTest_releasePartitionsIfDownstreamRegionIsFinished": [],
+    "org.apache.flink.runtime.executiongraph.RegionPartitionGroupReleaseStrategyTest_notReleasePartitionsIfDownstreamRegionIsNotFinished": []
+  }
+}

@@ -1,1 +1,8 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.entrypoint.ModifiableClusterConfigurationParserFactoryTest_testMissingRequiredArgument":[],"org.apache.flink.runtime.entrypoint.ModifiableClusterConfigurationParserFactoryTest_testModifiableClusterConfigurationParsing":[],"org.apache.flink.runtime.entrypoint.ModifiableClusterConfigurationParserFactoryTest_testOnlyRequiredArguments":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.entrypoint.ModifiableClusterConfigurationParserFactoryTest_testMissingRequiredArgument": [],
+    "org.apache.flink.runtime.entrypoint.ModifiableClusterConfigurationParserFactoryTest_testModifiableClusterConfigurationParsing": [],
+    "org.apache.flink.runtime.entrypoint.ModifiableClusterConfigurationParserFactoryTest_testOnlyRequiredArguments": []
+  }
+}

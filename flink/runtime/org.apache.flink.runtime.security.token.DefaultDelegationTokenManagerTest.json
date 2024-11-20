@@ -1,1 +1,81 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_configurationIsNullMustFailFast":[],"org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_checkProviderAndReceiverConsistencyShouldThrowWhenMissingProvider":[],"org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_checkSamePrefixedProvidersShouldGiveErrorsWhenSamePrefix":[],"org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_calculateRenewalDelayShouldConsiderRenewalRatio":["security.delegation.token.provider.test.enabled","security.delegation.token.provider.hadoopfs.enabled","security.delegation.tokens.renewal.retry.backoff","security.delegation.token.provider.hbase.enabled","security.kerberos.login.use-ticket-cache","security.kerberos.login.contexts","security.kerberos.login.principal","security.delegation.tokens.renewal.time-ratio","security.delegation.token.provider.throw.enabled","zookeeper.sasl.login-context-name","security.delegation.tokens.enabled","zookeeper.sasl.disable","security.context.factory.classes","security.kerberos.relogin.period","security.kerberos.login.keytab","security.module.factory.classes","zookeeper.sasl.service-name"],"org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_checkProviderAndReceiverConsistencyShouldNotThrowWhenNothingLoaded":[],"org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_checkSamePrefixedProvidersShouldNotGiveErrorsWhenNoSamePrefix":[],"org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_testAllProvidersLoaded":["security.delegation.token.provider.test.enabled","security.delegation.token.provider.hadoopfs.enabled","security.delegation.tokens.renewal.retry.backoff","security.delegation.token.provider.hbase.enabled","security.kerberos.login.use-ticket-cache","security.kerberos.login.contexts","security.kerberos.login.principal","security.delegation.tokens.renewal.time-ratio","security.delegation.token.provider.throw.enabled","zookeeper.sasl.login-context-name","security.delegation.tokens.enabled","zookeeper.sasl.disable","security.context.factory.classes","security.kerberos.relogin.period","security.kerberos.login.keytab","security.module.factory.classes","zookeeper.sasl.service-name"],"org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_checkProviderAndReceiverConsistencyShouldNotThrowWhenBothLoaded":[],"org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_isProviderEnabledMustGiveBackFalseWhenDisabled":["security.delegation.token.provider.test.enabled"],"org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_startTokensUpdateShouldScheduleRenewal":["security.delegation.token.provider.test.enabled","security.delegation.token.provider.hadoopfs.enabled","security.delegation.tokens.renewal.retry.backoff","security.delegation.token.provider.hbase.enabled","security.kerberos.login.use-ticket-cache","security.kerberos.login.contexts","security.kerberos.login.principal","security.delegation.tokens.renewal.time-ratio","security.delegation.token.provider.throw.enabled","zookeeper.sasl.login-context-name","security.delegation.tokens.enabled","zookeeper.sasl.disable","security.context.factory.classes","security.kerberos.relogin.period","security.kerberos.login.keytab","security.module.factory.classes","zookeeper.sasl.service-name"],"org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_isProviderEnabledMustGiveBackTrueByDefault":["security.delegation.token.provider.test.enabled"],"org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_oneProviderThrowsExceptionMustFailFast":["security.delegation.token.provider.test.enabled","security.delegation.tokens.renewal.time-ratio","security.delegation.token.provider.throw.enabled","security.delegation.tokens.renewal.retry.backoff"],"org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_checkProviderAndReceiverConsistencyShouldThrowWhenMissingReceiver":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_configurationIsNullMustFailFast": [],
+    "org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_checkProviderAndReceiverConsistencyShouldThrowWhenMissingProvider": [],
+    "org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_checkSamePrefixedProvidersShouldGiveErrorsWhenSamePrefix": [],
+    "org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_calculateRenewalDelayShouldConsiderRenewalRatio": [
+      "security.delegation.token.provider.test.enabled",
+      "security.delegation.token.provider.hadoopfs.enabled",
+      "security.delegation.tokens.renewal.retry.backoff",
+      "security.delegation.token.provider.hbase.enabled",
+      "security.kerberos.login.use-ticket-cache",
+      "security.kerberos.login.contexts",
+      "security.kerberos.login.principal",
+      "security.delegation.tokens.renewal.time-ratio",
+      "security.delegation.token.provider.throw.enabled",
+      "zookeeper.sasl.login-context-name",
+      "security.delegation.tokens.enabled",
+      "zookeeper.sasl.disable",
+      "security.context.factory.classes",
+      "security.kerberos.relogin.period",
+      "security.kerberos.login.keytab",
+      "security.module.factory.classes",
+      "zookeeper.sasl.service-name"
+    ],
+    "org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_checkProviderAndReceiverConsistencyShouldNotThrowWhenNothingLoaded": [],
+    "org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_checkSamePrefixedProvidersShouldNotGiveErrorsWhenNoSamePrefix": [],
+    "org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_testAllProvidersLoaded": [
+      "security.delegation.token.provider.test.enabled",
+      "security.delegation.token.provider.hadoopfs.enabled",
+      "security.delegation.tokens.renewal.retry.backoff",
+      "security.delegation.token.provider.hbase.enabled",
+      "security.kerberos.login.use-ticket-cache",
+      "security.kerberos.login.contexts",
+      "security.kerberos.login.principal",
+      "security.delegation.tokens.renewal.time-ratio",
+      "security.delegation.token.provider.throw.enabled",
+      "zookeeper.sasl.login-context-name",
+      "security.delegation.tokens.enabled",
+      "zookeeper.sasl.disable",
+      "security.context.factory.classes",
+      "security.kerberos.relogin.period",
+      "security.kerberos.login.keytab",
+      "security.module.factory.classes",
+      "zookeeper.sasl.service-name"
+    ],
+    "org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_checkProviderAndReceiverConsistencyShouldNotThrowWhenBothLoaded": [],
+    "org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_isProviderEnabledMustGiveBackFalseWhenDisabled": [
+      "security.delegation.token.provider.test.enabled"
+    ],
+    "org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_startTokensUpdateShouldScheduleRenewal": [
+      "security.delegation.token.provider.test.enabled",
+      "security.delegation.token.provider.hadoopfs.enabled",
+      "security.delegation.tokens.renewal.retry.backoff",
+      "security.delegation.token.provider.hbase.enabled",
+      "security.kerberos.login.use-ticket-cache",
+      "security.kerberos.login.contexts",
+      "security.kerberos.login.principal",
+      "security.delegation.tokens.renewal.time-ratio",
+      "security.delegation.token.provider.throw.enabled",
+      "zookeeper.sasl.login-context-name",
+      "security.delegation.tokens.enabled",
+      "zookeeper.sasl.disable",
+      "security.context.factory.classes",
+      "security.kerberos.relogin.period",
+      "security.kerberos.login.keytab",
+      "security.module.factory.classes",
+      "zookeeper.sasl.service-name"
+    ],
+    "org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_isProviderEnabledMustGiveBackTrueByDefault": [
+      "security.delegation.token.provider.test.enabled"
+    ],
+    "org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_oneProviderThrowsExceptionMustFailFast": [
+      "security.delegation.token.provider.test.enabled",
+      "security.delegation.tokens.renewal.time-ratio",
+      "security.delegation.token.provider.throw.enabled",
+      "security.delegation.tokens.renewal.retry.backoff"
+    ],
+    "org.apache.flink.runtime.security.token.DefaultDelegationTokenManagerTest_checkProviderAndReceiverConsistencyShouldThrowWhenMissingReceiver": []
+  }
+}

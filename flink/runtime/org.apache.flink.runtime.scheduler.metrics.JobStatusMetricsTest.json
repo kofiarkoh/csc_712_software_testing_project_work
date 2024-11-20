@@ -1,1 +1,24 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.scheduler.metrics.JobStatusMetricsTest_testTotalTimeMetric":["metrics.job.status.enable"],"org.apache.flink.runtime.scheduler.metrics.JobStatusMetricsTest_testStatusSelection":["metrics.scope.tm","metrics.scope.tm-job","metrics.job.status.enable","metrics.scope.operator","metrics.scope.jm","metrics.scope.jm-job","metrics.scope.jm-operator","metrics.scope.task"],"org.apache.flink.runtime.scheduler.metrics.JobStatusMetricsTest_testCurrentTimeMetric":["metrics.job.status.enable"],"org.apache.flink.runtime.scheduler.metrics.JobStatusMetricsTest_testStateMetric":["metrics.job.status.enable"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.scheduler.metrics.JobStatusMetricsTest_testTotalTimeMetric": [
+      "metrics.job.status.enable"
+    ],
+    "org.apache.flink.runtime.scheduler.metrics.JobStatusMetricsTest_testStatusSelection": [
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "metrics.job.status.enable",
+      "metrics.scope.operator",
+      "metrics.scope.jm",
+      "metrics.scope.jm-job",
+      "metrics.scope.jm-operator",
+      "metrics.scope.task"
+    ],
+    "org.apache.flink.runtime.scheduler.metrics.JobStatusMetricsTest_testCurrentTimeMetric": [
+      "metrics.job.status.enable"
+    ],
+    "org.apache.flink.runtime.scheduler.metrics.JobStatusMetricsTest_testStateMetric": [
+      "metrics.job.status.enable"
+    ]
+  }
+}

@@ -1,1 +1,42 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.jobmaster.DefaultSlotPoolServiceSchedulerFactoryTest_testGetRequestSlotMatchingStrategy":["execution.state-recovery.from-local"],"org.apache.flink.runtime.jobmaster.DefaultSlotPoolServiceSchedulerFactoryTest_testFallBackSchedulerWithoutAdaptiveSchedulerTestProperty":["slot.request.timeout","execution.state-recovery.from-local","slot.request.max-interval","jobmanager.scheduler","scheduler-mode","slot.idle.timeout","pekko.ask.timeout"],"org.apache.flink.runtime.jobmaster.DefaultSlotPoolServiceSchedulerFactoryTest_testFallBackSchedulerWithAdaptiveSchedulerTestProperty":["slot.request.timeout","execution.state-recovery.from-local","slot.request.max-interval","jobmanager.scheduler","scheduler-mode","slot.idle.timeout","pekko.ask.timeout"],"org.apache.flink.runtime.jobmaster.DefaultSlotPoolServiceSchedulerFactoryTest_testFallsBackToDefaultSchedulerIfAdaptiveSchedulerInBatchJob":["slot.request.timeout","execution.state-recovery.from-local","slot.request.max-interval","jobmanager.scheduler","scheduler-mode","slot.idle.timeout","pekko.ask.timeout"],"org.apache.flink.runtime.jobmaster.DefaultSlotPoolServiceSchedulerFactoryTest_testAdaptiveSchedulerForReactiveMode":["slot.request.timeout","slot.request.max-interval","scheduler-mode","slot.idle.timeout","pekko.ask.timeout"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.jobmaster.DefaultSlotPoolServiceSchedulerFactoryTest_testGetRequestSlotMatchingStrategy": [
+      "execution.state-recovery.from-local"
+    ],
+    "org.apache.flink.runtime.jobmaster.DefaultSlotPoolServiceSchedulerFactoryTest_testFallBackSchedulerWithoutAdaptiveSchedulerTestProperty": [
+      "slot.request.timeout",
+      "execution.state-recovery.from-local",
+      "slot.request.max-interval",
+      "jobmanager.scheduler",
+      "scheduler-mode",
+      "slot.idle.timeout",
+      "pekko.ask.timeout"
+    ],
+    "org.apache.flink.runtime.jobmaster.DefaultSlotPoolServiceSchedulerFactoryTest_testFallBackSchedulerWithAdaptiveSchedulerTestProperty": [
+      "slot.request.timeout",
+      "execution.state-recovery.from-local",
+      "slot.request.max-interval",
+      "jobmanager.scheduler",
+      "scheduler-mode",
+      "slot.idle.timeout",
+      "pekko.ask.timeout"
+    ],
+    "org.apache.flink.runtime.jobmaster.DefaultSlotPoolServiceSchedulerFactoryTest_testFallsBackToDefaultSchedulerIfAdaptiveSchedulerInBatchJob": [
+      "slot.request.timeout",
+      "execution.state-recovery.from-local",
+      "slot.request.max-interval",
+      "jobmanager.scheduler",
+      "scheduler-mode",
+      "slot.idle.timeout",
+      "pekko.ask.timeout"
+    ],
+    "org.apache.flink.runtime.jobmaster.DefaultSlotPoolServiceSchedulerFactoryTest_testAdaptiveSchedulerForReactiveMode": [
+      "slot.request.timeout",
+      "slot.request.max-interval",
+      "scheduler-mode",
+      "slot.idle.timeout",
+      "pekko.ask.timeout"
+    ]
+  }
+}

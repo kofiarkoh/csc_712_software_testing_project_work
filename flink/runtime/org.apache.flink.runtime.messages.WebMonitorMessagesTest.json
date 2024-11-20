@@ -1,1 +1,8 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.messages.WebMonitorMessagesTest_testJobDetailsMessage":[],"org.apache.flink.runtime.messages.WebMonitorMessagesTest_testMultipleJobDetails":[],"org.apache.flink.runtime.messages.WebMonitorMessagesTest_testStatusMessages":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.messages.WebMonitorMessagesTest_testJobDetailsMessage": [],
+    "org.apache.flink.runtime.messages.WebMonitorMessagesTest_testMultipleJobDetails": [],
+    "org.apache.flink.runtime.messages.WebMonitorMessagesTest_testStatusMessages": []
+  }
+}

@@ -1,1 +1,16 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.api.operators.StreamTaskStateInitializerImplTest_testNoRestore":["metrics.scope.tm","metrics.scope.tm-job","metrics.scope.operator","metrics.scope.jm","metrics.scope.jm-job","metrics.scope.jm-operator","metrics.scope.task","execution.checkpointing.snapshot-compression"],"org.apache.flink.streaming.api.operators.StreamTaskStateInitializerImplTest_testWithRestore":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.api.operators.StreamTaskStateInitializerImplTest_testNoRestore": [
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "metrics.scope.operator",
+      "metrics.scope.jm",
+      "metrics.scope.jm-job",
+      "metrics.scope.jm-operator",
+      "metrics.scope.task",
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.streaming.api.operators.StreamTaskStateInitializerImplTest_testWithRestore": []
+  }
+}

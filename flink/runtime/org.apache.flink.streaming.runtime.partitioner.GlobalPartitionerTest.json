@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.runtime.partitioner.GlobalPartitionerTest_testSerializable":[],"org.apache.flink.streaming.runtime.partitioner.GlobalPartitionerTest_testSelectChannels":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.runtime.partitioner.GlobalPartitionerTest_testSerializable": [],
+    "org.apache.flink.streaming.runtime.partitioner.GlobalPartitionerTest_testSelectChannels": []
+  }
+}

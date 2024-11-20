@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.runtime.operators.windowing.GlobalWindowsTest_testWindowAssignment":[],"org.apache.flink.streaming.runtime.operators.windowing.GlobalWindowsTest_testProperties":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.runtime.operators.windowing.GlobalWindowsTest_testWindowAssignment": [],
+    "org.apache.flink.streaming.runtime.operators.windowing.GlobalWindowsTest_testProperties": []
+  }
+}

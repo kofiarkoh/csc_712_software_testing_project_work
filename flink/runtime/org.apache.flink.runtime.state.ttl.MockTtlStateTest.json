@@ -1,1 +1,45 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.state.ttl.MockTtlStateTest_testIncrementalCleanup":[],"org.apache.flink.runtime.state.ttl.MockTtlStateTest_testRelaxedExpirationOnWrite":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.ttl.MockTtlStateTest_testRestoreTtlAndRegisterNonTtlStateCompatFailure":[],"org.apache.flink.runtime.state.ttl.MockTtlStateTest_testMultipleKeysWithSnapshotCleanup":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.ttl.MockTtlStateTest_testMultipleKeys":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.ttl.MockTtlStateTest_testNonExistentValue":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.ttl.MockTtlStateTest_testSnapshotChangeRestore":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.ttl.MockTtlStateTest_testMultipleNamespaces":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.ttl.MockTtlStateTest_testValueSetNull":[],"org.apache.flink.runtime.state.ttl.MockTtlStateTest_testExactExpirationOnWrite":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.ttl.MockTtlStateTest_testRelaxedExpirationOnRead":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.ttl.MockTtlStateTest_testIncrementalCleanupWholeState":[],"org.apache.flink.runtime.state.ttl.MockTtlStateTest_testMultipleNamespacesWithSnapshotCleanup":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.ttl.MockTtlStateTest_testExpirationTimestampOverflow":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.ttl.MockTtlStateTest_testMergeNamespaces":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.ttl.MockTtlStateTest_testExactExpirationOnRead":["execution.checkpointing.snapshot-compression"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.state.ttl.MockTtlStateTest_testIncrementalCleanup": [],
+    "org.apache.flink.runtime.state.ttl.MockTtlStateTest_testRelaxedExpirationOnWrite": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.ttl.MockTtlStateTest_testRestoreTtlAndRegisterNonTtlStateCompatFailure": [],
+    "org.apache.flink.runtime.state.ttl.MockTtlStateTest_testMultipleKeysWithSnapshotCleanup": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.ttl.MockTtlStateTest_testMultipleKeys": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.ttl.MockTtlStateTest_testNonExistentValue": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.ttl.MockTtlStateTest_testSnapshotChangeRestore": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.ttl.MockTtlStateTest_testMultipleNamespaces": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.ttl.MockTtlStateTest_testValueSetNull": [],
+    "org.apache.flink.runtime.state.ttl.MockTtlStateTest_testExactExpirationOnWrite": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.ttl.MockTtlStateTest_testRelaxedExpirationOnRead": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.ttl.MockTtlStateTest_testIncrementalCleanupWholeState": [],
+    "org.apache.flink.runtime.state.ttl.MockTtlStateTest_testMultipleNamespacesWithSnapshotCleanup": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.ttl.MockTtlStateTest_testExpirationTimestampOverflow": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.ttl.MockTtlStateTest_testMergeNamespaces": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.ttl.MockTtlStateTest_testExactExpirationOnRead": [
+      "execution.checkpointing.snapshot-compression"
+    ]
+  }
+}

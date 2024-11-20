@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.jobmaster.event.ExecutionJobVertexInitializedEventTest_testSerializeExecutionJobVertexInitializedEvent":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.jobmaster.event.ExecutionJobVertexInitializedEventTest_testSerializeExecutionJobVertexInitializedEvent": []
+  }
+}

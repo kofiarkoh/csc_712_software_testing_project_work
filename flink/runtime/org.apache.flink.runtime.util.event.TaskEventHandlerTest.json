@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.util.event.TaskEventHandlerTest_testEventNotificationManager":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.util.event.TaskEventHandlerTest_testEventNotificationManager": []
+  }
+}

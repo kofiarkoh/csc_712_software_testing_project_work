@@ -1,1 +1,25 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.memory.MemoryManagerTest_releaseAfterReleaseAll":[],"org.apache.flink.runtime.memory.MemoryManagerTest_allocateAllSingle":[],"org.apache.flink.runtime.memory.MemoryManagerTest_testMemoryReleaseMoreThanReserved":[],"org.apache.flink.runtime.memory.MemoryManagerTest_allocateMultipleOwners":[],"org.apache.flink.runtime.memory.MemoryManagerTest_testMemoryAllocationAndReservation":[],"org.apache.flink.runtime.memory.MemoryManagerTest_testMemoryTooBigReservation":[],"org.apache.flink.runtime.memory.MemoryManagerTest_testComputeMemorySize":[],"org.apache.flink.runtime.memory.MemoryManagerTest_testComputeMemorySizeFailForZeroFraction":[],"org.apache.flink.runtime.memory.MemoryManagerTest_allocateTooMuch":[],"org.apache.flink.runtime.memory.MemoryManagerTest_testMemoryReleaseMultipleTimes":[],"org.apache.flink.runtime.memory.MemoryManagerTest_testVerifyEmptyCanBeDoneAfterShutdown":[],"org.apache.flink.runtime.memory.MemoryManagerTest_releaseCollectionAfterReleaseAll":[],"org.apache.flink.runtime.memory.MemoryManagerTest_allocateAllMulti":[],"org.apache.flink.runtime.memory.MemoryManagerTest_doubleReleaseReturnsMemoryOnlyOnce":[],"org.apache.flink.runtime.memory.MemoryManagerTest_releaseSameSegmentFromTwoCollections":[],"org.apache.flink.runtime.memory.MemoryManagerTest_testComputeMemorySizeFailForNegativeFraction":[],"org.apache.flink.runtime.memory.MemoryManagerTest_testCannotReserveBeyondTheLimit":[],"org.apache.flink.runtime.memory.MemoryManagerTest_testComputeMemorySizeFailForTooLargeFraction":[],"org.apache.flink.runtime.memory.MemoryManagerTest_testMemoryReservation":[],"org.apache.flink.runtime.memory.MemoryManagerTest_testAllMemoryReservation":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.memory.MemoryManagerTest_releaseAfterReleaseAll": [],
+    "org.apache.flink.runtime.memory.MemoryManagerTest_allocateAllSingle": [],
+    "org.apache.flink.runtime.memory.MemoryManagerTest_testMemoryReleaseMoreThanReserved": [],
+    "org.apache.flink.runtime.memory.MemoryManagerTest_allocateMultipleOwners": [],
+    "org.apache.flink.runtime.memory.MemoryManagerTest_testMemoryAllocationAndReservation": [],
+    "org.apache.flink.runtime.memory.MemoryManagerTest_testMemoryTooBigReservation": [],
+    "org.apache.flink.runtime.memory.MemoryManagerTest_testComputeMemorySize": [],
+    "org.apache.flink.runtime.memory.MemoryManagerTest_testComputeMemorySizeFailForZeroFraction": [],
+    "org.apache.flink.runtime.memory.MemoryManagerTest_allocateTooMuch": [],
+    "org.apache.flink.runtime.memory.MemoryManagerTest_testMemoryReleaseMultipleTimes": [],
+    "org.apache.flink.runtime.memory.MemoryManagerTest_testVerifyEmptyCanBeDoneAfterShutdown": [],
+    "org.apache.flink.runtime.memory.MemoryManagerTest_releaseCollectionAfterReleaseAll": [],
+    "org.apache.flink.runtime.memory.MemoryManagerTest_allocateAllMulti": [],
+    "org.apache.flink.runtime.memory.MemoryManagerTest_doubleReleaseReturnsMemoryOnlyOnce": [],
+    "org.apache.flink.runtime.memory.MemoryManagerTest_releaseSameSegmentFromTwoCollections": [],
+    "org.apache.flink.runtime.memory.MemoryManagerTest_testComputeMemorySizeFailForNegativeFraction": [],
+    "org.apache.flink.runtime.memory.MemoryManagerTest_testCannotReserveBeyondTheLimit": [],
+    "org.apache.flink.runtime.memory.MemoryManagerTest_testComputeMemorySizeFailForTooLargeFraction": [],
+    "org.apache.flink.runtime.memory.MemoryManagerTest_testMemoryReservation": [],
+    "org.apache.flink.runtime.memory.MemoryManagerTest_testAllMemoryReservation": []
+  }
+}

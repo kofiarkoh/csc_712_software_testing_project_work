@@ -1,1 +1,10 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.jobgraph.JobTaskVertexTest_testMultipleConsumersVertices":[],"org.apache.flink.runtime.jobgraph.JobTaskVertexTest_testInputFormat":[],"org.apache.flink.runtime.jobgraph.JobTaskVertexTest_testConnectDirectly":[],"org.apache.flink.runtime.jobgraph.JobTaskVertexTest_testOutputFormat":[],"org.apache.flink.runtime.jobgraph.JobTaskVertexTest_testOutputFormatUsesCorrectParallelism":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.jobgraph.JobTaskVertexTest_testMultipleConsumersVertices": [],
+    "org.apache.flink.runtime.jobgraph.JobTaskVertexTest_testInputFormat": [],
+    "org.apache.flink.runtime.jobgraph.JobTaskVertexTest_testConnectDirectly": [],
+    "org.apache.flink.runtime.jobgraph.JobTaskVertexTest_testOutputFormat": [],
+    "org.apache.flink.runtime.jobgraph.JobTaskVertexTest_testOutputFormatUsesCorrectParallelism": []
+  }
+}

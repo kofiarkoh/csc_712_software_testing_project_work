@@ -1,1 +1,26 @@
-{"classLevelParams":["pekko.fork-join-executor.parallelism-max","pekko.framesize","io.tmp.dirs","pekko.fork-join-executor.parallelism-factor","pekko.fork-join-executor.parallelism-min","pekko.jvm-exit-on-fatal-error","pekko.throughput","pekko.ask.callstack","pekko.log.lifecycle.events","pekko.ask.timeout"],"methodLevelParams":{"org.apache.flink.runtime.metrics.dump.MetricQueryServiceTest_testHandleOversizedMetricMessage":["metrics.scope.tm","metrics.scope.tm-job","metrics.scope.operator","metrics.scope.jm","metrics.scope.jm-job","metrics.scope.jm-operator","metrics.scope.task"],"org.apache.flink.runtime.metrics.dump.MetricQueryServiceTest_testCreateDump":[]}}
+{
+  "classLevelParams": [
+    "pekko.fork-join-executor.parallelism-max",
+    "pekko.framesize",
+    "io.tmp.dirs",
+    "pekko.fork-join-executor.parallelism-factor",
+    "pekko.fork-join-executor.parallelism-min",
+    "pekko.jvm-exit-on-fatal-error",
+    "pekko.throughput",
+    "pekko.ask.callstack",
+    "pekko.log.lifecycle.events",
+    "pekko.ask.timeout"
+  ],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.metrics.dump.MetricQueryServiceTest_testHandleOversizedMetricMessage": [
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "metrics.scope.operator",
+      "metrics.scope.jm",
+      "metrics.scope.jm-job",
+      "metrics.scope.jm-operator",
+      "metrics.scope.task"
+    ],
+    "org.apache.flink.runtime.metrics.dump.MetricQueryServiceTest_testCreateDump": []
+  }
+}

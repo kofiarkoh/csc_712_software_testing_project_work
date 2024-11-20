@@ -1,1 +1,159 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testTriggerRescaleOnCompletedCheckpoint":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testTransitionToFinishedOnFailedExecutionGraph":["jobmanager.partition.release-during-job-execution","parallelism.default","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","pipeline.object-reuse","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testFailureReportedViaUpdateTaskExecutionStateCausesFailingOnNoRestart":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testNoDeploymentCallOnEnterWhenVertexRunning":[],"org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testExecutionVertexMarkedAsFailedOnDeploymentFailure":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testOnCompletedCheckpointResetsFailedCheckpointCount":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testStateDoesNotExposeGloballyTerminalExecutionGraph":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testOmitsWaitingForResourcesStateWhenRestarting":["metrics.scope.operator","taskmanager.memory.segment-size","metrics.scope.jm","metrics.scope.task","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","taskmanager.network.sort-shuffle.min-buffers","jobmanager.execution.attempts-history-size","metrics.scope.tm","metrics.scope.tm-job","jobmanager.partition.release-during-job-execution","metrics.scope.jm-job","metrics.scope.jm-operator","execution.batch-shuffle-mode","execution.job-status-changed-listeners"],"org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testExecutingChecksForNewResourcesWhenBeingCreated":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testTransitionToStopWithSavepointState":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testJobInformationMethods":["jobmanager.partition.release-during-job-execution","parallelism.default","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","pipeline.object-reuse","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testFalseReportsViaUpdateTaskExecutionStateAreIgnored":["jobmanager.partition.release-during-job-execution","parallelism.default","pipeline.object-reuse","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","pipeline.max-parallelism","jobmanager.execution.attempts-history-size","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testFailureReportedViaUpdateTaskExecutionStateCausesRestart":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testCancelTransitionsToCancellingState":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testUnrecoverableGlobalFailureTransitionsToFailingState":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testDisposalOfOperatorCoordinatorsOnLeaveOfStateWithExecutionGraph":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testTransitionToFinishedOnSuspend":["jobmanager.partition.release-during-job-execution","parallelism.default","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","pipeline.object-reuse","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testIllegalStateExceptionOnNotRunningExecutionGraph":[],"org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testTriggerRescaleOnFailedCheckpoint":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testCheckpointSchedulerIsStoppedOnStopWithSavepoint":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testExecutionGraphDeploymentOnEnter":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testInternalParallelismChangeBehavior":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testRecoverableGlobalFailureTransitionsToRestarting":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testTriggerRescaleOnCompletedCheckpoint": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testTransitionToFinishedOnFailedExecutionGraph": [
+      "jobmanager.partition.release-during-job-execution",
+      "parallelism.default",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "pipeline.object-reuse",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testFailureReportedViaUpdateTaskExecutionStateCausesFailingOnNoRestart": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testNoDeploymentCallOnEnterWhenVertexRunning": [],
+    "org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testExecutionVertexMarkedAsFailedOnDeploymentFailure": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testOnCompletedCheckpointResetsFailedCheckpointCount": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testStateDoesNotExposeGloballyTerminalExecutionGraph": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testOmitsWaitingForResourcesStateWhenRestarting": [
+      "metrics.scope.operator",
+      "taskmanager.memory.segment-size",
+      "metrics.scope.jm",
+      "metrics.scope.task",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "taskmanager.network.sort-shuffle.min-buffers",
+      "jobmanager.execution.attempts-history-size",
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "jobmanager.partition.release-during-job-execution",
+      "metrics.scope.jm-job",
+      "metrics.scope.jm-operator",
+      "execution.batch-shuffle-mode",
+      "execution.job-status-changed-listeners"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testExecutingChecksForNewResourcesWhenBeingCreated": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testTransitionToStopWithSavepointState": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testJobInformationMethods": [
+      "jobmanager.partition.release-during-job-execution",
+      "parallelism.default",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "pipeline.object-reuse",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testFalseReportsViaUpdateTaskExecutionStateAreIgnored": [
+      "jobmanager.partition.release-during-job-execution",
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "pipeline.max-parallelism",
+      "jobmanager.execution.attempts-history-size",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testFailureReportedViaUpdateTaskExecutionStateCausesRestart": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testCancelTransitionsToCancellingState": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testUnrecoverableGlobalFailureTransitionsToFailingState": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testDisposalOfOperatorCoordinatorsOnLeaveOfStateWithExecutionGraph": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testTransitionToFinishedOnSuspend": [
+      "jobmanager.partition.release-during-job-execution",
+      "parallelism.default",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "pipeline.object-reuse",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testIllegalStateExceptionOnNotRunningExecutionGraph": [],
+    "org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testTriggerRescaleOnFailedCheckpoint": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testCheckpointSchedulerIsStoppedOnStopWithSavepoint": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testExecutionGraphDeploymentOnEnter": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testInternalParallelismChangeBehavior": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptive.ExecutingTest_testRecoverableGlobalFailureTransitionsToRestarting": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ]
+  }
+}

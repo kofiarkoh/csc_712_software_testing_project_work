@@ -1,1 +1,54 @@
-{"classLevelParams":["pekko.fork-join-executor.parallelism-max","pekko.framesize","io.tmp.dirs","pekko.fork-join-executor.parallelism-factor","pekko.fork-join-executor.parallelism-min","pekko.jvm-exit-on-fatal-error","pekko.throughput","pekko.ask.callstack","pekko.log.lifecycle.events","pekko.ask.timeout"],"methodLevelParams":{"org.apache.flink.runtime.resourcemanager.ResourceManagerPartitionLifecycleTest_testClusterPartitionReportHandling":["slotmanager.number-of-slots.min","metrics.scope.operator","slotmanager.declare-needed-resource.delay","metrics.scope.jm","slotmanager.redundant-taskmanager-num","metrics.scope.task","metrics.scope.tm","metrics.scope.tm-job","resourcemanager.job.timeout","slotmanager.number-of-slots.max","metrics.scope.jm-job","taskmanager.load-balance.mode","taskmanager.numberOfTaskSlots","metrics.scope.jm-operator","resourcemanager.taskmanager-timeout","slotmanager.requirement-check.delay","pekko.ask.timeout"],"org.apache.flink.runtime.resourcemanager.ResourceManagerPartitionLifecycleTest_testTaskExecutorShutdownHandling":["slotmanager.number-of-slots.min","metrics.scope.operator","slotmanager.declare-needed-resource.delay","metrics.scope.jm","slotmanager.redundant-taskmanager-num","metrics.scope.task","metrics.scope.tm","metrics.scope.tm-job","resourcemanager.job.timeout","slotmanager.number-of-slots.max","metrics.scope.jm-job","taskmanager.load-balance.mode","taskmanager.numberOfTaskSlots","metrics.scope.jm-operator","resourcemanager.taskmanager-timeout","slotmanager.requirement-check.delay","pekko.ask.timeout"]}}
+{
+  "classLevelParams": [
+    "pekko.fork-join-executor.parallelism-max",
+    "pekko.framesize",
+    "io.tmp.dirs",
+    "pekko.fork-join-executor.parallelism-factor",
+    "pekko.fork-join-executor.parallelism-min",
+    "pekko.jvm-exit-on-fatal-error",
+    "pekko.throughput",
+    "pekko.ask.callstack",
+    "pekko.log.lifecycle.events",
+    "pekko.ask.timeout"
+  ],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.resourcemanager.ResourceManagerPartitionLifecycleTest_testClusterPartitionReportHandling": [
+      "slotmanager.number-of-slots.min",
+      "metrics.scope.operator",
+      "slotmanager.declare-needed-resource.delay",
+      "metrics.scope.jm",
+      "slotmanager.redundant-taskmanager-num",
+      "metrics.scope.task",
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "resourcemanager.job.timeout",
+      "slotmanager.number-of-slots.max",
+      "metrics.scope.jm-job",
+      "taskmanager.load-balance.mode",
+      "taskmanager.numberOfTaskSlots",
+      "metrics.scope.jm-operator",
+      "resourcemanager.taskmanager-timeout",
+      "slotmanager.requirement-check.delay",
+      "pekko.ask.timeout"
+    ],
+    "org.apache.flink.runtime.resourcemanager.ResourceManagerPartitionLifecycleTest_testTaskExecutorShutdownHandling": [
+      "slotmanager.number-of-slots.min",
+      "metrics.scope.operator",
+      "slotmanager.declare-needed-resource.delay",
+      "metrics.scope.jm",
+      "slotmanager.redundant-taskmanager-num",
+      "metrics.scope.task",
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "resourcemanager.job.timeout",
+      "slotmanager.number-of-slots.max",
+      "metrics.scope.jm-job",
+      "taskmanager.load-balance.mode",
+      "taskmanager.numberOfTaskSlots",
+      "metrics.scope.jm-operator",
+      "resourcemanager.taskmanager-timeout",
+      "slotmanager.requirement-check.delay",
+      "pekko.ask.timeout"
+    ]
+  }
+}

@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.state.v2.AbstractAggregatingStateTest_testAggregating":[],"org.apache.flink.runtime.state.v2.AbstractAggregatingStateTest_testMergeNamespace":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.state.v2.AbstractAggregatingStateTest_testAggregating": [],
+    "org.apache.flink.runtime.state.v2.AbstractAggregatingStateTest_testMergeNamespace": []
+  }
+}

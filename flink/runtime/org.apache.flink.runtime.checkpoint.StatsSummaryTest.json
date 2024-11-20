@@ -1,1 +1,9 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.checkpoint.StatsSummaryTest_testAddRandomNumbers":[],"org.apache.flink.runtime.checkpoint.StatsSummaryTest_testQuantile":[],"org.apache.flink.runtime.checkpoint.StatsSummaryTest_testInitialState":[],"org.apache.flink.runtime.checkpoint.StatsSummaryTest_testAddNonPositiveStats":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.checkpoint.StatsSummaryTest_testAddRandomNumbers": [],
+    "org.apache.flink.runtime.checkpoint.StatsSummaryTest_testQuantile": [],
+    "org.apache.flink.runtime.checkpoint.StatsSummaryTest_testInitialState": [],
+    "org.apache.flink.runtime.checkpoint.StatsSummaryTest_testAddNonPositiveStats": []
+  }
+}

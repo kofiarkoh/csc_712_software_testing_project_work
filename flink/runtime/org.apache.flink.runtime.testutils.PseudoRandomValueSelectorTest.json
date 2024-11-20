@@ -1,1 +1,17 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.testutils.PseudoRandomValueSelectorTest_testRandomizationOfValues":["taskmanager.cpu.cores"],"org.apache.flink.runtime.testutils.PseudoRandomValueSelectorTest_testRandomizationWithSeed":["taskmanager.cpu.cores"],"org.apache.flink.runtime.testutils.PseudoRandomValueSelectorTest_readCommitId":[],"org.apache.flink.runtime.testutils.PseudoRandomValueSelectorTest_testStableRandomization":["execution.checkpointing.savepoint-dir","taskmanager.cpu.cores","jobmanager.memory.process.size"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.testutils.PseudoRandomValueSelectorTest_testRandomizationOfValues": [
+      "taskmanager.cpu.cores"
+    ],
+    "org.apache.flink.runtime.testutils.PseudoRandomValueSelectorTest_testRandomizationWithSeed": [
+      "taskmanager.cpu.cores"
+    ],
+    "org.apache.flink.runtime.testutils.PseudoRandomValueSelectorTest_readCommitId": [],
+    "org.apache.flink.runtime.testutils.PseudoRandomValueSelectorTest_testStableRandomization": [
+      "execution.checkpointing.savepoint-dir",
+      "taskmanager.cpu.cores",
+      "jobmanager.memory.process.size"
+    ]
+  }
+}

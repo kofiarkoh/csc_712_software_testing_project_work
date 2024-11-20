@@ -1,1 +1,10 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.leaderelection.StandaloneLeaderElectionTest_testHasLeadershipWithContender":[],"org.apache.flink.runtime.leaderelection.StandaloneLeaderElectionTest_testStartLeaderElection":[],"org.apache.flink.runtime.leaderelection.StandaloneLeaderElectionTest_testRevokeCallOnClose":[],"org.apache.flink.runtime.leaderelection.StandaloneLeaderElectionTest_testStandaloneLeaderElectionRetrieval":[],"org.apache.flink.runtime.leaderelection.StandaloneLeaderElectionTest_testHasLeadershipWithoutContender":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.leaderelection.StandaloneLeaderElectionTest_testHasLeadershipWithContender": [],
+    "org.apache.flink.runtime.leaderelection.StandaloneLeaderElectionTest_testStartLeaderElection": [],
+    "org.apache.flink.runtime.leaderelection.StandaloneLeaderElectionTest_testRevokeCallOnClose": [],
+    "org.apache.flink.runtime.leaderelection.StandaloneLeaderElectionTest_testStandaloneLeaderElectionRetrieval": [],
+    "org.apache.flink.runtime.leaderelection.StandaloneLeaderElectionTest_testHasLeadershipWithoutContender": []
+  }
+}

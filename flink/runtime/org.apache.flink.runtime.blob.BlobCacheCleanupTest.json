@@ -1,1 +1,39 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.blob.BlobCacheCleanupTest_testPermanentBlobCleanup":["blob.server.port","blob.service.cleanup.interval","blob.fetch.backlog","blob.fetch.retries","blob.client.socket.timeout","blob.fetch.num-concurrent","blob.client.connect.timeout","security.ssl.internal.enabled"],"org.apache.flink.runtime.blob.BlobCacheCleanupTest_testTransientBlobNoJobCleanup":["blob.server.port","blob.service.cleanup.interval","blob.fetch.backlog","blob.fetch.retries","blob.client.socket.timeout","blob.fetch.num-concurrent","blob.client.connect.timeout","security.ssl.internal.enabled"],"org.apache.flink.runtime.blob.BlobCacheCleanupTest_testPermanentJobReferences":["blob.service.cleanup.interval","blob.fetch.retries"],"org.apache.flink.runtime.blob.BlobCacheCleanupTest_testTransientBlobForJobCleanup":["blob.server.port","blob.service.cleanup.interval","blob.fetch.backlog","blob.fetch.retries","blob.client.socket.timeout","blob.fetch.num-concurrent","blob.client.connect.timeout","security.ssl.internal.enabled"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.blob.BlobCacheCleanupTest_testPermanentBlobCleanup": [
+      "blob.server.port",
+      "blob.service.cleanup.interval",
+      "blob.fetch.backlog",
+      "blob.fetch.retries",
+      "blob.client.socket.timeout",
+      "blob.fetch.num-concurrent",
+      "blob.client.connect.timeout",
+      "security.ssl.internal.enabled"
+    ],
+    "org.apache.flink.runtime.blob.BlobCacheCleanupTest_testTransientBlobNoJobCleanup": [
+      "blob.server.port",
+      "blob.service.cleanup.interval",
+      "blob.fetch.backlog",
+      "blob.fetch.retries",
+      "blob.client.socket.timeout",
+      "blob.fetch.num-concurrent",
+      "blob.client.connect.timeout",
+      "security.ssl.internal.enabled"
+    ],
+    "org.apache.flink.runtime.blob.BlobCacheCleanupTest_testPermanentJobReferences": [
+      "blob.service.cleanup.interval",
+      "blob.fetch.retries"
+    ],
+    "org.apache.flink.runtime.blob.BlobCacheCleanupTest_testTransientBlobForJobCleanup": [
+      "blob.server.port",
+      "blob.service.cleanup.interval",
+      "blob.fetch.backlog",
+      "blob.fetch.retries",
+      "blob.client.socket.timeout",
+      "blob.fetch.num-concurrent",
+      "blob.client.connect.timeout",
+      "security.ssl.internal.enabled"
+    ]
+  }
+}

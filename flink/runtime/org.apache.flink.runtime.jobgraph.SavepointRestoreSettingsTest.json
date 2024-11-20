@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.jobgraph.SavepointRestoreSettingsTest_testEqualsWithDifferentRestoreMode":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.jobgraph.SavepointRestoreSettingsTest_testEqualsWithDifferentRestoreMode": []
+  }
+}

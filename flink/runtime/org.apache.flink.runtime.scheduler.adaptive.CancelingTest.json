@@ -1,1 +1,17 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.scheduler.adaptive.CancelingTest_testExecutionGraphCancelationOnEnter":[],"org.apache.flink.runtime.scheduler.adaptive.CancelingTest_testStateDoesNotExposeGloballyTerminalExecutionGraph":[],"org.apache.flink.runtime.scheduler.adaptive.CancelingTest_testTaskFailuresAreIgnored":["parallelism.default","pipeline.object-reuse","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.scheduler.adaptive.CancelingTest_testTransitionToFinishedWhenCancellationCompletes":[],"org.apache.flink.runtime.scheduler.adaptive.CancelingTest_testTransitionToSuspend":[],"org.apache.flink.runtime.scheduler.adaptive.CancelingTest_testCancelIsIgnored":[],"org.apache.flink.runtime.scheduler.adaptive.CancelingTest_testGlobalFailuresAreIgnored":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.scheduler.adaptive.CancelingTest_testExecutionGraphCancelationOnEnter": [],
+    "org.apache.flink.runtime.scheduler.adaptive.CancelingTest_testStateDoesNotExposeGloballyTerminalExecutionGraph": [],
+    "org.apache.flink.runtime.scheduler.adaptive.CancelingTest_testTaskFailuresAreIgnored": [
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptive.CancelingTest_testTransitionToFinishedWhenCancellationCompletes": [],
+    "org.apache.flink.runtime.scheduler.adaptive.CancelingTest_testTransitionToSuspend": [],
+    "org.apache.flink.runtime.scheduler.adaptive.CancelingTest_testCancelIsIgnored": [],
+    "org.apache.flink.runtime.scheduler.adaptive.CancelingTest_testGlobalFailuresAreIgnored": []
+  }
+}

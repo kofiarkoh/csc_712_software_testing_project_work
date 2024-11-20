@@ -1,1 +1,8 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.state.metainfo.StateMetaInfoSnapshotEnumConstantsTest_testFixedOptionsEnumConstants":[],"org.apache.flink.runtime.state.metainfo.StateMetaInfoSnapshotEnumConstantsTest_testFixedSerializerEnumConstants":[],"org.apache.flink.runtime.state.metainfo.StateMetaInfoSnapshotEnumConstantsTest_testFixedBackendStateTypeEnumConstants":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.state.metainfo.StateMetaInfoSnapshotEnumConstantsTest_testFixedOptionsEnumConstants": [],
+    "org.apache.flink.runtime.state.metainfo.StateMetaInfoSnapshotEnumConstantsTest_testFixedSerializerEnumConstants": [],
+    "org.apache.flink.runtime.state.metainfo.StateMetaInfoSnapshotEnumConstantsTest_testFixedBackendStateTypeEnumConstants": []
+  }
+}

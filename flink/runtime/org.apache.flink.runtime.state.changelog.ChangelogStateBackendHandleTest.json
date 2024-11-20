@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.state.changelog.ChangelogStateBackendHandleTest_testRestore":[],"org.apache.flink.runtime.state.changelog.ChangelogStateBackendHandleTest_testPublicConstructor":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.state.changelog.ChangelogStateBackendHandleTest_testRestore": [],
+    "org.apache.flink.runtime.state.changelog.ChangelogStateBackendHandleTest_testPublicConstructor": []
+  }
+}

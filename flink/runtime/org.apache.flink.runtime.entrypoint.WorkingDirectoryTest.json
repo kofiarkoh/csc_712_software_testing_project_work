@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.entrypoint.WorkingDirectoryTest_testTmpDirectoryIsCleanedUp":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.entrypoint.WorkingDirectoryTest_testTmpDirectoryIsCleanedUp": []
+  }
+}

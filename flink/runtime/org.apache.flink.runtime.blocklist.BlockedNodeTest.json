@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.blocklist.BlockedNodeTest_testEquals":[],"org.apache.flink.runtime.blocklist.BlockedNodeTest_testNotEquals":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.blocklist.BlockedNodeTest_testEquals": [],
+    "org.apache.flink.runtime.blocklist.BlockedNodeTest_testNotEquals": []
+  }
+}

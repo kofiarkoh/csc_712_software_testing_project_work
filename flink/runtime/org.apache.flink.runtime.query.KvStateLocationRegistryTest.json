@@ -1,1 +1,9 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.query.KvStateLocationRegistryTest_testUnregisterBeforeRegister":[],"org.apache.flink.runtime.query.KvStateLocationRegistryTest_testRegisterAndLookup":[],"org.apache.flink.runtime.query.KvStateLocationRegistryTest_testUnregisterFailures":[],"org.apache.flink.runtime.query.KvStateLocationRegistryTest_testRegisterDuplicateName":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.query.KvStateLocationRegistryTest_testUnregisterBeforeRegister": [],
+    "org.apache.flink.runtime.query.KvStateLocationRegistryTest_testRegisterAndLookup": [],
+    "org.apache.flink.runtime.query.KvStateLocationRegistryTest_testUnregisterFailures": [],
+    "org.apache.flink.runtime.query.KvStateLocationRegistryTest_testRegisterDuplicateName": []
+  }
+}

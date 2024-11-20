@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.runtime.operators.sink.committables.SubtaskCommittableManagerTest_testMerge":[],"org.apache.flink.streaming.runtime.operators.sink.committables.SubtaskCommittableManagerTest_testSuccessfulCommittables":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.runtime.operators.sink.committables.SubtaskCommittableManagerTest_testMerge": [],
+    "org.apache.flink.streaming.runtime.operators.sink.committables.SubtaskCommittableManagerTest_testSuccessfulCommittables": []
+  }
+}

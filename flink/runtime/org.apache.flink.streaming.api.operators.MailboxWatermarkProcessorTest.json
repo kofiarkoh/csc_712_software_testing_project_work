@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.api.operators.MailboxWatermarkProcessorTest_testEmitWatermarkInsideMailbox":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.api.operators.MailboxWatermarkProcessorTest_testEmitWatermarkInsideMailbox": []
+  }
+}

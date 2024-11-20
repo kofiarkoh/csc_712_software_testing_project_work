@@ -1,1 +1,11 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.metrics.dump.QueryScopeInfoTest_testTaskQueryScopeInfo":[],"org.apache.flink.runtime.metrics.dump.QueryScopeInfoTest_testJobManagerOperatorQueryScopeInfo":[],"org.apache.flink.runtime.metrics.dump.QueryScopeInfoTest_testJobQueryScopeInfo":[],"org.apache.flink.runtime.metrics.dump.QueryScopeInfoTest_testTaskManagerQueryScopeInfo":[],"org.apache.flink.runtime.metrics.dump.QueryScopeInfoTest_testOperatorQueryScopeInfo":[],"org.apache.flink.runtime.metrics.dump.QueryScopeInfoTest_testJobManagerQueryScopeInfo":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.metrics.dump.QueryScopeInfoTest_testTaskQueryScopeInfo": [],
+    "org.apache.flink.runtime.metrics.dump.QueryScopeInfoTest_testJobManagerOperatorQueryScopeInfo": [],
+    "org.apache.flink.runtime.metrics.dump.QueryScopeInfoTest_testJobQueryScopeInfo": [],
+    "org.apache.flink.runtime.metrics.dump.QueryScopeInfoTest_testTaskManagerQueryScopeInfo": [],
+    "org.apache.flink.runtime.metrics.dump.QueryScopeInfoTest_testOperatorQueryScopeInfo": [],
+    "org.apache.flink.runtime.metrics.dump.QueryScopeInfoTest_testJobManagerQueryScopeInfo": []
+  }
+}

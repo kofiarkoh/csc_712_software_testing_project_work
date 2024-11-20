@@ -1,1 +1,27 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.executiongraph.DefaultExecutionGraphRescalingTest_testExecutionGraphConstructionFailsRescaleDopExceedMaxParallelism":["jobmanager.partition.release-during-job-execution","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","execution.job-status-changed-listeners","jobmanager.execution.attempts-history-size"],"org.apache.flink.runtime.executiongraph.DefaultExecutionGraphRescalingTest_testExecutionGraphArbitraryDopConstructionTest":["metrics.scope.operator","taskmanager.memory.segment-size","metrics.scope.jm","metrics.scope.task","jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num","taskmanager.network.sort-shuffle.min-buffers","jobmanager.execution.attempts-history-size","metrics.scope.tm","metrics.scope.tm-job","jobmanager.partition.release-during-job-execution","metrics.scope.jm-job","metrics.scope.jm-operator","execution.batch-shuffle-mode","execution.job-status-changed-listeners"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.executiongraph.DefaultExecutionGraphRescalingTest_testExecutionGraphConstructionFailsRescaleDopExceedMaxParallelism": [
+      "jobmanager.partition.release-during-job-execution",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "execution.job-status-changed-listeners",
+      "jobmanager.execution.attempts-history-size"
+    ],
+    "org.apache.flink.runtime.executiongraph.DefaultExecutionGraphRescalingTest_testExecutionGraphArbitraryDopConstructionTest": [
+      "metrics.scope.operator",
+      "taskmanager.memory.segment-size",
+      "metrics.scope.jm",
+      "metrics.scope.task",
+      "jobmanager.task-deployment.offload-shuffle-descriptors-to-blob-server.threshold-num",
+      "taskmanager.network.sort-shuffle.min-buffers",
+      "jobmanager.execution.attempts-history-size",
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "jobmanager.partition.release-during-job-execution",
+      "metrics.scope.jm-job",
+      "metrics.scope.jm-operator",
+      "execution.batch-shuffle-mode",
+      "execution.job-status-changed-listeners"
+    ]
+  }
+}

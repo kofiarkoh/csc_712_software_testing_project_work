@@ -1,1 +1,10 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.scheduler.adaptive.FinishedTest_testCancelIgnored":[],"org.apache.flink.runtime.scheduler.adaptive.FinishedTest_testGlobalFailureIgnored":[],"org.apache.flink.runtime.scheduler.adaptive.FinishedTest_testOnFinishedCallOnEnter":[],"org.apache.flink.runtime.scheduler.adaptive.FinishedTest_testGetJobStatus":[],"org.apache.flink.runtime.scheduler.adaptive.FinishedTest_testSuspendIgnored":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.scheduler.adaptive.FinishedTest_testCancelIgnored": [],
+    "org.apache.flink.runtime.scheduler.adaptive.FinishedTest_testGlobalFailureIgnored": [],
+    "org.apache.flink.runtime.scheduler.adaptive.FinishedTest_testOnFinishedCallOnEnter": [],
+    "org.apache.flink.runtime.scheduler.adaptive.FinishedTest_testGetJobStatus": [],
+    "org.apache.flink.runtime.scheduler.adaptive.FinishedTest_testSuspendIgnored": []
+  }
+}

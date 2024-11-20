@@ -1,1 +1,8 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.runtime.streamrecord.StreamElementSerializerTest_testDeepDuplication":[],"org.apache.flink.streaming.runtime.streamrecord.StreamElementSerializerTest_testSerialization":[],"org.apache.flink.streaming.runtime.streamrecord.StreamElementSerializerTest_testBasicProperties":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.runtime.streamrecord.StreamElementSerializerTest_testDeepDuplication": [],
+    "org.apache.flink.streaming.runtime.streamrecord.StreamElementSerializerTest_testSerialization": [],
+    "org.apache.flink.streaming.runtime.streamrecord.StreamElementSerializerTest_testBasicProperties": []
+  }
+}

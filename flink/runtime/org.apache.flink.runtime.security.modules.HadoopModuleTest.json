@@ -1,1 +1,30 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.security.modules.HadoopModuleTest_startTGTRenewalShouldScheduleRenewalWithKeytab":["zookeeper.sasl.login-context-name","zookeeper.sasl.disable","security.context.factory.classes","security.kerberos.login.use-ticket-cache","security.kerberos.relogin.period","security.kerberos.login.contexts","security.kerberos.login.keytab","security.module.factory.classes","security.kerberos.login.principal","zookeeper.sasl.service-name"],"org.apache.flink.runtime.security.modules.HadoopModuleTest_hadoopProxyUserSetWithDelegationTokensEnabledShouldThrow":["zookeeper.sasl.login-context-name","security.delegation.tokens.enabled","zookeeper.sasl.disable","security.context.factory.classes","security.kerberos.login.use-ticket-cache","security.kerberos.relogin.period","security.kerberos.login.contexts","security.kerberos.login.keytab","security.module.factory.classes","security.kerberos.login.principal","zookeeper.sasl.service-name"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.security.modules.HadoopModuleTest_startTGTRenewalShouldScheduleRenewalWithKeytab": [
+      "zookeeper.sasl.login-context-name",
+      "zookeeper.sasl.disable",
+      "security.context.factory.classes",
+      "security.kerberos.login.use-ticket-cache",
+      "security.kerberos.relogin.period",
+      "security.kerberos.login.contexts",
+      "security.kerberos.login.keytab",
+      "security.module.factory.classes",
+      "security.kerberos.login.principal",
+      "zookeeper.sasl.service-name"
+    ],
+    "org.apache.flink.runtime.security.modules.HadoopModuleTest_hadoopProxyUserSetWithDelegationTokensEnabledShouldThrow": [
+      "zookeeper.sasl.login-context-name",
+      "security.delegation.tokens.enabled",
+      "zookeeper.sasl.disable",
+      "security.context.factory.classes",
+      "security.kerberos.login.use-ticket-cache",
+      "security.kerberos.relogin.period",
+      "security.kerberos.login.contexts",
+      "security.kerberos.login.keytab",
+      "security.module.factory.classes",
+      "security.kerberos.login.principal",
+      "zookeeper.sasl.service-name"
+    ]
+  }
+}

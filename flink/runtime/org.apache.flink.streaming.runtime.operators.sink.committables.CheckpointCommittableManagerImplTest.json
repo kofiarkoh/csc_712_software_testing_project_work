@@ -1,1 +1,9 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.runtime.operators.sink.committables.CheckpointCommittableManagerImplTest_testUpdateCommittableSummary":[],"org.apache.flink.streaming.runtime.operators.sink.committables.CheckpointCommittableManagerImplTest_testCommit":[],"org.apache.flink.streaming.runtime.operators.sink.committables.CheckpointCommittableManagerImplTest_testCopy":[],"org.apache.flink.streaming.runtime.operators.sink.committables.CheckpointCommittableManagerImplTest_testAddSummary":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.runtime.operators.sink.committables.CheckpointCommittableManagerImplTest_testUpdateCommittableSummary": [],
+    "org.apache.flink.streaming.runtime.operators.sink.committables.CheckpointCommittableManagerImplTest_testCommit": [],
+    "org.apache.flink.streaming.runtime.operators.sink.committables.CheckpointCommittableManagerImplTest_testCopy": [],
+    "org.apache.flink.streaming.runtime.operators.sink.committables.CheckpointCommittableManagerImplTest_testAddSummary": []
+  }
+}

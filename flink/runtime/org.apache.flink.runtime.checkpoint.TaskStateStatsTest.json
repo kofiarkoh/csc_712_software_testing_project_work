@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.checkpoint.TaskStateStatsTest_testHandInSubtasks":[],"org.apache.flink.runtime.checkpoint.TaskStateStatsTest_testIsJavaSerializable":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.checkpoint.TaskStateStatsTest_testHandInSubtasks": [],
+    "org.apache.flink.runtime.checkpoint.TaskStateStatsTest_testIsJavaSerializable": []
+  }
+}

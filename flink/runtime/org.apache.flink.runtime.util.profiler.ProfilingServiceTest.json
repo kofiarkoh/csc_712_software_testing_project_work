@@ -1,1 +1,25 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.util.profiler.ProfilingServiceTest_testSingleton":["rest.profiling.dir","rest.profiling.history-size"],"org.apache.flink.runtime.util.profiler.ProfilingServiceTest_testAllProfilingMode":["rest.profiling.dir","rest.profiling.history-size"],"org.apache.flink.runtime.util.profiler.ProfilingServiceTest_testRollingDeletion":["rest.profiling.dir","rest.profiling.history-size"],"org.apache.flink.runtime.util.profiler.ProfilingServiceTest_testFailedRequestSinceStillUnderProfiling":["rest.profiling.dir","rest.profiling.history-size"],"org.apache.flink.runtime.util.profiler.ProfilingServiceTest_testProfilingConfigurationWorkingAsExpected":["rest.profiling.dir","rest.profiling.history-size"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.util.profiler.ProfilingServiceTest_testSingleton": [
+      "rest.profiling.dir",
+      "rest.profiling.history-size"
+    ],
+    "org.apache.flink.runtime.util.profiler.ProfilingServiceTest_testAllProfilingMode": [
+      "rest.profiling.dir",
+      "rest.profiling.history-size"
+    ],
+    "org.apache.flink.runtime.util.profiler.ProfilingServiceTest_testRollingDeletion": [
+      "rest.profiling.dir",
+      "rest.profiling.history-size"
+    ],
+    "org.apache.flink.runtime.util.profiler.ProfilingServiceTest_testFailedRequestSinceStillUnderProfiling": [
+      "rest.profiling.dir",
+      "rest.profiling.history-size"
+    ],
+    "org.apache.flink.runtime.util.profiler.ProfilingServiceTest_testProfilingConfigurationWorkingAsExpected": [
+      "rest.profiling.dir",
+      "rest.profiling.history-size"
+    ]
+  }
+}

@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.jobmaster.event.ExecutionVertexResetEventTest_testSerializeExecutionVertexResetEvent":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.jobmaster.event.ExecutionVertexResetEventTest_testSerializeExecutionVertexResetEvent": []
+  }
+}

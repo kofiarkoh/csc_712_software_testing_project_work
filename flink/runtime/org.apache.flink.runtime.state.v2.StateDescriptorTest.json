@@ -1,1 +1,12 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.state.v2.StateDescriptorTest_testEqualsSameNameAndTypeDifferentClass":[],"org.apache.flink.runtime.state.v2.StateDescriptorTest_testHashCodeAndEquals":[],"org.apache.flink.runtime.state.v2.StateDescriptorTest_testSerializerDuplication":["pipeline.generic-types","pipeline.force-kryo"],"org.apache.flink.runtime.state.v2.StateDescriptorTest_testStateTTlConfig":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.state.v2.StateDescriptorTest_testEqualsSameNameAndTypeDifferentClass": [],
+    "org.apache.flink.runtime.state.v2.StateDescriptorTest_testHashCodeAndEquals": [],
+    "org.apache.flink.runtime.state.v2.StateDescriptorTest_testSerializerDuplication": [
+      "pipeline.generic-types",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.runtime.state.v2.StateDescriptorTest_testStateTTlConfig": []
+  }
+}

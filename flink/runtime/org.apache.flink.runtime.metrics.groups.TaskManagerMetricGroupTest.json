@@ -1,1 +1,19 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.metrics.groups.TaskManagerMetricGroupTest_testReCreateAfterRemoval":[],"org.apache.flink.runtime.metrics.groups.TaskManagerMetricGroupTest_testCloseOnRemove":[],"org.apache.flink.runtime.metrics.groups.TaskManagerMetricGroupTest_testGetSameJob":["metrics.scope.tm","metrics.scope.tm-job","metrics.scope.operator","metrics.scope.jm","metrics.scope.jm-job","metrics.scope.jm-operator","metrics.scope.task"],"org.apache.flink.runtime.metrics.groups.TaskManagerMetricGroupTest_testCloseWithoutRemoval":[],"org.apache.flink.runtime.metrics.groups.TaskManagerMetricGroupTest_testRemoveNullJobID":[],"org.apache.flink.runtime.metrics.groups.TaskManagerMetricGroupTest_testRemoveInvalidJobID":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.metrics.groups.TaskManagerMetricGroupTest_testReCreateAfterRemoval": [],
+    "org.apache.flink.runtime.metrics.groups.TaskManagerMetricGroupTest_testCloseOnRemove": [],
+    "org.apache.flink.runtime.metrics.groups.TaskManagerMetricGroupTest_testGetSameJob": [
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "metrics.scope.operator",
+      "metrics.scope.jm",
+      "metrics.scope.jm-job",
+      "metrics.scope.jm-operator",
+      "metrics.scope.task"
+    ],
+    "org.apache.flink.runtime.metrics.groups.TaskManagerMetricGroupTest_testCloseWithoutRemoval": [],
+    "org.apache.flink.runtime.metrics.groups.TaskManagerMetricGroupTest_testRemoveNullJobID": [],
+    "org.apache.flink.runtime.metrics.groups.TaskManagerMetricGroupTest_testRemoveInvalidJobID": []
+  }
+}

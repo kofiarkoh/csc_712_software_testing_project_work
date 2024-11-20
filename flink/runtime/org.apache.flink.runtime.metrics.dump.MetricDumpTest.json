@@ -1,1 +1,9 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.metrics.dump.MetricDumpTest_testDumpedMeter":[],"org.apache.flink.runtime.metrics.dump.MetricDumpTest_testDumpedHistogram":[],"org.apache.flink.runtime.metrics.dump.MetricDumpTest_testDumpedGauge":[],"org.apache.flink.runtime.metrics.dump.MetricDumpTest_testDumpedCounter":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.metrics.dump.MetricDumpTest_testDumpedMeter": [],
+    "org.apache.flink.runtime.metrics.dump.MetricDumpTest_testDumpedHistogram": [],
+    "org.apache.flink.runtime.metrics.dump.MetricDumpTest_testDumpedGauge": [],
+    "org.apache.flink.runtime.metrics.dump.MetricDumpTest_testDumpedCounter": []
+  }
+}

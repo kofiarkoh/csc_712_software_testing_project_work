@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.runtime.partitioner.ShufflePartitionerTest_testSerializable":[],"org.apache.flink.streaming.runtime.partitioner.ShufflePartitionerTest_testSelectChannelsInterval":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.runtime.partitioner.ShufflePartitionerTest_testSerializable": [],
+    "org.apache.flink.streaming.runtime.partitioner.ShufflePartitionerTest_testSelectChannelsInterval": []
+  }
+}

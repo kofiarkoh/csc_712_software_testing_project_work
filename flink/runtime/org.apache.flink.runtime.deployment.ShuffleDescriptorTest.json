@@ -1,1 +1,12 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.deployment.ShuffleDescriptorTest_testMixedLocalRemoteUnknownDeployment":["taskmanager.memory.segment-size","execution.batch-shuffle-mode","taskmanager.network.sort-shuffle.min-buffers"],"org.apache.flink.runtime.deployment.ShuffleDescriptorTest_testUnknownDescriptorWithOrWithoutLazyDeployment":[],"org.apache.flink.runtime.deployment.ShuffleDescriptorTest_testNonFinishedHybridPartitionShouldBeUnknown":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.deployment.ShuffleDescriptorTest_testMixedLocalRemoteUnknownDeployment": [
+      "taskmanager.memory.segment-size",
+      "execution.batch-shuffle-mode",
+      "taskmanager.network.sort-shuffle.min-buffers"
+    ],
+    "org.apache.flink.runtime.deployment.ShuffleDescriptorTest_testUnknownDescriptorWithOrWithoutLazyDeployment": [],
+    "org.apache.flink.runtime.deployment.ShuffleDescriptorTest_testNonFinishedHybridPartitionShouldBeUnknown": []
+  }
+}

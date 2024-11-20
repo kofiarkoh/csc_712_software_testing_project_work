@@ -1,1 +1,92 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testSkippingOfEnqueuedLeadershipOperations":["parallelism.default","pipeline.object-reuse","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testJobStatusCancellingIsClearedOnLeadershipLoss":["parallelism.default","pipeline.object-reuse","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testExceptionallyCompletedResultFutureFromJobMasterServiceProcessIsForwarded":[],"org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testJobMasterGatewayIsInvalidatedOnLeadershipChanges":[],"org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testCancellationChangesJobStatusToCancelling":["parallelism.default","pipeline.object-reuse","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testJobMasterServiceProcessCreationFailureIsForwardedToResultFuture":[],"org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testJobMasterServiceProcessShutdownOnLeadershipLoss":[],"org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testResultFutureCompletionOfOutdatedLeaderIsIgnored":["parallelism.default","pipeline.object-reuse","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testCloseReleasesClassLoaderLease":["parallelism.default","pipeline.object-reuse","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testJobMasterServiceProcessIsTerminatedOnClose":["parallelism.default","pipeline.object-reuse","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testJobMasterServiceProcessClosingExceptionIsForwardedToResultFuture":[],"org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testJobMasterCreationFailureCompletesJobManagerRunnerWithInitializationError":["parallelism.default","pipeline.object-reuse","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testJobInformationOperationsDuringInitialization":["parallelism.default","pipeline.object-reuse","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testJobAlreadyDone":["parallelism.default","pipeline.object-reuse","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testCancellationFailsWhenExceptionOccurs":["parallelism.default","pipeline.object-reuse","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testJobMasterServiceLeadershipRunnerCloseWhenElectionServiceGrantLeaderShip":[],"org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testInitialJobStatusIsInitializing":["parallelism.default","pipeline.object-reuse","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testShutDownSignalsJobAsNotFinished":["parallelism.default","pipeline.object-reuse","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testConcurrentLeadershipOperationsBlockingClose":[],"org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testCancellationIsForwardedToJobMasterService":[],"org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testCancellationFailsWhenInitializationFails":["parallelism.default","pipeline.object-reuse","pipeline.max-parallelism","state.changelog.periodic-materialize.interval"],"org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testLeaderAddressOfOutdatedLeaderIsIgnored":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testSkippingOfEnqueuedLeadershipOperations": [
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testJobStatusCancellingIsClearedOnLeadershipLoss": [
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testExceptionallyCompletedResultFutureFromJobMasterServiceProcessIsForwarded": [],
+    "org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testJobMasterGatewayIsInvalidatedOnLeadershipChanges": [],
+    "org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testCancellationChangesJobStatusToCancelling": [
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testJobMasterServiceProcessCreationFailureIsForwardedToResultFuture": [],
+    "org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testJobMasterServiceProcessShutdownOnLeadershipLoss": [],
+    "org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testResultFutureCompletionOfOutdatedLeaderIsIgnored": [
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testCloseReleasesClassLoaderLease": [
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testJobMasterServiceProcessIsTerminatedOnClose": [
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testJobMasterServiceProcessClosingExceptionIsForwardedToResultFuture": [],
+    "org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testJobMasterCreationFailureCompletesJobManagerRunnerWithInitializationError": [
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testJobInformationOperationsDuringInitialization": [
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testJobAlreadyDone": [
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testCancellationFailsWhenExceptionOccurs": [
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testJobMasterServiceLeadershipRunnerCloseWhenElectionServiceGrantLeaderShip": [],
+    "org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testInitialJobStatusIsInitializing": [
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testShutDownSignalsJobAsNotFinished": [
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testConcurrentLeadershipOperationsBlockingClose": [],
+    "org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testCancellationIsForwardedToJobMasterService": [],
+    "org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testCancellationFailsWhenInitializationFails": [
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "pipeline.max-parallelism",
+      "state.changelog.periodic-materialize.interval"
+    ],
+    "org.apache.flink.runtime.jobmaster.JobMasterServiceLeadershipRunnerTest_testLeaderAddressOfOutdatedLeaderIsIgnored": []
+  }
+}

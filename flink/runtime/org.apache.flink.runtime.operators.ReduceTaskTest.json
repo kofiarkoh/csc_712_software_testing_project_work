@@ -1,1 +1,23 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.operators.ReduceTaskTest_testReduceTaskWithSortingInput":["driver.strategy","pipeline.object-reuse"],"org.apache.flink.runtime.operators.ReduceTaskTest_testFailingReduceTask":["driver.strategy","pipeline.object-reuse"],"org.apache.flink.runtime.operators.ReduceTaskTest_testCancelReduceTaskWhileReducing":[],"org.apache.flink.runtime.operators.ReduceTaskTest_testCombiningReduceTask":["driver.strategy","pipeline.object-reuse"],"org.apache.flink.runtime.operators.ReduceTaskTest_testReduceTaskOnPreSortedInput":["driver.strategy","pipeline.object-reuse"],"org.apache.flink.runtime.operators.ReduceTaskTest_testCancelReduceTaskWhileSorting":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.operators.ReduceTaskTest_testReduceTaskWithSortingInput": [
+      "driver.strategy",
+      "pipeline.object-reuse"
+    ],
+    "org.apache.flink.runtime.operators.ReduceTaskTest_testFailingReduceTask": [
+      "driver.strategy",
+      "pipeline.object-reuse"
+    ],
+    "org.apache.flink.runtime.operators.ReduceTaskTest_testCancelReduceTaskWhileReducing": [],
+    "org.apache.flink.runtime.operators.ReduceTaskTest_testCombiningReduceTask": [
+      "driver.strategy",
+      "pipeline.object-reuse"
+    ],
+    "org.apache.flink.runtime.operators.ReduceTaskTest_testReduceTaskOnPreSortedInput": [
+      "driver.strategy",
+      "pipeline.object-reuse"
+    ],
+    "org.apache.flink.runtime.operators.ReduceTaskTest_testCancelReduceTaskWhileSorting": []
+  }
+}

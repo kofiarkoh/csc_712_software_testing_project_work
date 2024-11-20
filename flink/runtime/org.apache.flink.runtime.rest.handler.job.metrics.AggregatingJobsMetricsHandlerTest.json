@@ -1,1 +1,14 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.rest.handler.job.metrics.AggregatingJobsMetricsHandlerTest_testDefaultAggregation":[],"org.apache.flink.runtime.rest.handler.job.metrics.AggregatingJobsMetricsHandlerTest_testSumAggregation":[],"org.apache.flink.runtime.rest.handler.job.metrics.AggregatingJobsMetricsHandlerTest_getStores":[],"org.apache.flink.runtime.rest.handler.job.metrics.AggregatingJobsMetricsHandlerTest_testMinAggregation":[],"org.apache.flink.runtime.rest.handler.job.metrics.AggregatingJobsMetricsHandlerTest_testMaxAggregation":[],"org.apache.flink.runtime.rest.handler.job.metrics.AggregatingJobsMetricsHandlerTest_testMultipleAggregation":[],"org.apache.flink.runtime.rest.handler.job.metrics.AggregatingJobsMetricsHandlerTest_testAvgAggregation":[],"org.apache.flink.runtime.rest.handler.job.metrics.AggregatingJobsMetricsHandlerTest_testListMetrics":[],"org.apache.flink.runtime.rest.handler.job.metrics.AggregatingJobsMetricsHandlerTest_testDataSkewAggregation":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.rest.handler.job.metrics.AggregatingJobsMetricsHandlerTest_testDefaultAggregation": [],
+    "org.apache.flink.runtime.rest.handler.job.metrics.AggregatingJobsMetricsHandlerTest_testSumAggregation": [],
+    "org.apache.flink.runtime.rest.handler.job.metrics.AggregatingJobsMetricsHandlerTest_getStores": [],
+    "org.apache.flink.runtime.rest.handler.job.metrics.AggregatingJobsMetricsHandlerTest_testMinAggregation": [],
+    "org.apache.flink.runtime.rest.handler.job.metrics.AggregatingJobsMetricsHandlerTest_testMaxAggregation": [],
+    "org.apache.flink.runtime.rest.handler.job.metrics.AggregatingJobsMetricsHandlerTest_testMultipleAggregation": [],
+    "org.apache.flink.runtime.rest.handler.job.metrics.AggregatingJobsMetricsHandlerTest_testAvgAggregation": [],
+    "org.apache.flink.runtime.rest.handler.job.metrics.AggregatingJobsMetricsHandlerTest_testListMetrics": [],
+    "org.apache.flink.runtime.rest.handler.job.metrics.AggregatingJobsMetricsHandlerTest_testDataSkewAggregation": []
+  }
+}

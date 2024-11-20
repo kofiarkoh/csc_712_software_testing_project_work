@@ -1,1 +1,210 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testMultiChannelWithBarriers":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testSingleChannelNoBarriers":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testTriggerCheckpointsAfterReceivedEndOfPartition":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testNotifyAbortCheckpointBeforeCancellingAsyncCheckpoint":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testMetrics":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testEndOfStreamWhileCheckpoint":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testSingleChannelWithBarriers":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testSingleChannelAbortCheckpoint":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testProcessCancellationBarrierBeforeProcessAndReceiveBarrier":["state.latency-track.state-name-as-variable","execution.checkpointing.checkpoints-after-tasks-finish","taskmanager.memory.min-segment-size","state.latency-track.history-size","taskmanager.memory.segment-size","execution.checkpointing.unaligned.enabled","state.changelog.enabled","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled","state.latency-track.sample-interval","taskmanager.network.memory.buffer-debloat.period","execution.checkpointing.storage","execution.checkpointing.create-subdir","state.latency-track.keyed-state-enabled","execution.checkpointing.max-concurrent-checkpoints","state.backend.type"],"org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testMultiChannelAbortCheckpoint":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testStartAlignmentWithClosedChannels":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testMultiChannelNoBarriers":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testEarlyCleanup":["taskmanager.memory.min-segment-size","metrics.scope.operator","taskmanager.memory.segment-size","metrics.scope.jm","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","metrics.scope.task","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled","metrics.scope.tm","metrics.scope.tm-job","metrics.scope.jm-job","metrics.scope.jm-operator"],"org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testMultiChannelTrailingInflightData":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testTriggerCheckpointsWithEndOfPartition":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testMissingCancellationBarriers":["taskmanager.memory.min-segment-size","taskmanager.memory.segment-size","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled"],"org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testProcessCancellationBarrierAfterProcessBarrier":["state.latency-track.state-name-as-variable","execution.checkpointing.checkpoints-after-tasks-finish","taskmanager.memory.min-segment-size","state.latency-track.history-size","taskmanager.memory.segment-size","execution.checkpointing.unaligned.enabled","state.changelog.enabled","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled","state.latency-track.sample-interval","taskmanager.network.memory.buffer-debloat.period","execution.checkpointing.storage","execution.checkpointing.create-subdir","state.latency-track.keyed-state-enabled","execution.checkpointing.max-concurrent-checkpoints","state.backend.type"],"org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testEndOfStreamWithPendingCheckpoint":["state.latency-track.state-name-as-variable","execution.checkpointing.checkpoints-after-tasks-finish","taskmanager.memory.min-segment-size","state.latency-track.history-size","taskmanager.memory.segment-size","execution.checkpointing.unaligned.enabled","state.changelog.enabled","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled","state.latency-track.sample-interval","taskmanager.network.memory.buffer-debloat.period","execution.checkpointing.storage","execution.checkpointing.create-subdir","state.latency-track.keyed-state-enabled","execution.checkpointing.max-concurrent-checkpoints","state.backend.type"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testMultiChannelWithBarriers": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testSingleChannelNoBarriers": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testTriggerCheckpointsAfterReceivedEndOfPartition": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testNotifyAbortCheckpointBeforeCancellingAsyncCheckpoint": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testMetrics": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testEndOfStreamWhileCheckpoint": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testSingleChannelWithBarriers": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testSingleChannelAbortCheckpoint": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testProcessCancellationBarrierBeforeProcessAndReceiveBarrier": [
+      "state.latency-track.state-name-as-variable",
+      "execution.checkpointing.checkpoints-after-tasks-finish",
+      "taskmanager.memory.min-segment-size",
+      "state.latency-track.history-size",
+      "taskmanager.memory.segment-size",
+      "execution.checkpointing.unaligned.enabled",
+      "state.changelog.enabled",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled",
+      "state.latency-track.sample-interval",
+      "taskmanager.network.memory.buffer-debloat.period",
+      "execution.checkpointing.storage",
+      "execution.checkpointing.create-subdir",
+      "state.latency-track.keyed-state-enabled",
+      "execution.checkpointing.max-concurrent-checkpoints",
+      "state.backend.type"
+    ],
+    "org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testMultiChannelAbortCheckpoint": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testStartAlignmentWithClosedChannels": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testMultiChannelNoBarriers": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testEarlyCleanup": [
+      "taskmanager.memory.min-segment-size",
+      "metrics.scope.operator",
+      "taskmanager.memory.segment-size",
+      "metrics.scope.jm",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "metrics.scope.task",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled",
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "metrics.scope.jm-job",
+      "metrics.scope.jm-operator"
+    ],
+    "org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testMultiChannelTrailingInflightData": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testTriggerCheckpointsWithEndOfPartition": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testMissingCancellationBarriers": [
+      "taskmanager.memory.min-segment-size",
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled"
+    ],
+    "org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testProcessCancellationBarrierAfterProcessBarrier": [
+      "state.latency-track.state-name-as-variable",
+      "execution.checkpointing.checkpoints-after-tasks-finish",
+      "taskmanager.memory.min-segment-size",
+      "state.latency-track.history-size",
+      "taskmanager.memory.segment-size",
+      "execution.checkpointing.unaligned.enabled",
+      "state.changelog.enabled",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled",
+      "state.latency-track.sample-interval",
+      "taskmanager.network.memory.buffer-debloat.period",
+      "execution.checkpointing.storage",
+      "execution.checkpointing.create-subdir",
+      "state.latency-track.keyed-state-enabled",
+      "execution.checkpointing.max-concurrent-checkpoints",
+      "state.backend.type"
+    ],
+    "org.apache.flink.streaming.runtime.io.checkpointing.UnalignedCheckpointsTest_testEndOfStreamWithPendingCheckpoint": [
+      "state.latency-track.state-name-as-variable",
+      "execution.checkpointing.checkpoints-after-tasks-finish",
+      "taskmanager.memory.min-segment-size",
+      "state.latency-track.history-size",
+      "taskmanager.memory.segment-size",
+      "execution.checkpointing.unaligned.enabled",
+      "state.changelog.enabled",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled",
+      "state.latency-track.sample-interval",
+      "taskmanager.network.memory.buffer-debloat.period",
+      "execution.checkpointing.storage",
+      "execution.checkpointing.create-subdir",
+      "state.latency-track.keyed-state-enabled",
+      "execution.checkpointing.max-concurrent-checkpoints",
+      "state.backend.type"
+    ]
+  }
+}

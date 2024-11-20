@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.runtime.metrics.WatermarkGaugeTest_testSetCurrentLowWatermark":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.runtime.metrics.WatermarkGaugeTest_testSetCurrentLowWatermark": []
+  }
+}

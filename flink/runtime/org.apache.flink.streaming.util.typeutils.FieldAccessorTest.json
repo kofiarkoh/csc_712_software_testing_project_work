@@ -1,1 +1,18 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testBasicType":[],"org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testTupleInPojoInTuple":[],"org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testIllegalFlatTuple":[],"org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testIllegalTupleField":[],"org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testPojoInPojo":[],"org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testIllegalBasicType1":[],"org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testIllegalBasicType2":[],"org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testArray":[],"org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testTupleInTuple":[],"org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testFlatTuple":[],"org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testArrayInPojo":[],"org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testRowTypeInfo":[],"org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testIllegalTupleInPojoInTuple":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testBasicType": [],
+    "org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testTupleInPojoInTuple": [],
+    "org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testIllegalFlatTuple": [],
+    "org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testIllegalTupleField": [],
+    "org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testPojoInPojo": [],
+    "org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testIllegalBasicType1": [],
+    "org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testIllegalBasicType2": [],
+    "org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testArray": [],
+    "org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testTupleInTuple": [],
+    "org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testFlatTuple": [],
+    "org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testArrayInPojo": [],
+    "org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testRowTypeInfo": [],
+    "org.apache.flink.streaming.util.typeutils.FieldAccessorTest_testIllegalTupleInPojoInTuple": []
+  }
+}

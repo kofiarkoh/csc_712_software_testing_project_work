@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.api.lineage.DefaultLineageGraphTest_testLineageGraph":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.api.lineage.DefaultLineageGraphTest_testLineageGraph": []
+  }
+}

@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.state.SnapshotResultTest_discardState":[],"org.apache.flink.runtime.state.SnapshotResultTest_getStateSize":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.state.SnapshotResultTest_discardState": [],
+    "org.apache.flink.runtime.state.SnapshotResultTest_getStateSize": []
+  }
+}

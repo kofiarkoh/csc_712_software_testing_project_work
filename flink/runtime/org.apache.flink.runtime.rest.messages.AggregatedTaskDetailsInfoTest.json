@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.rest.messages.AggregatedTaskDetailsInfoTest_testJsonMarshalling":[],"org.apache.flink.runtime.rest.messages.AggregatedTaskDetailsInfoTest_testMetricsStatistics":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.rest.messages.AggregatedTaskDetailsInfoTest_testJsonMarshalling": [],
+    "org.apache.flink.runtime.rest.messages.AggregatedTaskDetailsInfoTest_testMetricsStatistics": []
+  }
+}

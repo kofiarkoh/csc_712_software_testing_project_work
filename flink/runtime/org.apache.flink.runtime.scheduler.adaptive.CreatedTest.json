@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.scheduler.adaptive.CreatedTest_testStartScheduling":[],"org.apache.flink.runtime.scheduler.adaptive.CreatedTest_testJobInformation":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.scheduler.adaptive.CreatedTest_testStartScheduling": [],
+    "org.apache.flink.runtime.scheduler.adaptive.CreatedTest_testJobInformation": []
+  }
+}

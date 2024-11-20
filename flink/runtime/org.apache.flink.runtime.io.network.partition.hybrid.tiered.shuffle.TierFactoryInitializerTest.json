@@ -1,1 +1,21 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.io.network.partition.hybrid.tiered.shuffle.TierFactoryInitializerTest_testInitEphemeralTiers":["taskmanager.memory.segment-size","taskmanager.network.hybrid-shuffle.remote.path","taskmanager.network.hybrid-shuffle.external-remote-tier-factory.class"],"org.apache.flink.runtime.io.network.partition.hybrid.tiered.shuffle.TierFactoryInitializerTest_testInitDurableTiersWithExternalRemoteTier":["taskmanager.network.hybrid-shuffle.external-remote-tier-factory.class"],"org.apache.flink.runtime.io.network.partition.hybrid.tiered.shuffle.TierFactoryInitializerTest_testInitDurableExternalRemoteTierWithHigherPriority":["taskmanager.network.hybrid-shuffle.external-remote-tier-factory.class"],"org.apache.flink.runtime.io.network.partition.hybrid.tiered.shuffle.TierFactoryInitializerTest_testInitEphemeralTiersWithRemoteTier":["taskmanager.memory.segment-size","taskmanager.network.hybrid-shuffle.remote.path","taskmanager.network.hybrid-shuffle.external-remote-tier-factory.class"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.io.network.partition.hybrid.tiered.shuffle.TierFactoryInitializerTest_testInitEphemeralTiers": [
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.hybrid-shuffle.remote.path",
+      "taskmanager.network.hybrid-shuffle.external-remote-tier-factory.class"
+    ],
+    "org.apache.flink.runtime.io.network.partition.hybrid.tiered.shuffle.TierFactoryInitializerTest_testInitDurableTiersWithExternalRemoteTier": [
+      "taskmanager.network.hybrid-shuffle.external-remote-tier-factory.class"
+    ],
+    "org.apache.flink.runtime.io.network.partition.hybrid.tiered.shuffle.TierFactoryInitializerTest_testInitDurableExternalRemoteTierWithHigherPriority": [
+      "taskmanager.network.hybrid-shuffle.external-remote-tier-factory.class"
+    ],
+    "org.apache.flink.runtime.io.network.partition.hybrid.tiered.shuffle.TierFactoryInitializerTest_testInitEphemeralTiersWithRemoteTier": [
+      "taskmanager.memory.segment-size",
+      "taskmanager.network.hybrid-shuffle.remote.path",
+      "taskmanager.network.hybrid-shuffle.external-remote-tier-factory.class"
+    ]
+  }
+}

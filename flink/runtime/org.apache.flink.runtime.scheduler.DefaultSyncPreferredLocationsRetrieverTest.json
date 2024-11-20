@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.scheduler.DefaultSyncPreferredLocationsRetrieverTest_testAvailableInputLocationRetrieval":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.scheduler.DefaultSyncPreferredLocationsRetrieverTest_testAvailableInputLocationRetrieval": []
+  }
+}

@@ -1,1 +1,11 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.source.coordinator.SplitAssignmentTrackerTest_testGetAndRemoveSplitsAfterSomeCheckpoint":[],"org.apache.flink.runtime.source.coordinator.SplitAssignmentTrackerTest_testOnCheckpointComplete":[],"org.apache.flink.runtime.source.coordinator.SplitAssignmentTrackerTest_testGetAndRemoveUncheckpointedAssignment":[],"org.apache.flink.runtime.source.coordinator.SplitAssignmentTrackerTest_testOnCheckpoint":[],"org.apache.flink.runtime.source.coordinator.SplitAssignmentTrackerTest_testRecordIncrementalSplitAssignment":[],"org.apache.flink.runtime.source.coordinator.SplitAssignmentTrackerTest_testSnapshotStateAndRestoreState":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.source.coordinator.SplitAssignmentTrackerTest_testGetAndRemoveSplitsAfterSomeCheckpoint": [],
+    "org.apache.flink.runtime.source.coordinator.SplitAssignmentTrackerTest_testOnCheckpointComplete": [],
+    "org.apache.flink.runtime.source.coordinator.SplitAssignmentTrackerTest_testGetAndRemoveUncheckpointedAssignment": [],
+    "org.apache.flink.runtime.source.coordinator.SplitAssignmentTrackerTest_testOnCheckpoint": [],
+    "org.apache.flink.runtime.source.coordinator.SplitAssignmentTrackerTest_testRecordIncrementalSplitAssignment": [],
+    "org.apache.flink.runtime.source.coordinator.SplitAssignmentTrackerTest_testSnapshotStateAndRestoreState": []
+  }
+}

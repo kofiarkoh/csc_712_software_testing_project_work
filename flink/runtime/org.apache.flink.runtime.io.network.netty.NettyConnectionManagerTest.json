@@ -1,1 +1,11 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.io.network.netty.NettyConnectionManagerTest_testMatchingNumberOfArenasAndThreadsAsDefault":["taskmanager.network.netty.client.connectTimeoutSec","taskmanager.network.retries","security.ssl.internal.enabled","taskmanager.data.ssl.enabled"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.io.network.netty.NettyConnectionManagerTest_testMatchingNumberOfArenasAndThreadsAsDefault": [
+      "taskmanager.network.netty.client.connectTimeoutSec",
+      "taskmanager.network.retries",
+      "security.ssl.internal.enabled",
+      "taskmanager.data.ssl.enabled"
+    ]
+  }
+}

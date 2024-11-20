@@ -1,1 +1,100 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testAllEdgesAllToAllAndOneIsBroadcast":["execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task","execution.batch.adaptive.auto-parallelism.default-source-parallelism","execution.batch.adaptive.auto-parallelism.min-parallelism"],"org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testAllEdgesAllToAllAndDecidedParallelismIsMinParallelism":["execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task","execution.batch.adaptive.auto-parallelism.default-source-parallelism","execution.batch.adaptive.auto-parallelism.min-parallelism"],"org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testComputeSourceParallelismUpperBound":["execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task","execution.batch.adaptive.auto-parallelism.default-source-parallelism","execution.batch.adaptive.auto-parallelism.min-parallelism"],"org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testInitiallyNormalizedParallelismIsSmallerThanMinParallelism":["execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task","execution.batch.adaptive.auto-parallelism.default-source-parallelism","execution.batch.adaptive.auto-parallelism.min-parallelism"],"org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testComputeSourceParallelismUpperBoundFallback":["execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task","execution.batch.adaptive.auto-parallelism.default-source-parallelism","execution.batch.adaptive.auto-parallelism.min-parallelism"],"org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testHavePointwiseEdges":["execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task","execution.batch.adaptive.auto-parallelism.default-source-parallelism","execution.batch.adaptive.auto-parallelism.min-parallelism"],"org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testParallelismAlreadyDecided":["execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task","execution.batch.adaptive.auto-parallelism.default-source-parallelism","execution.batch.adaptive.auto-parallelism.min-parallelism"],"org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testEvenlyDistributeDataWithMaxSubpartitionLimitation":["execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task","execution.batch.adaptive.auto-parallelism.default-source-parallelism","execution.batch.adaptive.auto-parallelism.min-parallelism"],"org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testDecideParallelism":["execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task","execution.batch.adaptive.auto-parallelism.default-source-parallelism","execution.batch.adaptive.auto-parallelism.min-parallelism"],"org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testInitiallyNormalizedParallelismIsLargerThanMaxParallelism":["execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task","execution.batch.adaptive.auto-parallelism.default-source-parallelism","execution.batch.adaptive.auto-parallelism.min-parallelism"],"org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testComputeSourceParallelismUpperBoundNotExceedMaxParallelism":["execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task","execution.batch.adaptive.auto-parallelism.default-source-parallelism","execution.batch.adaptive.auto-parallelism.min-parallelism"],"org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testNonBroadcastBytesCanNotDividedEvenly":["execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task","execution.batch.adaptive.auto-parallelism.default-source-parallelism","execution.batch.adaptive.auto-parallelism.min-parallelism"],"org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testFallBackToEvenlyDistributeSubpartitions":["execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task","execution.batch.adaptive.auto-parallelism.default-source-parallelism","execution.batch.adaptive.auto-parallelism.min-parallelism"],"org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testAllEdgesBroadcast":["execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task","execution.batch.adaptive.auto-parallelism.default-source-parallelism","execution.batch.adaptive.auto-parallelism.min-parallelism"],"org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testDynamicSourceParallelismWithUpstreamInputs":["execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task","execution.batch.adaptive.auto-parallelism.default-source-parallelism","execution.batch.adaptive.auto-parallelism.min-parallelism"],"org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testAllEdgesAllToAllAndDecidedParallelismIsMaxParallelism":["execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task","execution.batch.adaptive.auto-parallelism.default-source-parallelism","execution.batch.adaptive.auto-parallelism.min-parallelism"],"org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testDecideParallelismWithMaxSubpartitionLimitation":["execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task","execution.batch.adaptive.auto-parallelism.default-source-parallelism","execution.batch.adaptive.auto-parallelism.min-parallelism"],"org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testAllEdgesAllToAll":["execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task","execution.batch.adaptive.auto-parallelism.default-source-parallelism","execution.batch.adaptive.auto-parallelism.min-parallelism"],"org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testSourceJobVertex":["execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task","execution.batch.adaptive.auto-parallelism.default-source-parallelism","execution.batch.adaptive.auto-parallelism.min-parallelism"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testAllEdgesAllToAllAndOneIsBroadcast": [
+      "execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task",
+      "execution.batch.adaptive.auto-parallelism.default-source-parallelism",
+      "execution.batch.adaptive.auto-parallelism.min-parallelism"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testAllEdgesAllToAllAndDecidedParallelismIsMinParallelism": [
+      "execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task",
+      "execution.batch.adaptive.auto-parallelism.default-source-parallelism",
+      "execution.batch.adaptive.auto-parallelism.min-parallelism"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testComputeSourceParallelismUpperBound": [
+      "execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task",
+      "execution.batch.adaptive.auto-parallelism.default-source-parallelism",
+      "execution.batch.adaptive.auto-parallelism.min-parallelism"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testInitiallyNormalizedParallelismIsSmallerThanMinParallelism": [
+      "execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task",
+      "execution.batch.adaptive.auto-parallelism.default-source-parallelism",
+      "execution.batch.adaptive.auto-parallelism.min-parallelism"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testComputeSourceParallelismUpperBoundFallback": [
+      "execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task",
+      "execution.batch.adaptive.auto-parallelism.default-source-parallelism",
+      "execution.batch.adaptive.auto-parallelism.min-parallelism"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testHavePointwiseEdges": [
+      "execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task",
+      "execution.batch.adaptive.auto-parallelism.default-source-parallelism",
+      "execution.batch.adaptive.auto-parallelism.min-parallelism"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testParallelismAlreadyDecided": [
+      "execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task",
+      "execution.batch.adaptive.auto-parallelism.default-source-parallelism",
+      "execution.batch.adaptive.auto-parallelism.min-parallelism"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testEvenlyDistributeDataWithMaxSubpartitionLimitation": [
+      "execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task",
+      "execution.batch.adaptive.auto-parallelism.default-source-parallelism",
+      "execution.batch.adaptive.auto-parallelism.min-parallelism"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testDecideParallelism": [
+      "execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task",
+      "execution.batch.adaptive.auto-parallelism.default-source-parallelism",
+      "execution.batch.adaptive.auto-parallelism.min-parallelism"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testInitiallyNormalizedParallelismIsLargerThanMaxParallelism": [
+      "execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task",
+      "execution.batch.adaptive.auto-parallelism.default-source-parallelism",
+      "execution.batch.adaptive.auto-parallelism.min-parallelism"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testComputeSourceParallelismUpperBoundNotExceedMaxParallelism": [
+      "execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task",
+      "execution.batch.adaptive.auto-parallelism.default-source-parallelism",
+      "execution.batch.adaptive.auto-parallelism.min-parallelism"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testNonBroadcastBytesCanNotDividedEvenly": [
+      "execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task",
+      "execution.batch.adaptive.auto-parallelism.default-source-parallelism",
+      "execution.batch.adaptive.auto-parallelism.min-parallelism"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testFallBackToEvenlyDistributeSubpartitions": [
+      "execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task",
+      "execution.batch.adaptive.auto-parallelism.default-source-parallelism",
+      "execution.batch.adaptive.auto-parallelism.min-parallelism"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testAllEdgesBroadcast": [
+      "execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task",
+      "execution.batch.adaptive.auto-parallelism.default-source-parallelism",
+      "execution.batch.adaptive.auto-parallelism.min-parallelism"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testDynamicSourceParallelismWithUpstreamInputs": [
+      "execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task",
+      "execution.batch.adaptive.auto-parallelism.default-source-parallelism",
+      "execution.batch.adaptive.auto-parallelism.min-parallelism"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testAllEdgesAllToAllAndDecidedParallelismIsMaxParallelism": [
+      "execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task",
+      "execution.batch.adaptive.auto-parallelism.default-source-parallelism",
+      "execution.batch.adaptive.auto-parallelism.min-parallelism"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testDecideParallelismWithMaxSubpartitionLimitation": [
+      "execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task",
+      "execution.batch.adaptive.auto-parallelism.default-source-parallelism",
+      "execution.batch.adaptive.auto-parallelism.min-parallelism"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testAllEdgesAllToAll": [
+      "execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task",
+      "execution.batch.adaptive.auto-parallelism.default-source-parallelism",
+      "execution.batch.adaptive.auto-parallelism.min-parallelism"
+    ],
+    "org.apache.flink.runtime.scheduler.adaptivebatch.DefaultVertexParallelismAndInputInfosDeciderTest_testSourceJobVertex": [
+      "execution.batch.adaptive.auto-parallelism.avg-data-volume-per-task",
+      "execution.batch.adaptive.auto-parallelism.default-source-parallelism",
+      "execution.batch.adaptive.auto-parallelism.min-parallelism"
+    ]
+  }
+}

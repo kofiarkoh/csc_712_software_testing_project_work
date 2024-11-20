@@ -1,1 +1,17 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.runtime.operators.windowing.CountTriggerTest_testWindowSeparationAndFiring":["execution.checkpointing.snapshot-compression"],"org.apache.flink.streaming.runtime.operators.windowing.CountTriggerTest_testClear":["execution.checkpointing.snapshot-compression"],"org.apache.flink.streaming.runtime.operators.windowing.CountTriggerTest_testMergingWindows":["execution.checkpointing.snapshot-compression"],"org.apache.flink.streaming.runtime.operators.windowing.CountTriggerTest_testMergeSubsumingWindow":["execution.checkpointing.snapshot-compression"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.runtime.operators.windowing.CountTriggerTest_testWindowSeparationAndFiring": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.streaming.runtime.operators.windowing.CountTriggerTest_testClear": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.streaming.runtime.operators.windowing.CountTriggerTest_testMergingWindows": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.streaming.runtime.operators.windowing.CountTriggerTest_testMergeSubsumingWindow": [
+      "execution.checkpointing.snapshot-compression"
+    ]
+  }
+}

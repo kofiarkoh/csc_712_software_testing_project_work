@@ -1,1 +1,36 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testSingleChannelWithBarriers":[],"org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testIgnoreCancelBarrierIfCheckpointSubsumed":[],"org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testSingleChannelNoBarriers":[],"org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testSingleChannelAbortCheckpoint":[],"org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testMultiChannelNoBarriers":[],"org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testMissingCancellationBarriers":[],"org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testMultiChannelWithBarriers":[],"org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testTriggerCheckpointsAfterReceivedEndOfPartition":[],"org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testMultiChannelAbortCheckpoint":[],"org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testEndOfStreamWhileCheckpoint":[],"org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testTriggerCheckpointsWithEndOfPartition":[],"org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testMultiChannelJumpingOverCheckpoint":[],"org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testMetrics":["taskmanager.memory.min-segment-size","metrics.scope.operator","taskmanager.memory.segment-size","metrics.scope.jm","taskmanager.network.memory.buffer-debloat.target","taskmanager.memory.starting-segment-size","metrics.scope.task","taskmanager.network.memory.buffer-debloat.threshold-percentages","taskmanager.network.memory.buffer-debloat.samples","taskmanager.network.memory.buffer-debloat.enabled","metrics.scope.tm","metrics.scope.tm-job","metrics.scope.jm-job","metrics.scope.jm-operator"],"org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testAbortOnCanceledBarriers":[],"org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testDeduplicateChannelsWithBothBarrierAndEndOfPartition":[],"org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testStartAlignmentWithClosedChannels":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testSingleChannelWithBarriers": [],
+    "org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testIgnoreCancelBarrierIfCheckpointSubsumed": [],
+    "org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testSingleChannelNoBarriers": [],
+    "org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testSingleChannelAbortCheckpoint": [],
+    "org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testMultiChannelNoBarriers": [],
+    "org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testMissingCancellationBarriers": [],
+    "org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testMultiChannelWithBarriers": [],
+    "org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testTriggerCheckpointsAfterReceivedEndOfPartition": [],
+    "org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testMultiChannelAbortCheckpoint": [],
+    "org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testEndOfStreamWhileCheckpoint": [],
+    "org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testTriggerCheckpointsWithEndOfPartition": [],
+    "org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testMultiChannelJumpingOverCheckpoint": [],
+    "org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testMetrics": [
+      "taskmanager.memory.min-segment-size",
+      "metrics.scope.operator",
+      "taskmanager.memory.segment-size",
+      "metrics.scope.jm",
+      "taskmanager.network.memory.buffer-debloat.target",
+      "taskmanager.memory.starting-segment-size",
+      "metrics.scope.task",
+      "taskmanager.network.memory.buffer-debloat.threshold-percentages",
+      "taskmanager.network.memory.buffer-debloat.samples",
+      "taskmanager.network.memory.buffer-debloat.enabled",
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "metrics.scope.jm-job",
+      "metrics.scope.jm-operator"
+    ],
+    "org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testAbortOnCanceledBarriers": [],
+    "org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testDeduplicateChannelsWithBothBarrierAndEndOfPartition": [],
+    "org.apache.flink.streaming.runtime.io.checkpointing.AlignedCheckpointsTest_testStartAlignmentWithClosedChannels": []
+  }
+}

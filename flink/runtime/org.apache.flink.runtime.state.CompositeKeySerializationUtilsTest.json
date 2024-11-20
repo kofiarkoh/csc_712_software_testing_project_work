@@ -1,1 +1,9 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.state.CompositeKeySerializationUtilsTest_testKeySerializationAndDeserialization":[],"org.apache.flink.runtime.state.CompositeKeySerializationUtilsTest_testNamespaceSerializationAndDeserialization":[],"org.apache.flink.runtime.state.CompositeKeySerializationUtilsTest_testKeyGroupSerializationAndDeserialization":[],"org.apache.flink.runtime.state.CompositeKeySerializationUtilsTest_testIsAmbiguousKeyPossible":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.state.CompositeKeySerializationUtilsTest_testKeySerializationAndDeserialization": [],
+    "org.apache.flink.runtime.state.CompositeKeySerializationUtilsTest_testNamespaceSerializationAndDeserialization": [],
+    "org.apache.flink.runtime.state.CompositeKeySerializationUtilsTest_testKeyGroupSerializationAndDeserialization": [],
+    "org.apache.flink.runtime.state.CompositeKeySerializationUtilsTest_testIsAmbiguousKeyPossible": []
+  }
+}

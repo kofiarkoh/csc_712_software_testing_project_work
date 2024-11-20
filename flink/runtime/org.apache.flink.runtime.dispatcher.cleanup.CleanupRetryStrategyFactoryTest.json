@@ -1,1 +1,67 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testDefaultStrategyCreation":["cleanup-strategy.exponential-delay.attempts","cleanup-strategy.type","cleanup-strategy.exponential-delay.initial-backoff","cleanup-strategy.exponential-delay.max-backoff"],"org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testExponentialBackoffDelayRetryStrategyWithCustomMaximumDelay":["cleanup-strategy.exponential-delay.attempts","cleanup-strategy.type","cleanup-strategy.exponential-delay.initial-backoff","cleanup-strategy.exponential-delay.max-backoff"],"org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testExponentialBackoffDelayRetryStrategyCreationWithAlphaNumericFixedDelayStrategyLabel":["cleanup-strategy.exponential-delay.attempts","cleanup-strategy.type","cleanup-strategy.exponential-delay.initial-backoff","cleanup-strategy.exponential-delay.max-backoff"],"org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testExponentialBackoffDelayRetryStrategyCreationWithFixedDelayStrategyDefaultLabel":["cleanup-strategy.exponential-delay.attempts","cleanup-strategy.type","cleanup-strategy.exponential-delay.initial-backoff","cleanup-strategy.exponential-delay.max-backoff"],"org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testNoRetryStrategyCreation":["cleanup-strategy.type"],"org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testExponentialBackoffDelayRetryStrategyWithCustomMinimumDelay":["cleanup-strategy.exponential-delay.attempts","cleanup-strategy.type","cleanup-strategy.exponential-delay.initial-backoff","cleanup-strategy.exponential-delay.max-backoff"],"org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testFixedDelayStrategyCreationWithAlphaNumericFixedDelayStrategyLabel":["cleanup-strategy.fixed-delay.attempts","cleanup-strategy.type","cleanup-strategy.fixed-delay.delay"],"org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testFixedDelayStrategyWithCustomDelay":["cleanup-strategy.fixed-delay.attempts","cleanup-strategy.type","cleanup-strategy.fixed-delay.delay"],"org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testFixedDelayStrategyCreationWithFixedDelayStrategyDefaultLabel":["cleanup-strategy.fixed-delay.attempts","cleanup-strategy.type","cleanup-strategy.fixed-delay.delay"],"org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testFixedDelayStrategyWithCustomMaxAttempts":["cleanup-strategy.fixed-delay.attempts","cleanup-strategy.type","cleanup-strategy.fixed-delay.delay"],"org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testInvalidConfiguration":["cleanup-strategy.type"],"org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testExponentialBackoffDelayRetryStrategyWithCustomMaxAttempts":["cleanup-strategy.exponential-delay.attempts","cleanup-strategy.type","cleanup-strategy.exponential-delay.initial-backoff","cleanup-strategy.exponential-delay.max-backoff"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testDefaultStrategyCreation": [
+      "cleanup-strategy.exponential-delay.attempts",
+      "cleanup-strategy.type",
+      "cleanup-strategy.exponential-delay.initial-backoff",
+      "cleanup-strategy.exponential-delay.max-backoff"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testExponentialBackoffDelayRetryStrategyWithCustomMaximumDelay": [
+      "cleanup-strategy.exponential-delay.attempts",
+      "cleanup-strategy.type",
+      "cleanup-strategy.exponential-delay.initial-backoff",
+      "cleanup-strategy.exponential-delay.max-backoff"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testExponentialBackoffDelayRetryStrategyCreationWithAlphaNumericFixedDelayStrategyLabel": [
+      "cleanup-strategy.exponential-delay.attempts",
+      "cleanup-strategy.type",
+      "cleanup-strategy.exponential-delay.initial-backoff",
+      "cleanup-strategy.exponential-delay.max-backoff"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testExponentialBackoffDelayRetryStrategyCreationWithFixedDelayStrategyDefaultLabel": [
+      "cleanup-strategy.exponential-delay.attempts",
+      "cleanup-strategy.type",
+      "cleanup-strategy.exponential-delay.initial-backoff",
+      "cleanup-strategy.exponential-delay.max-backoff"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testNoRetryStrategyCreation": [
+      "cleanup-strategy.type"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testExponentialBackoffDelayRetryStrategyWithCustomMinimumDelay": [
+      "cleanup-strategy.exponential-delay.attempts",
+      "cleanup-strategy.type",
+      "cleanup-strategy.exponential-delay.initial-backoff",
+      "cleanup-strategy.exponential-delay.max-backoff"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testFixedDelayStrategyCreationWithAlphaNumericFixedDelayStrategyLabel": [
+      "cleanup-strategy.fixed-delay.attempts",
+      "cleanup-strategy.type",
+      "cleanup-strategy.fixed-delay.delay"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testFixedDelayStrategyWithCustomDelay": [
+      "cleanup-strategy.fixed-delay.attempts",
+      "cleanup-strategy.type",
+      "cleanup-strategy.fixed-delay.delay"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testFixedDelayStrategyCreationWithFixedDelayStrategyDefaultLabel": [
+      "cleanup-strategy.fixed-delay.attempts",
+      "cleanup-strategy.type",
+      "cleanup-strategy.fixed-delay.delay"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testFixedDelayStrategyWithCustomMaxAttempts": [
+      "cleanup-strategy.fixed-delay.attempts",
+      "cleanup-strategy.type",
+      "cleanup-strategy.fixed-delay.delay"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testInvalidConfiguration": [
+      "cleanup-strategy.type"
+    ],
+    "org.apache.flink.runtime.dispatcher.cleanup.CleanupRetryStrategyFactoryTest_testExponentialBackoffDelayRetryStrategyWithCustomMaxAttempts": [
+      "cleanup-strategy.exponential-delay.attempts",
+      "cleanup-strategy.type",
+      "cleanup-strategy.exponential-delay.initial-backoff",
+      "cleanup-strategy.exponential-delay.max-backoff"
+    ]
+  }
+}

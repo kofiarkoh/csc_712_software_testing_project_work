@@ -1,1 +1,108 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.operators.JoinTaskTest_testCancelMatchTaskWhileMatching":[],"org.apache.flink.runtime.operators.JoinTaskTest_testSortBoth2MatchTask":["taskmanager.runtime.hashjoin-bloom-filters","driver.strategy","pipeline.object-reuse","memory.driver"],"org.apache.flink.runtime.operators.JoinTaskTest_testSortBoth5MatchTask":["taskmanager.runtime.hashjoin-bloom-filters","driver.strategy","pipeline.object-reuse","memory.driver"],"org.apache.flink.runtime.operators.JoinTaskTest_testHashFirstCancelMatchTaskWhileMatching":[],"org.apache.flink.runtime.operators.JoinTaskTest_testHash2MatchTask":["taskmanager.runtime.hashjoin-bloom-filters","driver.strategy","pipeline.object-reuse","memory.driver"],"org.apache.flink.runtime.operators.JoinTaskTest_testSortSecondMatchTask":["taskmanager.runtime.hashjoin-bloom-filters","driver.strategy","pipeline.object-reuse","memory.driver"],"org.apache.flink.runtime.operators.JoinTaskTest_testFailingHashSecondMatchTask":["taskmanager.runtime.hashjoin-bloom-filters","driver.strategy","pipeline.object-reuse","memory.driver"],"org.apache.flink.runtime.operators.JoinTaskTest_testHashCancelMatchTaskWhileBuildSecond":[],"org.apache.flink.runtime.operators.JoinTaskTest_testHash5MatchTask":["taskmanager.runtime.hashjoin-bloom-filters","driver.strategy","pipeline.object-reuse","memory.driver"],"org.apache.flink.runtime.operators.JoinTaskTest_testSortBoth1MatchTask":["taskmanager.runtime.hashjoin-bloom-filters","driver.strategy","pipeline.object-reuse","memory.driver"],"org.apache.flink.runtime.operators.JoinTaskTest_testMergeMatchTask":["taskmanager.runtime.hashjoin-bloom-filters","driver.strategy","pipeline.object-reuse","memory.driver"],"org.apache.flink.runtime.operators.JoinTaskTest_testHash1MatchTask":["taskmanager.runtime.hashjoin-bloom-filters","driver.strategy","pipeline.object-reuse","memory.driver"],"org.apache.flink.runtime.operators.JoinTaskTest_testCancelHashMatchTaskWhileBuildFirst":[],"org.apache.flink.runtime.operators.JoinTaskTest_testCancelMatchTaskWhileSort1":[],"org.apache.flink.runtime.operators.JoinTaskTest_testSortBoth4MatchTask":["taskmanager.runtime.hashjoin-bloom-filters","driver.strategy","pipeline.object-reuse","memory.driver"],"org.apache.flink.runtime.operators.JoinTaskTest_testCancelMatchTaskWhileSort2":[],"org.apache.flink.runtime.operators.JoinTaskTest_testHash4MatchTask":["taskmanager.runtime.hashjoin-bloom-filters","driver.strategy","pipeline.object-reuse","memory.driver"],"org.apache.flink.runtime.operators.JoinTaskTest_testSortBoth3MatchTask":["taskmanager.runtime.hashjoin-bloom-filters","driver.strategy","pipeline.object-reuse","memory.driver"],"org.apache.flink.runtime.operators.JoinTaskTest_testHash3MatchTask":["taskmanager.runtime.hashjoin-bloom-filters","driver.strategy","pipeline.object-reuse","memory.driver"],"org.apache.flink.runtime.operators.JoinTaskTest_testFailingMatchTask":["taskmanager.runtime.hashjoin-bloom-filters","driver.strategy","pipeline.object-reuse","memory.driver"],"org.apache.flink.runtime.operators.JoinTaskTest_testHashSecondCancelMatchTaskWhileMatching":[],"org.apache.flink.runtime.operators.JoinTaskTest_testFailingHashFirstMatchTask":["taskmanager.runtime.hashjoin-bloom-filters","driver.strategy","pipeline.object-reuse","memory.driver"],"org.apache.flink.runtime.operators.JoinTaskTest_testSortFirstMatchTask":["taskmanager.runtime.hashjoin-bloom-filters","driver.strategy","pipeline.object-reuse","memory.driver"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.operators.JoinTaskTest_testCancelMatchTaskWhileMatching": [],
+    "org.apache.flink.runtime.operators.JoinTaskTest_testSortBoth2MatchTask": [
+      "taskmanager.runtime.hashjoin-bloom-filters",
+      "driver.strategy",
+      "pipeline.object-reuse",
+      "memory.driver"
+    ],
+    "org.apache.flink.runtime.operators.JoinTaskTest_testSortBoth5MatchTask": [
+      "taskmanager.runtime.hashjoin-bloom-filters",
+      "driver.strategy",
+      "pipeline.object-reuse",
+      "memory.driver"
+    ],
+    "org.apache.flink.runtime.operators.JoinTaskTest_testHashFirstCancelMatchTaskWhileMatching": [],
+    "org.apache.flink.runtime.operators.JoinTaskTest_testHash2MatchTask": [
+      "taskmanager.runtime.hashjoin-bloom-filters",
+      "driver.strategy",
+      "pipeline.object-reuse",
+      "memory.driver"
+    ],
+    "org.apache.flink.runtime.operators.JoinTaskTest_testSortSecondMatchTask": [
+      "taskmanager.runtime.hashjoin-bloom-filters",
+      "driver.strategy",
+      "pipeline.object-reuse",
+      "memory.driver"
+    ],
+    "org.apache.flink.runtime.operators.JoinTaskTest_testFailingHashSecondMatchTask": [
+      "taskmanager.runtime.hashjoin-bloom-filters",
+      "driver.strategy",
+      "pipeline.object-reuse",
+      "memory.driver"
+    ],
+    "org.apache.flink.runtime.operators.JoinTaskTest_testHashCancelMatchTaskWhileBuildSecond": [],
+    "org.apache.flink.runtime.operators.JoinTaskTest_testHash5MatchTask": [
+      "taskmanager.runtime.hashjoin-bloom-filters",
+      "driver.strategy",
+      "pipeline.object-reuse",
+      "memory.driver"
+    ],
+    "org.apache.flink.runtime.operators.JoinTaskTest_testSortBoth1MatchTask": [
+      "taskmanager.runtime.hashjoin-bloom-filters",
+      "driver.strategy",
+      "pipeline.object-reuse",
+      "memory.driver"
+    ],
+    "org.apache.flink.runtime.operators.JoinTaskTest_testMergeMatchTask": [
+      "taskmanager.runtime.hashjoin-bloom-filters",
+      "driver.strategy",
+      "pipeline.object-reuse",
+      "memory.driver"
+    ],
+    "org.apache.flink.runtime.operators.JoinTaskTest_testHash1MatchTask": [
+      "taskmanager.runtime.hashjoin-bloom-filters",
+      "driver.strategy",
+      "pipeline.object-reuse",
+      "memory.driver"
+    ],
+    "org.apache.flink.runtime.operators.JoinTaskTest_testCancelHashMatchTaskWhileBuildFirst": [],
+    "org.apache.flink.runtime.operators.JoinTaskTest_testCancelMatchTaskWhileSort1": [],
+    "org.apache.flink.runtime.operators.JoinTaskTest_testSortBoth4MatchTask": [
+      "taskmanager.runtime.hashjoin-bloom-filters",
+      "driver.strategy",
+      "pipeline.object-reuse",
+      "memory.driver"
+    ],
+    "org.apache.flink.runtime.operators.JoinTaskTest_testCancelMatchTaskWhileSort2": [],
+    "org.apache.flink.runtime.operators.JoinTaskTest_testHash4MatchTask": [
+      "taskmanager.runtime.hashjoin-bloom-filters",
+      "driver.strategy",
+      "pipeline.object-reuse",
+      "memory.driver"
+    ],
+    "org.apache.flink.runtime.operators.JoinTaskTest_testSortBoth3MatchTask": [
+      "taskmanager.runtime.hashjoin-bloom-filters",
+      "driver.strategy",
+      "pipeline.object-reuse",
+      "memory.driver"
+    ],
+    "org.apache.flink.runtime.operators.JoinTaskTest_testHash3MatchTask": [
+      "taskmanager.runtime.hashjoin-bloom-filters",
+      "driver.strategy",
+      "pipeline.object-reuse",
+      "memory.driver"
+    ],
+    "org.apache.flink.runtime.operators.JoinTaskTest_testFailingMatchTask": [
+      "taskmanager.runtime.hashjoin-bloom-filters",
+      "driver.strategy",
+      "pipeline.object-reuse",
+      "memory.driver"
+    ],
+    "org.apache.flink.runtime.operators.JoinTaskTest_testHashSecondCancelMatchTaskWhileMatching": [],
+    "org.apache.flink.runtime.operators.JoinTaskTest_testFailingHashFirstMatchTask": [
+      "taskmanager.runtime.hashjoin-bloom-filters",
+      "driver.strategy",
+      "pipeline.object-reuse",
+      "memory.driver"
+    ],
+    "org.apache.flink.runtime.operators.JoinTaskTest_testSortFirstMatchTask": [
+      "taskmanager.runtime.hashjoin-bloom-filters",
+      "driver.strategy",
+      "pipeline.object-reuse",
+      "memory.driver"
+    ]
+  }
+}

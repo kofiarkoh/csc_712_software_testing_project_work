@@ -1,1 +1,41 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.api.operators.StateDescriptorPassingTest_testProcessWindowState":["pipeline.generic-types","parallelism.default","pipeline.closure-cleaner-level","pipeline.force-kryo"],"org.apache.flink.streaming.api.operators.StateDescriptorPassingTest_testProcessAllWindowState":["pipeline.generic-types","parallelism.default","pipeline.closure-cleaner-level","pipeline.force-kryo"],"org.apache.flink.streaming.api.operators.StateDescriptorPassingTest_testReduceWindowState":["pipeline.generic-types","parallelism.default","pipeline.closure-cleaner-level","pipeline.force-kryo"],"org.apache.flink.streaming.api.operators.StateDescriptorPassingTest_testApplyWindowAllState":["pipeline.generic-types","parallelism.default","pipeline.closure-cleaner-level","pipeline.force-kryo"],"org.apache.flink.streaming.api.operators.StateDescriptorPassingTest_testApplyWindowState":["pipeline.generic-types","parallelism.default","pipeline.closure-cleaner-level","pipeline.force-kryo"],"org.apache.flink.streaming.api.operators.StateDescriptorPassingTest_testReduceWindowAllState":["pipeline.generic-types","parallelism.default","pipeline.closure-cleaner-level","pipeline.force-kryo"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.api.operators.StateDescriptorPassingTest_testProcessWindowState": [
+      "pipeline.generic-types",
+      "parallelism.default",
+      "pipeline.closure-cleaner-level",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.streaming.api.operators.StateDescriptorPassingTest_testProcessAllWindowState": [
+      "pipeline.generic-types",
+      "parallelism.default",
+      "pipeline.closure-cleaner-level",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.streaming.api.operators.StateDescriptorPassingTest_testReduceWindowState": [
+      "pipeline.generic-types",
+      "parallelism.default",
+      "pipeline.closure-cleaner-level",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.streaming.api.operators.StateDescriptorPassingTest_testApplyWindowAllState": [
+      "pipeline.generic-types",
+      "parallelism.default",
+      "pipeline.closure-cleaner-level",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.streaming.api.operators.StateDescriptorPassingTest_testApplyWindowState": [
+      "pipeline.generic-types",
+      "parallelism.default",
+      "pipeline.closure-cleaner-level",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.streaming.api.operators.StateDescriptorPassingTest_testReduceWindowAllState": [
+      "pipeline.generic-types",
+      "parallelism.default",
+      "pipeline.closure-cleaner-level",
+      "pipeline.force-kryo"
+    ]
+  }
+}

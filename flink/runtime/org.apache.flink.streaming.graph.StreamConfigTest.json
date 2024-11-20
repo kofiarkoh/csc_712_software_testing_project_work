@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.graph.StreamConfigTest_testClearInitialConfigs":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.graph.StreamConfigTest_testClearInitialConfigs": []
+  }
+}

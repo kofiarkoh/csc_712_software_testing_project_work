@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.io.network.api.serialization.SpanningWrapperTest_testLargeUnconsumedSegment":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.io.network.api.serialization.SpanningWrapperTest_testLargeUnconsumedSegment": []
+  }
+}

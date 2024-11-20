@@ -1,1 +1,17 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.executiongraph.failover.FailoverStrategyFactoryLoaderTest_testLoadRestartAllStrategyFactory":["jobmanager.execution.failover-strategy"],"org.apache.flink.runtime.executiongraph.failover.FailoverStrategyFactoryLoaderTest_testDefaultFailoverStrategyIsRegion":["jobmanager.execution.failover-strategy"],"org.apache.flink.runtime.executiongraph.failover.FailoverStrategyFactoryLoaderTest_testLoadFromInvalidConfiguration":["jobmanager.execution.failover-strategy"],"org.apache.flink.runtime.executiongraph.failover.FailoverStrategyFactoryLoaderTest_testLoadRestartPipelinedRegionStrategyFactory":["jobmanager.execution.failover-strategy"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.executiongraph.failover.FailoverStrategyFactoryLoaderTest_testLoadRestartAllStrategyFactory": [
+      "jobmanager.execution.failover-strategy"
+    ],
+    "org.apache.flink.runtime.executiongraph.failover.FailoverStrategyFactoryLoaderTest_testDefaultFailoverStrategyIsRegion": [
+      "jobmanager.execution.failover-strategy"
+    ],
+    "org.apache.flink.runtime.executiongraph.failover.FailoverStrategyFactoryLoaderTest_testLoadFromInvalidConfiguration": [
+      "jobmanager.execution.failover-strategy"
+    ],
+    "org.apache.flink.runtime.executiongraph.failover.FailoverStrategyFactoryLoaderTest_testLoadRestartPipelinedRegionStrategyFactory": [
+      "jobmanager.execution.failover-strategy"
+    ]
+  }
+}

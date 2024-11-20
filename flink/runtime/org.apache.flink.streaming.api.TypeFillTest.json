@@ -1,1 +1,9 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.api.TypeFillTest_test":["pipeline.closure-cleaner-level","parallelism.default"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.api.TypeFillTest_test": [
+      "pipeline.closure-cleaner-level",
+      "parallelism.default"
+    ]
+  }
+}

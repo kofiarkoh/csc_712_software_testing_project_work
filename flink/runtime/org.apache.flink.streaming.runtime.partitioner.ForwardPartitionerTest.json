@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.streaming.runtime.partitioner.ForwardPartitionerTest_testSerializable":[],"org.apache.flink.streaming.runtime.partitioner.ForwardPartitionerTest_testSelectChannelsInterval":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.streaming.runtime.partitioner.ForwardPartitionerTest_testSerializable": [],
+    "org.apache.flink.streaming.runtime.partitioner.ForwardPartitionerTest_testSelectChannelsInterval": []
+  }
+}

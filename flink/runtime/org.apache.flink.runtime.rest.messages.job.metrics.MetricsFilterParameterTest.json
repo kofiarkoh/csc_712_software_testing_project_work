@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.rest.messages.job.metrics.MetricsFilterParameterTest_testConversions":[],"org.apache.flink.runtime.rest.messages.job.metrics.MetricsFilterParameterTest_testIsOptionalParameter":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.rest.messages.job.metrics.MetricsFilterParameterTest_testConversions": [],
+    "org.apache.flink.runtime.rest.messages.job.metrics.MetricsFilterParameterTest_testIsOptionalParameter": []
+  }
+}

@@ -1,1 +1,15 @@
-{"classLevelParams":["io.tmp.dirs"],"methodLevelParams":{"org.apache.flink.runtime.util.AddressResolutionTest_testNoAddressResolution":["pekko.ssl.enabled","security.ssl.internal.enabled"],"org.apache.flink.runtime.util.AddressResolutionTest_testTryAddressResolution":["pekko.ssl.enabled","security.ssl.internal.enabled"]}}
+{
+  "classLevelParams": [
+    "io.tmp.dirs"
+  ],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.util.AddressResolutionTest_testNoAddressResolution": [
+      "pekko.ssl.enabled",
+      "security.ssl.internal.enabled"
+    ],
+    "org.apache.flink.runtime.util.AddressResolutionTest_testTryAddressResolution": [
+      "pekko.ssl.enabled",
+      "security.ssl.internal.enabled"
+    ]
+  }
+}

@@ -1,1 +1,13 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.util.SlotSelectionStrategyUtilsTest_testCreatePreviousAllocationSlotSelectionStrategyForLocalRecoveryStreamingJob":["execution.state-recovery.from-local","taskmanager.load-balance.mode"],"org.apache.flink.runtime.util.SlotSelectionStrategyUtilsTest_testCreateLocationPreferenceSlotSelectionStrategyForLocalRecoveryBatchJob":["execution.state-recovery.from-local","taskmanager.load-balance.mode"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.util.SlotSelectionStrategyUtilsTest_testCreatePreviousAllocationSlotSelectionStrategyForLocalRecoveryStreamingJob": [
+      "execution.state-recovery.from-local",
+      "taskmanager.load-balance.mode"
+    ],
+    "org.apache.flink.runtime.util.SlotSelectionStrategyUtilsTest_testCreateLocationPreferenceSlotSelectionStrategyForLocalRecoveryBatchJob": [
+      "execution.state-recovery.from-local",
+      "taskmanager.load-balance.mode"
+    ]
+  }
+}

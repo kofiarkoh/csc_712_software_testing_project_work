@@ -1,1 +1,17 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.io.network.partition.InputGateFairnessTest_testFairConsumptionLocalChannels":[],"org.apache.flink.runtime.io.network.partition.InputGateFairnessTest_testFairConsumptionRemoteChannelsPreFilled":["metrics.scope.tm","metrics.scope.tm-job","metrics.scope.operator","metrics.scope.jm","metrics.scope.jm-job","metrics.scope.jm-operator","metrics.scope.task"],"org.apache.flink.runtime.io.network.partition.InputGateFairnessTest_testFairConsumptionLocalChannelsPreFilled":[],"org.apache.flink.runtime.io.network.partition.InputGateFairnessTest_testFairConsumptionRemoteChannels":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.io.network.partition.InputGateFairnessTest_testFairConsumptionLocalChannels": [],
+    "org.apache.flink.runtime.io.network.partition.InputGateFairnessTest_testFairConsumptionRemoteChannelsPreFilled": [
+      "metrics.scope.tm",
+      "metrics.scope.tm-job",
+      "metrics.scope.operator",
+      "metrics.scope.jm",
+      "metrics.scope.jm-job",
+      "metrics.scope.jm-operator",
+      "metrics.scope.task"
+    ],
+    "org.apache.flink.runtime.io.network.partition.InputGateFairnessTest_testFairConsumptionLocalChannelsPreFilled": [],
+    "org.apache.flink.runtime.io.network.partition.InputGateFairnessTest_testFairConsumptionRemoteChannels": []
+  }
+}

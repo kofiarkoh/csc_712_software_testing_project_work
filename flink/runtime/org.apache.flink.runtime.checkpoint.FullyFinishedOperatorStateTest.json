@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.checkpoint.FullyFinishedOperatorStateTest_testFullyFinishedOperatorState":[],"org.apache.flink.runtime.checkpoint.FullyFinishedOperatorStateTest_testGetDiscardables":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.checkpoint.FullyFinishedOperatorStateTest_testFullyFinishedOperatorState": [],
+    "org.apache.flink.runtime.checkpoint.FullyFinishedOperatorStateTest_testGetDiscardables": []
+  }
+}

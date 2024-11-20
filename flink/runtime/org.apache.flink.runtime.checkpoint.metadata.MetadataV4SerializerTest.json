@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.checkpoint.metadata.MetadataV4SerializerTest_testSerializeProperties":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.checkpoint.metadata.MetadataV4SerializerTest_testSerializeProperties": []
+  }
+}

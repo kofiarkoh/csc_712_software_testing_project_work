@@ -1,1 +1,14 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.state.StateSnapshotCompressionTest_snapshotRestoreRoundtripUncompressed":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.StateSnapshotCompressionTest_snapshotRestoreRoundtripWithCompression":["execution.checkpointing.snapshot-compression"],"org.apache.flink.runtime.state.StateSnapshotCompressionTest_testCompressionConfiguration":["execution.checkpointing.snapshot-compression"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.state.StateSnapshotCompressionTest_snapshotRestoreRoundtripUncompressed": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.StateSnapshotCompressionTest_snapshotRestoreRoundtripWithCompression": [
+      "execution.checkpointing.snapshot-compression"
+    ],
+    "org.apache.flink.runtime.state.StateSnapshotCompressionTest_testCompressionConfiguration": [
+      "execution.checkpointing.snapshot-compression"
+    ]
+  }
+}

@@ -1,1 +1,15 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.runtime.rest.RestServerEndpointConfigurationTest_testBasicMapping":["rest.bind-port","web.access-control-allow-origin","rest.server.max-content-length","rest.address","web.tmpdir","rest.bind-address","security.ssl.rest.enabled","web.upload.dir"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.runtime.rest.RestServerEndpointConfigurationTest_testBasicMapping": [
+      "rest.bind-port",
+      "web.access-control-allow-origin",
+      "rest.server.max-content-length",
+      "rest.address",
+      "web.tmpdir",
+      "rest.bind-address",
+      "security.ssl.rest.enabled",
+      "web.upload.dir"
+    ]
+  }
+}
