@@ -1,1 +1,9 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.datastream.impl.common.TypeUtilsTest_testNewInstanceWithIncorrectConstructorArgType":[],"org.apache.flink.datastream.impl.common.TypeUtilsTest_testNewInstanceWithObjectArg":[],"org.apache.flink.datastream.impl.common.TypeUtilsTest_testNewInstanceWithIncorrectConstructorArgCount":[],"org.apache.flink.datastream.impl.common.TypeUtilsTest_testNewInstanceWithPrimitiveArg":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.datastream.impl.common.TypeUtilsTest_testNewInstanceWithIncorrectConstructorArgType": [],
+    "org.apache.flink.datastream.impl.common.TypeUtilsTest_testNewInstanceWithObjectArg": [],
+    "org.apache.flink.datastream.impl.common.TypeUtilsTest_testNewInstanceWithIncorrectConstructorArgCount": [],
+    "org.apache.flink.datastream.impl.common.TypeUtilsTest_testNewInstanceWithPrimitiveArg": []
+  }
+}

@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.datastream.impl.common.MapTypeDescriptorTest_testMapTypeDescriptor":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.datastream.impl.common.MapTypeDescriptorTest_testMapTypeDescriptor": []
+  }
+}

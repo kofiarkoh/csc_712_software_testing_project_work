@@ -1,1 +1,12 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.datastream.impl.utils.StreamUtilsTest_testGetOneInputKeyedTransformation":[],"org.apache.flink.datastream.impl.utils.StreamUtilsTest_testGetTwoInputOutputType":[],"org.apache.flink.datastream.impl.utils.StreamUtilsTest_testGetOneInputTransformation":[],"org.apache.flink.datastream.impl.utils.StreamUtilsTest_testLambdaMissingType":[],"org.apache.flink.datastream.impl.utils.StreamUtilsTest_testTwoOutputType":[],"org.apache.flink.datastream.impl.utils.StreamUtilsTest_testGetTwoInputTransformation":[],"org.apache.flink.datastream.impl.utils.StreamUtilsTest_testGetOneInputOutputType":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.datastream.impl.utils.StreamUtilsTest_testGetOneInputKeyedTransformation": [],
+    "org.apache.flink.datastream.impl.utils.StreamUtilsTest_testGetTwoInputOutputType": [],
+    "org.apache.flink.datastream.impl.utils.StreamUtilsTest_testGetOneInputTransformation": [],
+    "org.apache.flink.datastream.impl.utils.StreamUtilsTest_testLambdaMissingType": [],
+    "org.apache.flink.datastream.impl.utils.StreamUtilsTest_testTwoOutputType": [],
+    "org.apache.flink.datastream.impl.utils.StreamUtilsTest_testGetTwoInputTransformation": [],
+    "org.apache.flink.datastream.impl.utils.StreamUtilsTest_testGetOneInputOutputType": []
+  }
+}

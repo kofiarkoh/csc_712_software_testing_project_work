@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.datastream.impl.context.DefaultTaskInfoTest_testTaskInfo":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.datastream.impl.context.DefaultTaskInfoTest_testTaskInfo": []
+  }
+}

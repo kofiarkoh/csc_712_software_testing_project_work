@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.datastream.impl.common.BasicTypeDescriptorTest_testBasicTypeDescriptor":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.datastream.impl.common.BasicTypeDescriptorTest_testBasicTypeDescriptor": []
+  }
+}

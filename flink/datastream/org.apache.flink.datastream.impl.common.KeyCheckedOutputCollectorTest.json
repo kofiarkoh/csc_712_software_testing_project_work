@@ -1,1 +1,8 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.datastream.impl.common.KeyCheckedOutputCollectorTest_testCollect":[],"org.apache.flink.datastream.impl.common.KeyCheckedOutputCollectorTest_testCollectAndOverwriteTimestamp":[],"org.apache.flink.datastream.impl.common.KeyCheckedOutputCollectorTest_testNotEqualToCurrentKey":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.datastream.impl.common.KeyCheckedOutputCollectorTest_testCollect": [],
+    "org.apache.flink.datastream.impl.common.KeyCheckedOutputCollectorTest_testCollectAndOverwriteTimestamp": [],
+    "org.apache.flink.datastream.impl.common.KeyCheckedOutputCollectorTest_testNotEqualToCurrentKey": []
+  }
+}

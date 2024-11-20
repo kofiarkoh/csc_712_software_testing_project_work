@@ -1,1 +1,9 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.datastream.impl.attribute.StreamingJobGraphGeneratorWithAttributeTest_testPropagateAlongOperatorChain":[],"org.apache.flink.datastream.impl.attribute.StreamingJobGraphGeneratorWithAttributeTest_testNoOutputUntilEndOfInputWithOperatorChainCase1":[],"org.apache.flink.datastream.impl.attribute.StreamingJobGraphGeneratorWithAttributeTest_testTwoOutput":[],"org.apache.flink.datastream.impl.attribute.StreamingJobGraphGeneratorWithAttributeTest_testWithoutOperatorChain":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.datastream.impl.attribute.StreamingJobGraphGeneratorWithAttributeTest_testPropagateAlongOperatorChain": [],
+    "org.apache.flink.datastream.impl.attribute.StreamingJobGraphGeneratorWithAttributeTest_testNoOutputUntilEndOfInputWithOperatorChainCase1": [],
+    "org.apache.flink.datastream.impl.attribute.StreamingJobGraphGeneratorWithAttributeTest_testTwoOutput": [],
+    "org.apache.flink.datastream.impl.attribute.StreamingJobGraphGeneratorWithAttributeTest_testWithoutOperatorChain": []
+  }
+}

@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.datastream.impl.context.DefaultJobInfoTest_testGetExecutionMode":[],"org.apache.flink.datastream.impl.context.DefaultJobInfoTest_testGetJobName":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.datastream.impl.context.DefaultJobInfoTest_testGetExecutionMode": [],
+    "org.apache.flink.datastream.impl.context.DefaultJobInfoTest_testGetJobName": []
+  }
+}

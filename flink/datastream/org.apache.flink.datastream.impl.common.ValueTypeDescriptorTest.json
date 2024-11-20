@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.datastream.impl.common.ValueTypeDescriptorTest_testValueTypeDescriptorNonValue":[],"org.apache.flink.datastream.impl.common.ValueTypeDescriptorTest_testValueTypeDescriptor":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.datastream.impl.common.ValueTypeDescriptorTest_testValueTypeDescriptorNonValue": [],
+    "org.apache.flink.datastream.impl.common.ValueTypeDescriptorTest_testValueTypeDescriptor": []
+  }
+}
