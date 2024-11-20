@@ -1,1 +1,9 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.typeutils.base.EnumSerializerCompatibilityTest_removingFieldShouldBeIncompatible":[],"org.apache.flink.api.common.typeutils.base.EnumSerializerCompatibilityTest_checkIndenticalEnums":[],"org.apache.flink.api.common.typeutils.base.EnumSerializerCompatibilityTest_checkDifferentFieldOrder":[],"org.apache.flink.api.common.typeutils.base.EnumSerializerCompatibilityTest_checkAppendedField":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeutils.base.EnumSerializerCompatibilityTest_removingFieldShouldBeIncompatible": [],
+    "org.apache.flink.api.common.typeutils.base.EnumSerializerCompatibilityTest_checkIndenticalEnums": [],
+    "org.apache.flink.api.common.typeutils.base.EnumSerializerCompatibilityTest_checkDifferentFieldOrder": [],
+    "org.apache.flink.api.common.typeutils.base.EnumSerializerCompatibilityTest_checkAppendedField": []
+  }
+}

@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.util.TemporaryClassLoaderContextTest_testTemporaryClassLoaderContext":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.util.TemporaryClassLoaderContextTest_testTemporaryClassLoaderContext": []
+  }
+}

@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.core.plugin.DirectoryBasedPluginFinderTest_createPluginDescriptorsForDirectory":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.core.plugin.DirectoryBasedPluginFinderTest_createPluginDescriptorsForDirectory": []
+  }
+}

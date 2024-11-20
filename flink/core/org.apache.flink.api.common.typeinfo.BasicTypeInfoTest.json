@@ -1,1 +1,8 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.typeinfo.BasicTypeInfoTest_testHashcodeAndEquals":[],"org.apache.flink.api.common.typeinfo.BasicTypeInfoTest_testSerialization":[],"org.apache.flink.api.common.typeinfo.BasicTypeInfoTest_testGetTotalFields":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeinfo.BasicTypeInfoTest_testHashcodeAndEquals": [],
+    "org.apache.flink.api.common.typeinfo.BasicTypeInfoTest_testSerialization": [],
+    "org.apache.flink.api.common.typeinfo.BasicTypeInfoTest_testGetTotalFields": []
+  }
+}

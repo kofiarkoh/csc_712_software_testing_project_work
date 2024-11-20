@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.util.TimeUtilsPrettyPrintingTest_testFormatting":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.util.TimeUtilsPrettyPrintingTest_testFormatting": []
+  }
+}

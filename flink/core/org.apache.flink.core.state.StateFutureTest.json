@@ -1,1 +1,8 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.core.state.StateFutureTest_basicSyncComplete":[],"org.apache.flink.core.state.StateFutureTest_testConditionally":[],"org.apache.flink.core.state.StateFutureTest_testRunOnCorrectThread":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.core.state.StateFutureTest_basicSyncComplete": [],
+    "org.apache.flink.core.state.StateFutureTest_testConditionally": [],
+    "org.apache.flink.core.state.StateFutureTest_testRunOnCorrectThread": []
+  }
+}

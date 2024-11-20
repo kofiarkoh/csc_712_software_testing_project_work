@@ -1,1 +1,41 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_testBeanStyleObjects":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_testString":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_validateReferenceMappingEnabled":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_testNestedObjects":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_testJavaDequeue":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_testSimpleTypesObjects":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_testForwardEOFExceptionWhileDeserializing":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_testForwardEOFExceptionWhileSerializing":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_testCompositeObject":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_testJavaSet":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_testNestedInterfaces":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_testJavaList":["pipeline.force-kryo"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_testBeanStyleObjects": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_testString": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_validateReferenceMappingEnabled": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_testNestedObjects": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_testJavaDequeue": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_testSimpleTypesObjects": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_testForwardEOFExceptionWhileDeserializing": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_testForwardEOFExceptionWhileSerializing": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_testCompositeObject": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_testJavaSet": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_testNestedInterfaces": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeSerializerTest_testJavaList": [
+      "pipeline.force-kryo"
+    ]
+  }
+}

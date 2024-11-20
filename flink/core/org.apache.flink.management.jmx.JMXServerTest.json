@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.management.jmx.JMXServerTest_testJMXServiceRegisterMBean":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.management.jmx.JMXServerTest_testJMXServiceRegisterMBean": []
+  }
+}

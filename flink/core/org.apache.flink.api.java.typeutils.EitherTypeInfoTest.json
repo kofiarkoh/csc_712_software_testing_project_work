@@ -1,1 +1,8 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.EitherTypeInfoTest_testGetTotalFields":[],"org.apache.flink.api.java.typeutils.EitherTypeInfoTest_testSerialization":[],"org.apache.flink.api.java.typeutils.EitherTypeInfoTest_testHashcodeAndEquals":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.EitherTypeInfoTest_testGetTotalFields": [],
+    "org.apache.flink.api.java.typeutils.EitherTypeInfoTest_testSerialization": [],
+    "org.apache.flink.api.java.typeutils.EitherTypeInfoTest_testHashcodeAndEquals": []
+  }
+}

@@ -1,1 +1,16 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.types.parser.DoubleParserTest_testValidStringInIsolationWithEndDelimiter":[],"org.apache.flink.types.parser.DoubleParserTest_testTest":[],"org.apache.flink.types.parser.DoubleParserTest_testStaticParseMethod":[],"org.apache.flink.types.parser.DoubleParserTest_testGetValue":[],"org.apache.flink.types.parser.DoubleParserTest_testConcatenatedMultiCharDelimiter":[],"org.apache.flink.types.parser.DoubleParserTest_testValidStringInIsolation":[],"org.apache.flink.types.parser.DoubleParserTest_testStaticParseMethodWithInvalidValues":[],"org.apache.flink.types.parser.DoubleParserTest_testTrailingEmptyField":[],"org.apache.flink.types.parser.DoubleParserTest_testConcatenated":[],"org.apache.flink.types.parser.DoubleParserTest_testInValidStringsMixedIn":[],"org.apache.flink.types.parser.DoubleParserTest_testInValidStringInIsolation":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.types.parser.DoubleParserTest_testValidStringInIsolationWithEndDelimiter": [],
+    "org.apache.flink.types.parser.DoubleParserTest_testTest": [],
+    "org.apache.flink.types.parser.DoubleParserTest_testStaticParseMethod": [],
+    "org.apache.flink.types.parser.DoubleParserTest_testGetValue": [],
+    "org.apache.flink.types.parser.DoubleParserTest_testConcatenatedMultiCharDelimiter": [],
+    "org.apache.flink.types.parser.DoubleParserTest_testValidStringInIsolation": [],
+    "org.apache.flink.types.parser.DoubleParserTest_testStaticParseMethodWithInvalidValues": [],
+    "org.apache.flink.types.parser.DoubleParserTest_testTrailingEmptyField": [],
+    "org.apache.flink.types.parser.DoubleParserTest_testConcatenated": [],
+    "org.apache.flink.types.parser.DoubleParserTest_testInValidStringsMixedIn": [],
+    "org.apache.flink.types.parser.DoubleParserTest_testInValidStringInIsolation": []
+  }
+}

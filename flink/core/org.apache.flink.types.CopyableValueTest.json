@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.types.CopyableValueTest_testCopy":[],"org.apache.flink.types.CopyableValueTest_testCopyTo":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.types.CopyableValueTest_testCopy": [],
+    "org.apache.flink.types.CopyableValueTest_testCopyTo": []
+  }
+}

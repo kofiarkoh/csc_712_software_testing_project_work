@@ -1,1 +1,20 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerConcurrencyTest_testDuplicateSerializerWithDefaultSerializerClass":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerConcurrencyTest_testDuplicateSerializerWithRegisteredSerializerInstance":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerConcurrencyTest_testConcurrentUseOfSerializer":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerConcurrencyTest_testDuplicateSerializerWithDefaultSerializerInstance":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerConcurrencyTest_testDuplicateSerializerWithRegisteredSerializerClass":["pipeline.force-kryo"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerConcurrencyTest_testDuplicateSerializerWithDefaultSerializerClass": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerConcurrencyTest_testDuplicateSerializerWithRegisteredSerializerInstance": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerConcurrencyTest_testConcurrentUseOfSerializer": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerConcurrencyTest_testDuplicateSerializerWithDefaultSerializerInstance": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerConcurrencyTest_testDuplicateSerializerWithRegisteredSerializerClass": [
+      "pipeline.force-kryo"
+    ]
+  }
+}

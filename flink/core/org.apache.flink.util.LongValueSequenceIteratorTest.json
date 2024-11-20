@@ -1,1 +1,8 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.util.LongValueSequenceIteratorTest_testSplittingLargeRangesBy2":[],"org.apache.flink.util.LongValueSequenceIteratorTest_testSplitRegular":[],"org.apache.flink.util.LongValueSequenceIteratorTest_testSplittingTooSmallRanges":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.util.LongValueSequenceIteratorTest_testSplittingLargeRangesBy2": [],
+    "org.apache.flink.util.LongValueSequenceIteratorTest_testSplitRegular": [],
+    "org.apache.flink.util.LongValueSequenceIteratorTest_testSplittingTooSmallRanges": []
+  }
+}

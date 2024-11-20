@@ -1,1 +1,16 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.typeutils.base.FloatComparatorTest_testKeyExtraction":[],"org.apache.flink.api.common.typeutils.base.FloatComparatorTest_testInequality":[],"org.apache.flink.api.common.typeutils.base.FloatComparatorTest_testNormalizedKeysGreatSmallFullLength":[],"org.apache.flink.api.common.typeutils.base.FloatComparatorTest_testNormalizedKeysGreatSmallAscDescHalfLength":[],"org.apache.flink.api.common.typeutils.base.FloatComparatorTest_testNormalizedKeysEqualsHalfLength":[],"org.apache.flink.api.common.typeutils.base.FloatComparatorTest_testNormalizedKeysEqualsFullLength":[],"org.apache.flink.api.common.typeutils.base.FloatComparatorTest_testEqualityWithReference":[],"org.apache.flink.api.common.typeutils.base.FloatComparatorTest_testEquality":[],"org.apache.flink.api.common.typeutils.base.FloatComparatorTest_testNormalizedKeyReadWriter":[],"org.apache.flink.api.common.typeutils.base.FloatComparatorTest_testInequalityWithReference":[],"org.apache.flink.api.common.typeutils.base.FloatComparatorTest_testDuplicate":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeutils.base.FloatComparatorTest_testKeyExtraction": [],
+    "org.apache.flink.api.common.typeutils.base.FloatComparatorTest_testInequality": [],
+    "org.apache.flink.api.common.typeutils.base.FloatComparatorTest_testNormalizedKeysGreatSmallFullLength": [],
+    "org.apache.flink.api.common.typeutils.base.FloatComparatorTest_testNormalizedKeysGreatSmallAscDescHalfLength": [],
+    "org.apache.flink.api.common.typeutils.base.FloatComparatorTest_testNormalizedKeysEqualsHalfLength": [],
+    "org.apache.flink.api.common.typeutils.base.FloatComparatorTest_testNormalizedKeysEqualsFullLength": [],
+    "org.apache.flink.api.common.typeutils.base.FloatComparatorTest_testEqualityWithReference": [],
+    "org.apache.flink.api.common.typeutils.base.FloatComparatorTest_testEquality": [],
+    "org.apache.flink.api.common.typeutils.base.FloatComparatorTest_testNormalizedKeyReadWriter": [],
+    "org.apache.flink.api.common.typeutils.base.FloatComparatorTest_testInequalityWithReference": [],
+    "org.apache.flink.api.common.typeutils.base.FloatComparatorTest_testDuplicate": []
+  }
+}

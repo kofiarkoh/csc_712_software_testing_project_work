@@ -1,1 +1,16 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.typeutils.base.IntComparatorTest_testKeyExtraction":[],"org.apache.flink.api.common.typeutils.base.IntComparatorTest_testNormalizedKeyReadWriter":[],"org.apache.flink.api.common.typeutils.base.IntComparatorTest_testInequality":[],"org.apache.flink.api.common.typeutils.base.IntComparatorTest_testNormalizedKeysEqualsFullLength":[],"org.apache.flink.api.common.typeutils.base.IntComparatorTest_testDuplicate":[],"org.apache.flink.api.common.typeutils.base.IntComparatorTest_testNormalizedKeysGreatSmallFullLength":[],"org.apache.flink.api.common.typeutils.base.IntComparatorTest_testEquality":[],"org.apache.flink.api.common.typeutils.base.IntComparatorTest_testEqualityWithReference":[],"org.apache.flink.api.common.typeutils.base.IntComparatorTest_testInequalityWithReference":[],"org.apache.flink.api.common.typeutils.base.IntComparatorTest_testNormalizedKeysGreatSmallAscDescHalfLength":[],"org.apache.flink.api.common.typeutils.base.IntComparatorTest_testNormalizedKeysEqualsHalfLength":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeutils.base.IntComparatorTest_testKeyExtraction": [],
+    "org.apache.flink.api.common.typeutils.base.IntComparatorTest_testNormalizedKeyReadWriter": [],
+    "org.apache.flink.api.common.typeutils.base.IntComparatorTest_testInequality": [],
+    "org.apache.flink.api.common.typeutils.base.IntComparatorTest_testNormalizedKeysEqualsFullLength": [],
+    "org.apache.flink.api.common.typeutils.base.IntComparatorTest_testDuplicate": [],
+    "org.apache.flink.api.common.typeutils.base.IntComparatorTest_testNormalizedKeysGreatSmallFullLength": [],
+    "org.apache.flink.api.common.typeutils.base.IntComparatorTest_testEquality": [],
+    "org.apache.flink.api.common.typeutils.base.IntComparatorTest_testEqualityWithReference": [],
+    "org.apache.flink.api.common.typeutils.base.IntComparatorTest_testInequalityWithReference": [],
+    "org.apache.flink.api.common.typeutils.base.IntComparatorTest_testNormalizedKeysGreatSmallAscDescHalfLength": [],
+    "org.apache.flink.api.common.typeutils.base.IntComparatorTest_testNormalizedKeysEqualsHalfLength": []
+  }
+}

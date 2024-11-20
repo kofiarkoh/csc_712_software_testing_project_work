@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.operators.base.InnerJoinOperatorBaseTest_testJoinRich":[],"org.apache.flink.api.common.operators.base.InnerJoinOperatorBaseTest_testJoinPlain":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.operators.base.InnerJoinOperatorBaseTest_testJoinRich": [],
+    "org.apache.flink.api.common.operators.base.InnerJoinOperatorBaseTest_testJoinPlain": []
+  }
+}

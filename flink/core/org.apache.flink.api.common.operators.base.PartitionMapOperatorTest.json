@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.operators.base.PartitionMapOperatorTest_testMapPartitionWithRuntimeContext":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.operators.base.PartitionMapOperatorTest_testMapPartitionWithRuntimeContext": []
+  }
+}

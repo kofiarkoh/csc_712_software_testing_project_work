@@ -1,1 +1,10 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.util.TernaryBooleanTest_testFromBoxedBoolean":[],"org.apache.flink.util.TernaryBooleanTest_testWithDefault":[],"org.apache.flink.util.TernaryBooleanTest_testResolveUndefined":[],"org.apache.flink.util.TernaryBooleanTest_testFromBoolean":[],"org.apache.flink.util.TernaryBooleanTest_testToBoolean":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.util.TernaryBooleanTest_testFromBoxedBoolean": [],
+    "org.apache.flink.util.TernaryBooleanTest_testWithDefault": [],
+    "org.apache.flink.util.TernaryBooleanTest_testResolveUndefined": [],
+    "org.apache.flink.util.TernaryBooleanTest_testFromBoolean": [],
+    "org.apache.flink.util.TernaryBooleanTest_testToBoolean": []
+  }
+}

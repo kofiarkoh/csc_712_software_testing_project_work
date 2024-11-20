@@ -1,1 +1,16 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.typeutils.base.array.BytePrimitiveArrayComparatorTest_testNormalizedKeyReadWriter":[],"org.apache.flink.api.common.typeutils.base.array.BytePrimitiveArrayComparatorTest_testInequality":[],"org.apache.flink.api.common.typeutils.base.array.BytePrimitiveArrayComparatorTest_testNormalizedKeysGreatSmallFullLength":[],"org.apache.flink.api.common.typeutils.base.array.BytePrimitiveArrayComparatorTest_testEqualityWithReference":[],"org.apache.flink.api.common.typeutils.base.array.BytePrimitiveArrayComparatorTest_testNormalizedKeysGreatSmallAscDescHalfLength":[],"org.apache.flink.api.common.typeutils.base.array.BytePrimitiveArrayComparatorTest_testInequalityWithReference":[],"org.apache.flink.api.common.typeutils.base.array.BytePrimitiveArrayComparatorTest_testDuplicate":[],"org.apache.flink.api.common.typeutils.base.array.BytePrimitiveArrayComparatorTest_testNormalizedKeysEqualsFullLength":[],"org.apache.flink.api.common.typeutils.base.array.BytePrimitiveArrayComparatorTest_testNormalizedKeysEqualsHalfLength":[],"org.apache.flink.api.common.typeutils.base.array.BytePrimitiveArrayComparatorTest_testEquality":[],"org.apache.flink.api.common.typeutils.base.array.BytePrimitiveArrayComparatorTest_testKeyExtraction":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeutils.base.array.BytePrimitiveArrayComparatorTest_testNormalizedKeyReadWriter": [],
+    "org.apache.flink.api.common.typeutils.base.array.BytePrimitiveArrayComparatorTest_testInequality": [],
+    "org.apache.flink.api.common.typeutils.base.array.BytePrimitiveArrayComparatorTest_testNormalizedKeysGreatSmallFullLength": [],
+    "org.apache.flink.api.common.typeutils.base.array.BytePrimitiveArrayComparatorTest_testEqualityWithReference": [],
+    "org.apache.flink.api.common.typeutils.base.array.BytePrimitiveArrayComparatorTest_testNormalizedKeysGreatSmallAscDescHalfLength": [],
+    "org.apache.flink.api.common.typeutils.base.array.BytePrimitiveArrayComparatorTest_testInequalityWithReference": [],
+    "org.apache.flink.api.common.typeutils.base.array.BytePrimitiveArrayComparatorTest_testDuplicate": [],
+    "org.apache.flink.api.common.typeutils.base.array.BytePrimitiveArrayComparatorTest_testNormalizedKeysEqualsFullLength": [],
+    "org.apache.flink.api.common.typeutils.base.array.BytePrimitiveArrayComparatorTest_testNormalizedKeysEqualsHalfLength": [],
+    "org.apache.flink.api.common.typeutils.base.array.BytePrimitiveArrayComparatorTest_testEquality": [],
+    "org.apache.flink.api.common.typeutils.base.array.BytePrimitiveArrayComparatorTest_testKeyExtraction": []
+  }
+}

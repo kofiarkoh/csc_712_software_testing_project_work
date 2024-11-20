@@ -1,1 +1,49 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.runtime.PojoSubclassComparatorTest_testNormalizedKeyReadWriter":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSubclassComparatorTest_testNormalizedKeysGreatSmallFullLength":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSubclassComparatorTest_testNormalizedKeysGreatSmallAscDescHalfLength":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSubclassComparatorTest_testNormalizedKeysEqualsHalfLength":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSubclassComparatorTest_testEquality":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSubclassComparatorTest_testNormalizedKeysEqualsFullLength":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSubclassComparatorTest_testEqualityWithReference":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSubclassComparatorTest_testKeyExtraction":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSubclassComparatorTest_testDuplicate":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSubclassComparatorTest_testInequality":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSubclassComparatorTest_testInequalityWithReference":["pipeline.force-avro","pipeline.force-kryo"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.runtime.PojoSubclassComparatorTest_testNormalizedKeyReadWriter": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSubclassComparatorTest_testNormalizedKeysGreatSmallFullLength": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSubclassComparatorTest_testNormalizedKeysGreatSmallAscDescHalfLength": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSubclassComparatorTest_testNormalizedKeysEqualsHalfLength": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSubclassComparatorTest_testEquality": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSubclassComparatorTest_testNormalizedKeysEqualsFullLength": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSubclassComparatorTest_testEqualityWithReference": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSubclassComparatorTest_testKeyExtraction": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSubclassComparatorTest_testDuplicate": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSubclassComparatorTest_testInequality": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSubclassComparatorTest_testInequalityWithReference": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ]
+  }
+}

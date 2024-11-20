@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.util.UnionIteratorTest_testUnion":[],"org.apache.flink.util.UnionIteratorTest_testTraversableOnce":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.util.UnionIteratorTest_testUnion": [],
+    "org.apache.flink.util.UnionIteratorTest_testTraversableOnce": []
+  }
+}

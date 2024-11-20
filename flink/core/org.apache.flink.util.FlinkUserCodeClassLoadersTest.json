@@ -1,1 +1,15 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.util.FlinkUserCodeClassLoadersTest_testRepeatedChildFirstClassLoading":[],"org.apache.flink.util.FlinkUserCodeClassLoadersTest_testParentFirstClassLoading":[],"org.apache.flink.util.FlinkUserCodeClassLoadersTest_testChildFirstClassLoading":[],"org.apache.flink.util.FlinkUserCodeClassLoadersTest_testClosingOfClassloader":[],"org.apache.flink.util.FlinkUserCodeClassLoadersTest_testRepeatedParentFirstPatternClass":[],"org.apache.flink.util.FlinkUserCodeClassLoadersTest_testParentFirstClassLoadingByAddURL":[],"org.apache.flink.util.FlinkUserCodeClassLoadersTest_testGetClassLoaderInfo":[],"org.apache.flink.util.FlinkUserCodeClassLoadersTest_testChildFirstClassLoadingByAddURL":[],"org.apache.flink.util.FlinkUserCodeClassLoadersTest_testParallelCapable":[],"org.apache.flink.util.FlinkUserCodeClassLoadersTest_testGetClassLoaderInfoWithClassLoaderClosed":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.util.FlinkUserCodeClassLoadersTest_testRepeatedChildFirstClassLoading": [],
+    "org.apache.flink.util.FlinkUserCodeClassLoadersTest_testParentFirstClassLoading": [],
+    "org.apache.flink.util.FlinkUserCodeClassLoadersTest_testChildFirstClassLoading": [],
+    "org.apache.flink.util.FlinkUserCodeClassLoadersTest_testClosingOfClassloader": [],
+    "org.apache.flink.util.FlinkUserCodeClassLoadersTest_testRepeatedParentFirstPatternClass": [],
+    "org.apache.flink.util.FlinkUserCodeClassLoadersTest_testParentFirstClassLoadingByAddURL": [],
+    "org.apache.flink.util.FlinkUserCodeClassLoadersTest_testGetClassLoaderInfo": [],
+    "org.apache.flink.util.FlinkUserCodeClassLoadersTest_testChildFirstClassLoadingByAddURL": [],
+    "org.apache.flink.util.FlinkUserCodeClassLoadersTest_testParallelCapable": [],
+    "org.apache.flink.util.FlinkUserCodeClassLoadersTest_testGetClassLoaderInfoWithClassLoaderClosed": []
+  }
+}

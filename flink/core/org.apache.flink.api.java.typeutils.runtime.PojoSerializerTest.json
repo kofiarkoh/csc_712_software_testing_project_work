@@ -1,1 +1,93 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testInstantiate":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testSerializeAsSequenceNoReuse":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testSerializedCopyAsSequence":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testCopy":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testCopyIntoReusedElements":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testCopyIntoNewElements":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testGetLength":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testReconfigureWithPreviouslyNonregisteredSubclasses":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testSerializedCopyIndividually":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testReconfigureRepopulateNonregisteredSubclassSerializerCache":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testSerializeAsSequenceReusingValues":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testSerializabilityAndEquals":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testDuplicate":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testReconfigureWithDifferentPojoType":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testSnapshotConfigurationAndReconfigure":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testReconfigureDifferentSubclassRegistrationOrder":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testSerializeIndividuallyReusingValues":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testNullability":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testConfigSnapshotInstantiation":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testCopyIndependently":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testTuplePojoTestEquality":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testSerializeIndividually":["pipeline.force-avro","pipeline.force-kryo"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testInstantiate": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testSerializeAsSequenceNoReuse": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testSerializedCopyAsSequence": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testCopy": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testCopyIntoReusedElements": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testCopyIntoNewElements": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testGetLength": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testReconfigureWithPreviouslyNonregisteredSubclasses": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testSerializedCopyIndividually": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testReconfigureRepopulateNonregisteredSubclassSerializerCache": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testSerializeAsSequenceReusingValues": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testSerializabilityAndEquals": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testDuplicate": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testReconfigureWithDifferentPojoType": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testSnapshotConfigurationAndReconfigure": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testReconfigureDifferentSubclassRegistrationOrder": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testSerializeIndividuallyReusingValues": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testNullability": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testConfigSnapshotInstantiation": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testCopyIndependently": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testTuplePojoTestEquality": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerTest_testSerializeIndividually": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ]
+  }
+}

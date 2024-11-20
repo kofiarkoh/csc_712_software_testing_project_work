@@ -1,1 +1,22 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testCopyIntoReusedElements":[],"org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testSerializabilityAndEquals":[],"org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testCopy":[],"org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testSnapshotConfigurationAndReconfigure":[],"org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testCopyIntoNewElements":[],"org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testSerializeIndividually":[],"org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testInstantiate":[],"org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testSerializeIndividuallyReusingValues":[],"org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testDuplicate":[],"org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testSerializeAsSequenceReusingValues":[],"org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testSerializedCopyIndividually":[],"org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testConfigSnapshotInstantiation":[],"org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testCopyIndependently":[],"org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testSerializedCopyAsSequence":[],"org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testNullability":[],"org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testSerializeAsSequenceNoReuse":[],"org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testGetLength":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testCopyIntoReusedElements": [],
+    "org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testSerializabilityAndEquals": [],
+    "org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testCopy": [],
+    "org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testSnapshotConfigurationAndReconfigure": [],
+    "org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testCopyIntoNewElements": [],
+    "org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testSerializeIndividually": [],
+    "org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testInstantiate": [],
+    "org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testSerializeIndividuallyReusingValues": [],
+    "org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testDuplicate": [],
+    "org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testSerializeAsSequenceReusingValues": [],
+    "org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testSerializedCopyIndividually": [],
+    "org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testConfigSnapshotInstantiation": [],
+    "org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testCopyIndependently": [],
+    "org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testSerializedCopyAsSequence": [],
+    "org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testNullability": [],
+    "org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testSerializeAsSequenceNoReuse": [],
+    "org.apache.flink.api.java.typeutils.runtime.EitherSerializerCommonTest_testGetLength": []
+  }
+}

@@ -1,1 +1,11 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.util.jackson.JacksonMapperFactoryTest_testObjectMapperOptionalSupportedEnabled":[],"org.apache.flink.util.jackson.JacksonMapperFactoryTest_testObjectMappeDateTimeSupportedEnabled":[],"org.apache.flink.util.jackson.JacksonMapperFactoryTest_testCsvMapperDateTimeSupportedEnabled":[],"org.apache.flink.util.jackson.JacksonMapperFactoryTest_testCreateCsvMapperReturnDistinctMappers":[],"org.apache.flink.util.jackson.JacksonMapperFactoryTest_testCreateObjectMapperReturnDistinctMappers":[],"org.apache.flink.util.jackson.JacksonMapperFactoryTest_testCsvMapperOptionalSupportedEnabled":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.util.jackson.JacksonMapperFactoryTest_testObjectMapperOptionalSupportedEnabled": [],
+    "org.apache.flink.util.jackson.JacksonMapperFactoryTest_testObjectMappeDateTimeSupportedEnabled": [],
+    "org.apache.flink.util.jackson.JacksonMapperFactoryTest_testCsvMapperDateTimeSupportedEnabled": [],
+    "org.apache.flink.util.jackson.JacksonMapperFactoryTest_testCreateCsvMapperReturnDistinctMappers": [],
+    "org.apache.flink.util.jackson.JacksonMapperFactoryTest_testCreateObjectMapperReturnDistinctMappers": [],
+    "org.apache.flink.util.jackson.JacksonMapperFactoryTest_testCsvMapperOptionalSupportedEnabled": []
+  }
+}

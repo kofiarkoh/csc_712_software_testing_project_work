@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.configuration.ConfigurationFileMigrationUtilsTest_testInvalidLegacyYamlFile":[],"org.apache.flink.configuration.ConfigurationFileMigrationUtilsTest_testConfigurationWithLegacyYAML":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.configuration.ConfigurationFileMigrationUtilsTest_testInvalidLegacyYamlFile": [],
+    "org.apache.flink.configuration.ConfigurationFileMigrationUtilsTest_testConfigurationWithLegacyYAML": []
+  }
+}

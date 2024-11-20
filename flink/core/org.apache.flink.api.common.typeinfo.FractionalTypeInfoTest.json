@@ -1,1 +1,8 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.typeinfo.FractionalTypeInfoTest_testSerialization":[],"org.apache.flink.api.common.typeinfo.FractionalTypeInfoTest_testGetTotalFields":[],"org.apache.flink.api.common.typeinfo.FractionalTypeInfoTest_testHashcodeAndEquals":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeinfo.FractionalTypeInfoTest_testSerialization": [],
+    "org.apache.flink.api.common.typeinfo.FractionalTypeInfoTest_testGetTotalFields": [],
+    "org.apache.flink.api.common.typeinfo.FractionalTypeInfoTest_testHashcodeAndEquals": []
+  }
+}

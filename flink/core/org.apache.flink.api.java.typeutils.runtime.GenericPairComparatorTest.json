@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.runtime.GenericPairComparatorTest_testInequalityWithReference":[],"org.apache.flink.api.java.typeutils.runtime.GenericPairComparatorTest_testEqualityWithReference":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.runtime.GenericPairComparatorTest_testInequalityWithReference": [],
+    "org.apache.flink.api.java.typeutils.runtime.GenericPairComparatorTest_testEqualityWithReference": []
+  }
+}

@@ -1,1 +1,9 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.io.RichOutputFormatTest_testCheckRuntimeContextAccess":["fs.output.always-create-directory","fs.overwrite-files"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.io.RichOutputFormatTest_testCheckRuntimeContextAccess": [
+      "fs.output.always-create-directory",
+      "fs.overwrite-files"
+    ]
+  }
+}

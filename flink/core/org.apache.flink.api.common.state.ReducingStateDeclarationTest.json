@@ -1,1 +1,8 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.state.ReducingStateDeclarationTest_testReducingStateDeclarationName":[],"org.apache.flink.api.common.state.ReducingStateDeclarationTest_testReducingStateDeclarationType":[],"org.apache.flink.api.common.state.ReducingStateDeclarationTest_testReducingStateDeclarationRedistribution":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.state.ReducingStateDeclarationTest_testReducingStateDeclarationName": [],
+    "org.apache.flink.api.common.state.ReducingStateDeclarationTest_testReducingStateDeclarationType": [],
+    "org.apache.flink.api.common.state.ReducingStateDeclarationTest_testReducingStateDeclarationRedistribution": []
+  }
+}

@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.types.RowUtilsTest_testCompareRowsUnordered":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.types.RowUtilsTest_testCompareRowsUnordered": []
+  }
+}

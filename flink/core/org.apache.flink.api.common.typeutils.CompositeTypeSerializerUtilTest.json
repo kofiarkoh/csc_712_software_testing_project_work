@@ -1,1 +1,12 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.typeutils.CompositeTypeSerializerUtilTest_testCompatibleWithReconfiguredSerializerIntermediateCompatibilityResult":[],"org.apache.flink.api.common.typeutils.CompositeTypeSerializerUtilTest_testIncompatibleIntermediateCompatibilityResult":[],"org.apache.flink.api.common.typeutils.CompositeTypeSerializerUtilTest_testCompatibleAsIsIntermediateCompatibilityResult":[],"org.apache.flink.api.common.typeutils.CompositeTypeSerializerUtilTest_testGetNestedSerializersOnCompatibleAfterMigrationIntermediateCompatibilityResultFails":[],"org.apache.flink.api.common.typeutils.CompositeTypeSerializerUtilTest_testGetNestedSerializersOnIncompatibleIntermediateCompatibilityResultFails":[],"org.apache.flink.api.common.typeutils.CompositeTypeSerializerUtilTest_testCompatibleAfterMigrationIntermediateCompatibilityResult":[],"org.apache.flink.api.common.typeutils.CompositeTypeSerializerUtilTest_testGetFinalResultOnUndefinedReconfigureIntermediateCompatibilityResultFails":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeutils.CompositeTypeSerializerUtilTest_testCompatibleWithReconfiguredSerializerIntermediateCompatibilityResult": [],
+    "org.apache.flink.api.common.typeutils.CompositeTypeSerializerUtilTest_testIncompatibleIntermediateCompatibilityResult": [],
+    "org.apache.flink.api.common.typeutils.CompositeTypeSerializerUtilTest_testCompatibleAsIsIntermediateCompatibilityResult": [],
+    "org.apache.flink.api.common.typeutils.CompositeTypeSerializerUtilTest_testGetNestedSerializersOnCompatibleAfterMigrationIntermediateCompatibilityResultFails": [],
+    "org.apache.flink.api.common.typeutils.CompositeTypeSerializerUtilTest_testGetNestedSerializersOnIncompatibleIntermediateCompatibilityResultFails": [],
+    "org.apache.flink.api.common.typeutils.CompositeTypeSerializerUtilTest_testCompatibleAfterMigrationIntermediateCompatibilityResult": [],
+    "org.apache.flink.api.common.typeutils.CompositeTypeSerializerUtilTest_testGetFinalResultOnUndefinedReconfigureIntermediateCompatibilityResultFails": []
+  }
+}

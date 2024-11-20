@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.types.JavaToValueConverterTest_testJavaToValueConversion":[],"org.apache.flink.types.JavaToValueConverterTest_testValueToJavaConversion":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.types.JavaToValueConverterTest_testJavaToValueConversion": [],
+    "org.apache.flink.types.JavaToValueConverterTest_testValueToJavaConversion": []
+  }
+}

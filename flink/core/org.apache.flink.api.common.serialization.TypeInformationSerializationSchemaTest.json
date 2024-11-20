@@ -1,1 +1,13 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.serialization.TypeInformationSerializationSchemaTest_testDeSerialization":["pipeline.generic-types","pipeline.force-kryo"],"org.apache.flink.api.common.serialization.TypeInformationSerializationSchemaTest_testSerializability":["pipeline.generic-types","pipeline.force-kryo"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.serialization.TypeInformationSerializationSchemaTest_testDeSerialization": [
+      "pipeline.generic-types",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.common.serialization.TypeInformationSerializationSchemaTest_testSerializability": [
+      "pipeline.generic-types",
+      "pipeline.force-kryo"
+    ]
+  }
+}

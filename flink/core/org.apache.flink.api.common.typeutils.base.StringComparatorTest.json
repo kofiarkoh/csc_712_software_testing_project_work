@@ -1,1 +1,16 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.typeutils.base.StringComparatorTest_testNormalizedKeysGreatSmallAscDescHalfLength":[],"org.apache.flink.api.common.typeutils.base.StringComparatorTest_testEquality":[],"org.apache.flink.api.common.typeutils.base.StringComparatorTest_testEqualityWithReference":[],"org.apache.flink.api.common.typeutils.base.StringComparatorTest_testInequalityWithReference":[],"org.apache.flink.api.common.typeutils.base.StringComparatorTest_testNormalizedKeysGreatSmallFullLength":[],"org.apache.flink.api.common.typeutils.base.StringComparatorTest_testNormalizedKeysEqualsFullLength":[],"org.apache.flink.api.common.typeutils.base.StringComparatorTest_testInequality":[],"org.apache.flink.api.common.typeutils.base.StringComparatorTest_testNormalizedKeysEqualsHalfLength":[],"org.apache.flink.api.common.typeutils.base.StringComparatorTest_testNormalizedKeyReadWriter":[],"org.apache.flink.api.common.typeutils.base.StringComparatorTest_testKeyExtraction":[],"org.apache.flink.api.common.typeutils.base.StringComparatorTest_testDuplicate":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeutils.base.StringComparatorTest_testNormalizedKeysGreatSmallAscDescHalfLength": [],
+    "org.apache.flink.api.common.typeutils.base.StringComparatorTest_testEquality": [],
+    "org.apache.flink.api.common.typeutils.base.StringComparatorTest_testEqualityWithReference": [],
+    "org.apache.flink.api.common.typeutils.base.StringComparatorTest_testInequalityWithReference": [],
+    "org.apache.flink.api.common.typeutils.base.StringComparatorTest_testNormalizedKeysGreatSmallFullLength": [],
+    "org.apache.flink.api.common.typeutils.base.StringComparatorTest_testNormalizedKeysEqualsFullLength": [],
+    "org.apache.flink.api.common.typeutils.base.StringComparatorTest_testInequality": [],
+    "org.apache.flink.api.common.typeutils.base.StringComparatorTest_testNormalizedKeysEqualsHalfLength": [],
+    "org.apache.flink.api.common.typeutils.base.StringComparatorTest_testNormalizedKeyReadWriter": [],
+    "org.apache.flink.api.common.typeutils.base.StringComparatorTest_testKeyExtraction": [],
+    "org.apache.flink.api.common.typeutils.base.StringComparatorTest_testDuplicate": []
+  }
+}

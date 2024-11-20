@@ -1,1 +1,8 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.MissingTypeInfoTest_testSerialization":[],"org.apache.flink.api.java.typeutils.MissingTypeInfoTest_testGetTotalFields":[],"org.apache.flink.api.java.typeutils.MissingTypeInfoTest_testHashcodeAndEquals":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.MissingTypeInfoTest_testSerialization": [],
+    "org.apache.flink.api.java.typeutils.MissingTypeInfoTest_testGetTotalFields": [],
+    "org.apache.flink.api.java.typeutils.MissingTypeInfoTest_testHashcodeAndEquals": []
+  }
+}

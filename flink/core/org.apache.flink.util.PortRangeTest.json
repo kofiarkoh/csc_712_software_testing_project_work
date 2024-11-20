@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.util.PortRangeTest_testInvalidPortRange":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.util.PortRangeTest_testInvalidPortRange": []
+  }
+}

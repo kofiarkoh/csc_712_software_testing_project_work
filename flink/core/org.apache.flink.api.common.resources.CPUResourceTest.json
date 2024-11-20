@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.resources.CPUResourceTest_toHumanReadableString":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.resources.CPUResourceTest_toHumanReadableString": []
+  }
+}

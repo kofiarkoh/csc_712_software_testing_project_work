@@ -1,1 +1,70 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testCopyIntoReusedElements":["pipeline.generic-types","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testSerializabilityAndEquals":["pipeline.generic-types","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testSerializeIndividually":["pipeline.generic-types","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testGetLength":["pipeline.generic-types","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testSerializedCopyAsSequence":["pipeline.generic-types","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testNullability":["pipeline.generic-types","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testSnapshotConfigurationAndReconfigure":["pipeline.generic-types","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testInstantiate":[],"org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testCopy":["pipeline.generic-types","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testConfigSnapshotInstantiation":["pipeline.generic-types","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testDuplicate":["pipeline.generic-types","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testSerializeAsSequenceReusingValues":["pipeline.generic-types","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testCopyIndependently":["pipeline.generic-types","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testSerializeIndividuallyReusingValues":["pipeline.generic-types","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testSerializedCopyIndividually":["pipeline.generic-types","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testSerializeAsSequenceNoReuse":["pipeline.generic-types","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testCopyIntoNewElements":["pipeline.generic-types","pipeline.force-kryo"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testCopyIntoReusedElements": [
+      "pipeline.generic-types",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testSerializabilityAndEquals": [
+      "pipeline.generic-types",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testSerializeIndividually": [
+      "pipeline.generic-types",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testGetLength": [
+      "pipeline.generic-types",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testSerializedCopyAsSequence": [
+      "pipeline.generic-types",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testNullability": [
+      "pipeline.generic-types",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testSnapshotConfigurationAndReconfigure": [
+      "pipeline.generic-types",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testInstantiate": [],
+    "org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testCopy": [
+      "pipeline.generic-types",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testConfigSnapshotInstantiation": [
+      "pipeline.generic-types",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testDuplicate": [
+      "pipeline.generic-types",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testSerializeAsSequenceReusingValues": [
+      "pipeline.generic-types",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testCopyIndependently": [
+      "pipeline.generic-types",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testSerializeIndividuallyReusingValues": [
+      "pipeline.generic-types",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testSerializedCopyIndividually": [
+      "pipeline.generic-types",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testSerializeAsSequenceNoReuse": [
+      "pipeline.generic-types",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.SubclassFromInterfaceSerializerTest_testCopyIntoNewElements": [
+      "pipeline.generic-types",
+      "pipeline.force-kryo"
+    ]
+  }
+}

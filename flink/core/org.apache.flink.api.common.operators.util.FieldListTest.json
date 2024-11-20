@@ -1,1 +1,9 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.operators.util.FieldListTest_testAddSetToList":[],"org.apache.flink.api.common.operators.util.FieldListTest_testFieldListConstructors":[],"org.apache.flink.api.common.operators.util.FieldListTest_testImmutability":[],"org.apache.flink.api.common.operators.util.FieldListTest_testFieldListAdds":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.operators.util.FieldListTest_testAddSetToList": [],
+    "org.apache.flink.api.common.operators.util.FieldListTest_testFieldListConstructors": [],
+    "org.apache.flink.api.common.operators.util.FieldListTest_testImmutability": [],
+    "org.apache.flink.api.common.operators.util.FieldListTest_testFieldListAdds": []
+  }
+}

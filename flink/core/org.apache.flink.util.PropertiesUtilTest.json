@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.util.PropertiesUtilTest_testFlatten":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.util.PropertiesUtilTest_testFlatten": []
+  }
+}

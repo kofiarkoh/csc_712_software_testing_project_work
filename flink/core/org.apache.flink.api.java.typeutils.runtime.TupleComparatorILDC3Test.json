@@ -1,1 +1,16 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.runtime.TupleComparatorILDC3Test_testNormalizedKeysEqualsHalfLength":[],"org.apache.flink.api.java.typeutils.runtime.TupleComparatorILDC3Test_testEquality":[],"org.apache.flink.api.java.typeutils.runtime.TupleComparatorILDC3Test_testNormalizedKeysGreatSmallAscDescHalfLength":[],"org.apache.flink.api.java.typeutils.runtime.TupleComparatorILDC3Test_testKeyExtraction":[],"org.apache.flink.api.java.typeutils.runtime.TupleComparatorILDC3Test_testInequality":[],"org.apache.flink.api.java.typeutils.runtime.TupleComparatorILDC3Test_testInequalityWithReference":[],"org.apache.flink.api.java.typeutils.runtime.TupleComparatorILDC3Test_testNormalizedKeysGreatSmallFullLength":[],"org.apache.flink.api.java.typeutils.runtime.TupleComparatorILDC3Test_testNormalizedKeyReadWriter":[],"org.apache.flink.api.java.typeutils.runtime.TupleComparatorILDC3Test_testDuplicate":[],"org.apache.flink.api.java.typeutils.runtime.TupleComparatorILDC3Test_testEqualityWithReference":[],"org.apache.flink.api.java.typeutils.runtime.TupleComparatorILDC3Test_testNormalizedKeysEqualsFullLength":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.runtime.TupleComparatorILDC3Test_testNormalizedKeysEqualsHalfLength": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleComparatorILDC3Test_testEquality": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleComparatorILDC3Test_testNormalizedKeysGreatSmallAscDescHalfLength": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleComparatorILDC3Test_testKeyExtraction": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleComparatorILDC3Test_testInequality": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleComparatorILDC3Test_testInequalityWithReference": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleComparatorILDC3Test_testNormalizedKeysGreatSmallFullLength": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleComparatorILDC3Test_testNormalizedKeyReadWriter": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleComparatorILDC3Test_testDuplicate": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleComparatorILDC3Test_testEqualityWithReference": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleComparatorILDC3Test_testNormalizedKeysEqualsFullLength": []
+  }
+}

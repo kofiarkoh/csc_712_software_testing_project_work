@@ -1,1 +1,10 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.runtime.RowSerializerUpgradeTest_restoreSerializerIsValid":[],"org.apache.flink.api.java.typeutils.runtime.RowSerializerUpgradeTest_upgradedSerializerIsValidAfterReconfiguration":[],"org.apache.flink.api.java.typeutils.runtime.RowSerializerUpgradeTest_upgradedSerializerHasExpectedSchemaCompatibility":[],"org.apache.flink.api.java.typeutils.runtime.RowSerializerUpgradeTest_upgradedSerializerIsValidAfterMigration":[],"org.apache.flink.api.java.typeutils.runtime.RowSerializerUpgradeTest_upgradedSerializerIsValidWhenCompatibleAsIs":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.runtime.RowSerializerUpgradeTest_restoreSerializerIsValid": [],
+    "org.apache.flink.api.java.typeutils.runtime.RowSerializerUpgradeTest_upgradedSerializerIsValidAfterReconfiguration": [],
+    "org.apache.flink.api.java.typeutils.runtime.RowSerializerUpgradeTest_upgradedSerializerHasExpectedSchemaCompatibility": [],
+    "org.apache.flink.api.java.typeutils.runtime.RowSerializerUpgradeTest_upgradedSerializerIsValidAfterMigration": [],
+    "org.apache.flink.api.java.typeutils.runtime.RowSerializerUpgradeTest_upgradedSerializerIsValidWhenCompatibleAsIs": []
+  }
+}

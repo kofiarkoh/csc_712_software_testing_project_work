@@ -1,1 +1,11 @@
-{"classLevelParams":["pipeline.generic-types","pipeline.force-kryo"],"methodLevelParams":{"org.apache.flink.api.common.typeutils.CompositeSerializerTest_testSingleFieldSerializer":[],"org.apache.flink.api.common.typeutils.CompositeSerializerTest_testAllFieldSerializer":[],"org.apache.flink.api.common.typeutils.CompositeSerializerTest_testPairFieldSerializer":[]}}
+{
+  "classLevelParams": [
+    "pipeline.generic-types",
+    "pipeline.force-kryo"
+  ],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeutils.CompositeSerializerTest_testSingleFieldSerializer": [],
+    "org.apache.flink.api.common.typeutils.CompositeSerializerTest_testAllFieldSerializer": [],
+    "org.apache.flink.api.common.typeutils.CompositeSerializerTest_testPairFieldSerializer": []
+  }
+}

@@ -1,1 +1,12 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.typeutils.base.EnumSerializerTest_testConfigurationSnapshotSerialization":[],"org.apache.flink.api.common.typeutils.base.EnumSerializerTest_testEmptyEnum":[],"org.apache.flink.api.common.typeutils.base.EnumSerializerTest_testPublicEnum":[],"org.apache.flink.api.common.typeutils.base.EnumSerializerTest_testPrivateEnum":[],"org.apache.flink.api.common.typeutils.base.EnumSerializerTest_testSerializeEnumSerializer":[],"org.apache.flink.api.common.typeutils.base.EnumSerializerTest_testSerializeReconfiguredEnumSerializer":[],"org.apache.flink.api.common.typeutils.base.EnumSerializerTest_testReconfiguration":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeutils.base.EnumSerializerTest_testConfigurationSnapshotSerialization": [],
+    "org.apache.flink.api.common.typeutils.base.EnumSerializerTest_testEmptyEnum": [],
+    "org.apache.flink.api.common.typeutils.base.EnumSerializerTest_testPublicEnum": [],
+    "org.apache.flink.api.common.typeutils.base.EnumSerializerTest_testPrivateEnum": [],
+    "org.apache.flink.api.common.typeutils.base.EnumSerializerTest_testSerializeEnumSerializer": [],
+    "org.apache.flink.api.common.typeutils.base.EnumSerializerTest_testSerializeReconfiguredEnumSerializer": [],
+    "org.apache.flink.api.common.typeutils.base.EnumSerializerTest_testReconfiguration": []
+  }
+}

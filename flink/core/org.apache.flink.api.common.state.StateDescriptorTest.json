@@ -1,1 +1,18 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.state.StateDescriptorTest_testEqualsSameNameAndTypeDifferentClass":[],"org.apache.flink.api.common.state.StateDescriptorTest_testSerializerLazyInitializeInParallel":[],"org.apache.flink.api.common.state.StateDescriptorTest_testHashCodeAndEquals":[],"org.apache.flink.api.common.state.StateDescriptorTest_testInitializeWithSerializer":[],"org.apache.flink.api.common.state.StateDescriptorTest_testSerializerDuplication":["pipeline.force-kryo"],"org.apache.flink.api.common.state.StateDescriptorTest_testInitializeSerializerAfterSerializationWithCustomConfig":["pipeline.force-kryo"],"org.apache.flink.api.common.state.StateDescriptorTest_testInitializeSerializerAfterSerialization":[],"org.apache.flink.api.common.state.StateDescriptorTest_testStateTTlConfig":[],"org.apache.flink.api.common.state.StateDescriptorTest_testInitializeSerializerBeforeSerialization":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.state.StateDescriptorTest_testEqualsSameNameAndTypeDifferentClass": [],
+    "org.apache.flink.api.common.state.StateDescriptorTest_testSerializerLazyInitializeInParallel": [],
+    "org.apache.flink.api.common.state.StateDescriptorTest_testHashCodeAndEquals": [],
+    "org.apache.flink.api.common.state.StateDescriptorTest_testInitializeWithSerializer": [],
+    "org.apache.flink.api.common.state.StateDescriptorTest_testSerializerDuplication": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.common.state.StateDescriptorTest_testInitializeSerializerAfterSerializationWithCustomConfig": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.common.state.StateDescriptorTest_testInitializeSerializerAfterSerialization": [],
+    "org.apache.flink.api.common.state.StateDescriptorTest_testStateTTlConfig": [],
+    "org.apache.flink.api.common.state.StateDescriptorTest_testInitializeSerializerBeforeSerialization": []
+  }
+}

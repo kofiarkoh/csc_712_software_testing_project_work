@@ -1,1 +1,10 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.accumulators.DoubleMaximumTest_testAdd":[],"org.apache.flink.api.common.accumulators.DoubleMaximumTest_testResetLocal":[],"org.apache.flink.api.common.accumulators.DoubleMaximumTest_testClone":[],"org.apache.flink.api.common.accumulators.DoubleMaximumTest_testMerge":[],"org.apache.flink.api.common.accumulators.DoubleMaximumTest_testGet":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.accumulators.DoubleMaximumTest_testAdd": [],
+    "org.apache.flink.api.common.accumulators.DoubleMaximumTest_testResetLocal": [],
+    "org.apache.flink.api.common.accumulators.DoubleMaximumTest_testClone": [],
+    "org.apache.flink.api.common.accumulators.DoubleMaximumTest_testMerge": [],
+    "org.apache.flink.api.common.accumulators.DoubleMaximumTest_testGet": []
+  }
+}

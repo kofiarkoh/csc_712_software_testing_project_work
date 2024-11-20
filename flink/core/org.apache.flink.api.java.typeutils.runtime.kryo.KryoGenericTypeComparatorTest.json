@@ -1,1 +1,17 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeComparatorTest_testBeanStyleObjects":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeComparatorTest_testCompositeObject":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeComparatorTest_testString":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeComparatorTest_testSimpleTypesObjects":["pipeline.force-kryo"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeComparatorTest_testBeanStyleObjects": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeComparatorTest_testCompositeObject": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeComparatorTest_testString": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoGenericTypeComparatorTest_testSimpleTypesObjects": [
+      "pipeline.force-kryo"
+    ]
+  }
+}

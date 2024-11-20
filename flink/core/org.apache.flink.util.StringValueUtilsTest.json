@@ -1,1 +1,10 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.util.StringValueUtilsTest_testReplaceNonWordChars":[],"org.apache.flink.util.StringValueUtilsTest_testTokenizerOnStringWithNexToken":[],"org.apache.flink.util.StringValueUtilsTest_testTokenizerOnStringWithoutNexToken":[],"org.apache.flink.util.StringValueUtilsTest_testTokenizerOnStringOnlyWithDelimiter":[],"org.apache.flink.util.StringValueUtilsTest_testToLowerCaseConverting":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.util.StringValueUtilsTest_testReplaceNonWordChars": [],
+    "org.apache.flink.util.StringValueUtilsTest_testTokenizerOnStringWithNexToken": [],
+    "org.apache.flink.util.StringValueUtilsTest_testTokenizerOnStringWithoutNexToken": [],
+    "org.apache.flink.util.StringValueUtilsTest_testTokenizerOnStringOnlyWithDelimiter": [],
+    "org.apache.flink.util.StringValueUtilsTest_testToLowerCaseConverting": []
+  }
+}

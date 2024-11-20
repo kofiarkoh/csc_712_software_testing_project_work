@@ -1,1 +1,16 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.runtime.TupleComparatorILD2Test_testDuplicate":[],"org.apache.flink.api.java.typeutils.runtime.TupleComparatorILD2Test_testEqualityWithReference":[],"org.apache.flink.api.java.typeutils.runtime.TupleComparatorILD2Test_testNormalizedKeysEqualsHalfLength":[],"org.apache.flink.api.java.typeutils.runtime.TupleComparatorILD2Test_testEquality":[],"org.apache.flink.api.java.typeutils.runtime.TupleComparatorILD2Test_testInequality":[],"org.apache.flink.api.java.typeutils.runtime.TupleComparatorILD2Test_testKeyExtraction":[],"org.apache.flink.api.java.typeutils.runtime.TupleComparatorILD2Test_testNormalizedKeysGreatSmallFullLength":[],"org.apache.flink.api.java.typeutils.runtime.TupleComparatorILD2Test_testNormalizedKeysGreatSmallAscDescHalfLength":[],"org.apache.flink.api.java.typeutils.runtime.TupleComparatorILD2Test_testInequalityWithReference":[],"org.apache.flink.api.java.typeutils.runtime.TupleComparatorILD2Test_testNormalizedKeyReadWriter":[],"org.apache.flink.api.java.typeutils.runtime.TupleComparatorILD2Test_testNormalizedKeysEqualsFullLength":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.runtime.TupleComparatorILD2Test_testDuplicate": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleComparatorILD2Test_testEqualityWithReference": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleComparatorILD2Test_testNormalizedKeysEqualsHalfLength": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleComparatorILD2Test_testEquality": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleComparatorILD2Test_testInequality": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleComparatorILD2Test_testKeyExtraction": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleComparatorILD2Test_testNormalizedKeysGreatSmallFullLength": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleComparatorILD2Test_testNormalizedKeysGreatSmallAscDescHalfLength": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleComparatorILD2Test_testInequalityWithReference": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleComparatorILD2Test_testNormalizedKeyReadWriter": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleComparatorILD2Test_testNormalizedKeysEqualsFullLength": []
+  }
+}

@@ -1,1 +1,16 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.typeutils.base.BigIntComparatorTest_testNormalizedKeysGreatSmallAscDescHalfLength":[],"org.apache.flink.api.common.typeutils.base.BigIntComparatorTest_testNormalizedKeyReadWriter":[],"org.apache.flink.api.common.typeutils.base.BigIntComparatorTest_testEqualityWithReference":[],"org.apache.flink.api.common.typeutils.base.BigIntComparatorTest_testInequality":[],"org.apache.flink.api.common.typeutils.base.BigIntComparatorTest_testNormalizedKeysGreatSmallFullLength":[],"org.apache.flink.api.common.typeutils.base.BigIntComparatorTest_testInequalityWithReference":[],"org.apache.flink.api.common.typeutils.base.BigIntComparatorTest_testNormalizedKeysEqualsHalfLength":[],"org.apache.flink.api.common.typeutils.base.BigIntComparatorTest_testNormalizedKeysEqualsFullLength":[],"org.apache.flink.api.common.typeutils.base.BigIntComparatorTest_testKeyExtraction":[],"org.apache.flink.api.common.typeutils.base.BigIntComparatorTest_testDuplicate":[],"org.apache.flink.api.common.typeutils.base.BigIntComparatorTest_testEquality":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeutils.base.BigIntComparatorTest_testNormalizedKeysGreatSmallAscDescHalfLength": [],
+    "org.apache.flink.api.common.typeutils.base.BigIntComparatorTest_testNormalizedKeyReadWriter": [],
+    "org.apache.flink.api.common.typeutils.base.BigIntComparatorTest_testEqualityWithReference": [],
+    "org.apache.flink.api.common.typeutils.base.BigIntComparatorTest_testInequality": [],
+    "org.apache.flink.api.common.typeutils.base.BigIntComparatorTest_testNormalizedKeysGreatSmallFullLength": [],
+    "org.apache.flink.api.common.typeutils.base.BigIntComparatorTest_testInequalityWithReference": [],
+    "org.apache.flink.api.common.typeutils.base.BigIntComparatorTest_testNormalizedKeysEqualsHalfLength": [],
+    "org.apache.flink.api.common.typeutils.base.BigIntComparatorTest_testNormalizedKeysEqualsFullLength": [],
+    "org.apache.flink.api.common.typeutils.base.BigIntComparatorTest_testKeyExtraction": [],
+    "org.apache.flink.api.common.typeutils.base.BigIntComparatorTest_testDuplicate": [],
+    "org.apache.flink.api.common.typeutils.base.BigIntComparatorTest_testEquality": []
+  }
+}

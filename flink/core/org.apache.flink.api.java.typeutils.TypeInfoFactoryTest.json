@@ -1,1 +1,14 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.TypeInfoFactoryTest_testMissingTypeInference":[],"org.apache.flink.api.java.typeutils.TypeInfoFactoryTest_testMyTupleHierarchy":[],"org.apache.flink.api.java.typeutils.TypeInfoFactoryTest_testMyTupleHierarchyWithInference":[],"org.apache.flink.api.java.typeutils.TypeInfoFactoryTest_testWithFieldTypeInfoAnnotation":[],"org.apache.flink.api.java.typeutils.TypeInfoFactoryTest_testMissingTypeInfo":[],"org.apache.flink.api.java.typeutils.TypeInfoFactoryTest_testSimpleType":[],"org.apache.flink.api.java.typeutils.TypeInfoFactoryTest_testMyEitherGenericType":[],"org.apache.flink.api.java.typeutils.TypeInfoFactoryTest_testMyTuple":[],"org.apache.flink.api.java.typeutils.TypeInfoFactoryTest_testMyOptionGenericType":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.TypeInfoFactoryTest_testMissingTypeInference": [],
+    "org.apache.flink.api.java.typeutils.TypeInfoFactoryTest_testMyTupleHierarchy": [],
+    "org.apache.flink.api.java.typeutils.TypeInfoFactoryTest_testMyTupleHierarchyWithInference": [],
+    "org.apache.flink.api.java.typeutils.TypeInfoFactoryTest_testWithFieldTypeInfoAnnotation": [],
+    "org.apache.flink.api.java.typeutils.TypeInfoFactoryTest_testMissingTypeInfo": [],
+    "org.apache.flink.api.java.typeutils.TypeInfoFactoryTest_testSimpleType": [],
+    "org.apache.flink.api.java.typeutils.TypeInfoFactoryTest_testMyEitherGenericType": [],
+    "org.apache.flink.api.java.typeutils.TypeInfoFactoryTest_testMyTuple": [],
+    "org.apache.flink.api.java.typeutils.TypeInfoFactoryTest_testMyOptionGenericType": []
+  }
+}

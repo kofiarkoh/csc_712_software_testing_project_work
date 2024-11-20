@@ -1,1 +1,22 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.typeutils.base.DateSerializerTest_testInstantiate":[],"org.apache.flink.api.common.typeutils.base.DateSerializerTest_testCopyIndependently":[],"org.apache.flink.api.common.typeutils.base.DateSerializerTest_testSerializeIndividuallyReusingValues":[],"org.apache.flink.api.common.typeutils.base.DateSerializerTest_testGetLength":[],"org.apache.flink.api.common.typeutils.base.DateSerializerTest_testConfigSnapshotInstantiation":[],"org.apache.flink.api.common.typeutils.base.DateSerializerTest_testSerializabilityAndEquals":[],"org.apache.flink.api.common.typeutils.base.DateSerializerTest_testCopyIntoReusedElements":[],"org.apache.flink.api.common.typeutils.base.DateSerializerTest_testSerializedCopyIndividually":[],"org.apache.flink.api.common.typeutils.base.DateSerializerTest_testSerializedCopyAsSequence":[],"org.apache.flink.api.common.typeutils.base.DateSerializerTest_testSerializeAsSequenceNoReuse":[],"org.apache.flink.api.common.typeutils.base.DateSerializerTest_testDuplicate":[],"org.apache.flink.api.common.typeutils.base.DateSerializerTest_testCopyIntoNewElements":[],"org.apache.flink.api.common.typeutils.base.DateSerializerTest_testCopy":[],"org.apache.flink.api.common.typeutils.base.DateSerializerTest_testSnapshotConfigurationAndReconfigure":[],"org.apache.flink.api.common.typeutils.base.DateSerializerTest_testSerializeAsSequenceReusingValues":[],"org.apache.flink.api.common.typeutils.base.DateSerializerTest_testSerializeIndividually":[],"org.apache.flink.api.common.typeutils.base.DateSerializerTest_testNullability":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeutils.base.DateSerializerTest_testInstantiate": [],
+    "org.apache.flink.api.common.typeutils.base.DateSerializerTest_testCopyIndependently": [],
+    "org.apache.flink.api.common.typeutils.base.DateSerializerTest_testSerializeIndividuallyReusingValues": [],
+    "org.apache.flink.api.common.typeutils.base.DateSerializerTest_testGetLength": [],
+    "org.apache.flink.api.common.typeutils.base.DateSerializerTest_testConfigSnapshotInstantiation": [],
+    "org.apache.flink.api.common.typeutils.base.DateSerializerTest_testSerializabilityAndEquals": [],
+    "org.apache.flink.api.common.typeutils.base.DateSerializerTest_testCopyIntoReusedElements": [],
+    "org.apache.flink.api.common.typeutils.base.DateSerializerTest_testSerializedCopyIndividually": [],
+    "org.apache.flink.api.common.typeutils.base.DateSerializerTest_testSerializedCopyAsSequence": [],
+    "org.apache.flink.api.common.typeutils.base.DateSerializerTest_testSerializeAsSequenceNoReuse": [],
+    "org.apache.flink.api.common.typeutils.base.DateSerializerTest_testDuplicate": [],
+    "org.apache.flink.api.common.typeutils.base.DateSerializerTest_testCopyIntoNewElements": [],
+    "org.apache.flink.api.common.typeutils.base.DateSerializerTest_testCopy": [],
+    "org.apache.flink.api.common.typeutils.base.DateSerializerTest_testSnapshotConfigurationAndReconfigure": [],
+    "org.apache.flink.api.common.typeutils.base.DateSerializerTest_testSerializeAsSequenceReusingValues": [],
+    "org.apache.flink.api.common.typeutils.base.DateSerializerTest_testSerializeIndividually": [],
+    "org.apache.flink.api.common.typeutils.base.DateSerializerTest_testNullability": []
+  }
+}

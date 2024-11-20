@@ -1,1 +1,8 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.runtime.kryo.KryoClearedBufferTest_testOutputBufferedBeingClearedInCaseOfException":["pipeline.force-kryo"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoClearedBufferTest_testOutputBufferedBeingClearedInCaseOfException": [
+      "pipeline.force-kryo"
+    ]
+  }
+}

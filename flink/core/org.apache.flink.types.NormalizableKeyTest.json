@@ -1,1 +1,10 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.types.NormalizableKeyTest_testLongValue":[],"org.apache.flink.types.NormalizableKeyTest_testPactChar":[],"org.apache.flink.types.NormalizableKeyTest_testIntValue":[],"org.apache.flink.types.NormalizableKeyTest_testPactNull":[],"org.apache.flink.types.NormalizableKeyTest_testStringValue":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.types.NormalizableKeyTest_testLongValue": [],
+    "org.apache.flink.types.NormalizableKeyTest_testPactChar": [],
+    "org.apache.flink.types.NormalizableKeyTest_testIntValue": [],
+    "org.apache.flink.types.NormalizableKeyTest_testPactNull": [],
+    "org.apache.flink.types.NormalizableKeyTest_testStringValue": []
+  }
+}

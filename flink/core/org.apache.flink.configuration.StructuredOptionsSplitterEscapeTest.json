@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.configuration.StructuredOptionsSplitterEscapeTest_testEscapeWithSingleQuote":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.configuration.StructuredOptionsSplitterEscapeTest_testEscapeWithSingleQuote": []
+  }
+}

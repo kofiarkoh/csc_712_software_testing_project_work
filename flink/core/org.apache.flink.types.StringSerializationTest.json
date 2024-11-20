@@ -1,1 +1,13 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.types.StringSerializationTest_testBinaryCopyOfLongStrings":[],"org.apache.flink.types.StringSerializationTest_testNullValues":[],"org.apache.flink.types.StringSerializationTest_testUnicodeSurrogatePairs":[],"org.apache.flink.types.StringSerializationTest_testStringBinaryCompatibility":[],"org.apache.flink.types.StringSerializationTest_testLongValues":[],"org.apache.flink.types.StringSerializationTest_testNonNullValues":[],"org.apache.flink.types.StringSerializationTest_testMixedValues":[],"org.apache.flink.types.StringSerializationTest_testUnicodeValues":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.types.StringSerializationTest_testBinaryCopyOfLongStrings": [],
+    "org.apache.flink.types.StringSerializationTest_testNullValues": [],
+    "org.apache.flink.types.StringSerializationTest_testUnicodeSurrogatePairs": [],
+    "org.apache.flink.types.StringSerializationTest_testStringBinaryCompatibility": [],
+    "org.apache.flink.types.StringSerializationTest_testLongValues": [],
+    "org.apache.flink.types.StringSerializationTest_testNonNullValues": [],
+    "org.apache.flink.types.StringSerializationTest_testMixedValues": [],
+    "org.apache.flink.types.StringSerializationTest_testUnicodeValues": []
+  }
+}

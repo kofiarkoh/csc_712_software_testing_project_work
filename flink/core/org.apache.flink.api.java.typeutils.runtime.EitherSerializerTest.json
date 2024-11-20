@@ -1,1 +1,11 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.runtime.EitherSerializerTest_testStringValueDoubleValueEither":[],"org.apache.flink.api.java.typeutils.runtime.EitherSerializerTest_testStringDoubleEither":[],"org.apache.flink.api.java.typeutils.runtime.EitherSerializerTest_testSerializeIndividually":[],"org.apache.flink.api.java.typeutils.runtime.EitherSerializerTest_testEitherWithTuple":[],"org.apache.flink.api.java.typeutils.runtime.EitherSerializerTest_testEitherWithObjectReuse":[],"org.apache.flink.api.java.typeutils.runtime.EitherSerializerTest_testEitherWithTupleValues":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.runtime.EitherSerializerTest_testStringValueDoubleValueEither": [],
+    "org.apache.flink.api.java.typeutils.runtime.EitherSerializerTest_testStringDoubleEither": [],
+    "org.apache.flink.api.java.typeutils.runtime.EitherSerializerTest_testSerializeIndividually": [],
+    "org.apache.flink.api.java.typeutils.runtime.EitherSerializerTest_testEitherWithTuple": [],
+    "org.apache.flink.api.java.typeutils.runtime.EitherSerializerTest_testEitherWithObjectReuse": [],
+    "org.apache.flink.api.java.typeutils.runtime.EitherSerializerTest_testEitherWithTupleValues": []
+  }
+}

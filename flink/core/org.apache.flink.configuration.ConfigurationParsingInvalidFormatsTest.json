@@ -1,1 +1,9 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.configuration.ConfigurationParsingInvalidFormatsTest_testInvalidStringParsingWithGet":["list\u003cstring\u003e"],"org.apache.flink.configuration.ConfigurationParsingInvalidFormatsTest_testInvalidStringParsingWithGetOptional":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.configuration.ConfigurationParsingInvalidFormatsTest_testInvalidStringParsingWithGet": [
+      "list\u003cstring\u003e"
+    ],
+    "org.apache.flink.configuration.ConfigurationParsingInvalidFormatsTest_testInvalidStringParsingWithGetOptional": []
+  }
+}

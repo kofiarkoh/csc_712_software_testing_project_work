@@ -1,1 +1,16 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.typeutils.base.BigDecComparatorTest_testEquality":[],"org.apache.flink.api.common.typeutils.base.BigDecComparatorTest_testNormalizedKeyReadWriter":[],"org.apache.flink.api.common.typeutils.base.BigDecComparatorTest_testNormalizedKeysGreatSmallFullLength":[],"org.apache.flink.api.common.typeutils.base.BigDecComparatorTest_testKeyExtraction":[],"org.apache.flink.api.common.typeutils.base.BigDecComparatorTest_testInequality":[],"org.apache.flink.api.common.typeutils.base.BigDecComparatorTest_testInequalityWithReference":[],"org.apache.flink.api.common.typeutils.base.BigDecComparatorTest_testDuplicate":[],"org.apache.flink.api.common.typeutils.base.BigDecComparatorTest_testNormalizedKeysEqualsFullLength":[],"org.apache.flink.api.common.typeutils.base.BigDecComparatorTest_testNormalizedKeysEqualsHalfLength":[],"org.apache.flink.api.common.typeutils.base.BigDecComparatorTest_testEqualityWithReference":[],"org.apache.flink.api.common.typeutils.base.BigDecComparatorTest_testNormalizedKeysGreatSmallAscDescHalfLength":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeutils.base.BigDecComparatorTest_testEquality": [],
+    "org.apache.flink.api.common.typeutils.base.BigDecComparatorTest_testNormalizedKeyReadWriter": [],
+    "org.apache.flink.api.common.typeutils.base.BigDecComparatorTest_testNormalizedKeysGreatSmallFullLength": [],
+    "org.apache.flink.api.common.typeutils.base.BigDecComparatorTest_testKeyExtraction": [],
+    "org.apache.flink.api.common.typeutils.base.BigDecComparatorTest_testInequality": [],
+    "org.apache.flink.api.common.typeutils.base.BigDecComparatorTest_testInequalityWithReference": [],
+    "org.apache.flink.api.common.typeutils.base.BigDecComparatorTest_testDuplicate": [],
+    "org.apache.flink.api.common.typeutils.base.BigDecComparatorTest_testNormalizedKeysEqualsFullLength": [],
+    "org.apache.flink.api.common.typeutils.base.BigDecComparatorTest_testNormalizedKeysEqualsHalfLength": [],
+    "org.apache.flink.api.common.typeutils.base.BigDecComparatorTest_testEqualityWithReference": [],
+    "org.apache.flink.api.common.typeutils.base.BigDecComparatorTest_testNormalizedKeysGreatSmallAscDescHalfLength": []
+  }
+}

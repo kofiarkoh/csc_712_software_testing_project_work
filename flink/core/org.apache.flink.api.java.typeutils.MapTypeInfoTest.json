@@ -1,1 +1,8 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.MapTypeInfoTest_testGetTotalFields":[],"org.apache.flink.api.java.typeutils.MapTypeInfoTest_testSerialization":[],"org.apache.flink.api.java.typeutils.MapTypeInfoTest_testHashcodeAndEquals":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.MapTypeInfoTest_testGetTotalFields": [],
+    "org.apache.flink.api.java.typeutils.MapTypeInfoTest_testSerialization": [],
+    "org.apache.flink.api.java.typeutils.MapTypeInfoTest_testHashcodeAndEquals": []
+  }
+}

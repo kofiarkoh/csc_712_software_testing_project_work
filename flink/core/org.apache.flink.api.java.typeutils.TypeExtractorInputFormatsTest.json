@@ -1,1 +1,9 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.TypeExtractorInputFormatsTest_testMultiLevelDerivedInputFormatType":[],"org.apache.flink.api.java.typeutils.TypeExtractorInputFormatsTest_testExtractInputFormatType":[],"org.apache.flink.api.java.typeutils.TypeExtractorInputFormatsTest_testExtractDerivedInputFormatType":[],"org.apache.flink.api.java.typeutils.TypeExtractorInputFormatsTest_testQueryableFormatType":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.TypeExtractorInputFormatsTest_testMultiLevelDerivedInputFormatType": [],
+    "org.apache.flink.api.java.typeutils.TypeExtractorInputFormatsTest_testExtractInputFormatType": [],
+    "org.apache.flink.api.java.typeutils.TypeExtractorInputFormatsTest_testExtractDerivedInputFormatType": [],
+    "org.apache.flink.api.java.typeutils.TypeExtractorInputFormatsTest_testQueryableFormatType": []
+  }
+}

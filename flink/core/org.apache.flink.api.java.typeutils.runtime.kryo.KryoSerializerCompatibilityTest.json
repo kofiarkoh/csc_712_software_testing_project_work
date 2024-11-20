@@ -1,1 +1,17 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerCompatibilityTest_testMigrationWithTypeDevoidOfAvroTypes":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerCompatibilityTest_testMigrationStrategyWithDifferentKryoType":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerCompatibilityTest_testMigrationStrategyForDifferentRegistrationOrder":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerCompatibilityTest_testMigrationOfTypeWithAvroType":["pipeline.force-kryo"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerCompatibilityTest_testMigrationWithTypeDevoidOfAvroTypes": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerCompatibilityTest_testMigrationStrategyWithDifferentKryoType": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerCompatibilityTest_testMigrationStrategyForDifferentRegistrationOrder": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerCompatibilityTest_testMigrationOfTypeWithAvroType": [
+      "pipeline.force-kryo"
+    ]
+  }
+}

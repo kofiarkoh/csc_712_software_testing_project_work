@@ -1,1 +1,10 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.accumulators.LongMaximumTest_testGet":[],"org.apache.flink.api.common.accumulators.LongMaximumTest_testResetLocal":[],"org.apache.flink.api.common.accumulators.LongMaximumTest_testMerge":[],"org.apache.flink.api.common.accumulators.LongMaximumTest_testAdd":[],"org.apache.flink.api.common.accumulators.LongMaximumTest_testClone":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.accumulators.LongMaximumTest_testGet": [],
+    "org.apache.flink.api.common.accumulators.LongMaximumTest_testResetLocal": [],
+    "org.apache.flink.api.common.accumulators.LongMaximumTest_testMerge": [],
+    "org.apache.flink.api.common.accumulators.LongMaximumTest_testAdd": [],
+    "org.apache.flink.api.common.accumulators.LongMaximumTest_testClone": []
+  }
+}

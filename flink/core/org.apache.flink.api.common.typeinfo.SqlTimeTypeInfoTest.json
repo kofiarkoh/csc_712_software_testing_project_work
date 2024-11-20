@@ -1,1 +1,8 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.typeinfo.SqlTimeTypeInfoTest_testSerialization":[],"org.apache.flink.api.common.typeinfo.SqlTimeTypeInfoTest_testGetTotalFields":[],"org.apache.flink.api.common.typeinfo.SqlTimeTypeInfoTest_testHashcodeAndEquals":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeinfo.SqlTimeTypeInfoTest_testSerialization": [],
+    "org.apache.flink.api.common.typeinfo.SqlTimeTypeInfoTest_testGetTotalFields": [],
+    "org.apache.flink.api.common.typeinfo.SqlTimeTypeInfoTest_testHashcodeAndEquals": []
+  }
+}

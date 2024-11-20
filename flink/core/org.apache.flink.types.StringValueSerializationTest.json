@@ -1,1 +1,9 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.types.StringValueSerializationTest_testBinaryCopyOfLongStrings":[],"org.apache.flink.types.StringValueSerializationTest_testNonNullValues":[],"org.apache.flink.types.StringValueSerializationTest_testMixedValues":[],"org.apache.flink.types.StringValueSerializationTest_testLongValues":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.types.StringValueSerializationTest_testBinaryCopyOfLongStrings": [],
+    "org.apache.flink.types.StringValueSerializationTest_testNonNullValues": [],
+    "org.apache.flink.types.StringValueSerializationTest_testMixedValues": [],
+    "org.apache.flink.types.StringValueSerializationTest_testLongValues": []
+  }
+}

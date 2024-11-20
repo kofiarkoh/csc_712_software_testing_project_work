@@ -1,1 +1,22 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.runtime.PojoSerializerUpgradeTest_upgradedSerializerIsValidAfterReconfiguration":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerUpgradeTest_upgradedSerializerIsValidWhenCompatibleAsIs":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerUpgradeTest_upgradedSerializerIsValidAfterMigration":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerUpgradeTest_restoreSerializerIsValid":[],"org.apache.flink.api.java.typeutils.runtime.PojoSerializerUpgradeTest_upgradedSerializerHasExpectedSchemaCompatibility":["pipeline.force-avro","pipeline.force-kryo"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerUpgradeTest_upgradedSerializerIsValidAfterReconfiguration": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerUpgradeTest_upgradedSerializerIsValidWhenCompatibleAsIs": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerUpgradeTest_upgradedSerializerIsValidAfterMigration": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerUpgradeTest_restoreSerializerIsValid": [],
+    "org.apache.flink.api.java.typeutils.runtime.PojoSerializerUpgradeTest_upgradedSerializerHasExpectedSchemaCompatibility": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ]
+  }
+}

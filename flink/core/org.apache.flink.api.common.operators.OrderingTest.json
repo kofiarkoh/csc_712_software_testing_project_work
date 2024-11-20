@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.operators.OrderingTest_testNewOrdering":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.operators.OrderingTest_testNewOrdering": []
+  }
+}

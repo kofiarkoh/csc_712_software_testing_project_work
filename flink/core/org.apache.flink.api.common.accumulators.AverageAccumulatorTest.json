@@ -1,1 +1,10 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.accumulators.AverageAccumulatorTest_testAdd":[],"org.apache.flink.api.common.accumulators.AverageAccumulatorTest_testClone":[],"org.apache.flink.api.common.accumulators.AverageAccumulatorTest_testMergeSuccess":[],"org.apache.flink.api.common.accumulators.AverageAccumulatorTest_testMergeFailed":[],"org.apache.flink.api.common.accumulators.AverageAccumulatorTest_testGet":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.accumulators.AverageAccumulatorTest_testAdd": [],
+    "org.apache.flink.api.common.accumulators.AverageAccumulatorTest_testClone": [],
+    "org.apache.flink.api.common.accumulators.AverageAccumulatorTest_testMergeSuccess": [],
+    "org.apache.flink.api.common.accumulators.AverageAccumulatorTest_testMergeFailed": [],
+    "org.apache.flink.api.common.accumulators.AverageAccumulatorTest_testGet": []
+  }
+}

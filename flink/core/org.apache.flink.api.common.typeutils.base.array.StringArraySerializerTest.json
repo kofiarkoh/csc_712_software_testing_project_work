@@ -1,1 +1,23 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testSerializeIndividuallyReusingValues":[],"org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testNullability":[],"org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testSnapshotConfigurationAndReconfigure":[],"org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testDuplicate":[],"org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_arrayTypeIsMutable":[],"org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testCopy":[],"org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testSerializabilityAndEquals":[],"org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testCopyIntoNewElements":[],"org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testSerializedCopyAsSequence":[],"org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testGetLength":[],"org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testConfigSnapshotInstantiation":[],"org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testSerializeIndividually":[],"org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testInstantiate":[],"org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testCopyIntoReusedElements":[],"org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testSerializeAsSequenceReusingValues":[],"org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testSerializedCopyIndividually":[],"org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testSerializeAsSequenceNoReuse":[],"org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testCopyIndependently":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testSerializeIndividuallyReusingValues": [],
+    "org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testNullability": [],
+    "org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testSnapshotConfigurationAndReconfigure": [],
+    "org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testDuplicate": [],
+    "org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_arrayTypeIsMutable": [],
+    "org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testCopy": [],
+    "org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testSerializabilityAndEquals": [],
+    "org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testCopyIntoNewElements": [],
+    "org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testSerializedCopyAsSequence": [],
+    "org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testGetLength": [],
+    "org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testConfigSnapshotInstantiation": [],
+    "org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testSerializeIndividually": [],
+    "org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testInstantiate": [],
+    "org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testCopyIntoReusedElements": [],
+    "org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testSerializeAsSequenceReusingValues": [],
+    "org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testSerializedCopyIndividually": [],
+    "org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testSerializeAsSequenceNoReuse": [],
+    "org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest_testCopyIndependently": []
+  }
+}

@@ -1,1 +1,16 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.types.RecordTest_testUnionFields":[],"org.apache.flink.types.RecordTest_testSetNullLongArray":[],"org.apache.flink.types.RecordTest_testSetNullLong":[],"org.apache.flink.types.RecordTest_testUpdateBinaryRepresentations":[],"org.apache.flink.types.RecordTest_blackBoxTests":[],"org.apache.flink.types.RecordTest_testDeSerialization":[],"org.apache.flink.types.RecordTest_testSetNullInt":[],"org.apache.flink.types.RecordTest_testAddField":[],"org.apache.flink.types.RecordTest_testEmptyRecordSerialization":[],"org.apache.flink.types.RecordTest_testClear":[],"org.apache.flink.types.RecordTest_testRemoveField":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.types.RecordTest_testUnionFields": [],
+    "org.apache.flink.types.RecordTest_testSetNullLongArray": [],
+    "org.apache.flink.types.RecordTest_testSetNullLong": [],
+    "org.apache.flink.types.RecordTest_testUpdateBinaryRepresentations": [],
+    "org.apache.flink.types.RecordTest_blackBoxTests": [],
+    "org.apache.flink.types.RecordTest_testDeSerialization": [],
+    "org.apache.flink.types.RecordTest_testSetNullInt": [],
+    "org.apache.flink.types.RecordTest_testAddField": [],
+    "org.apache.flink.types.RecordTest_testEmptyRecordSerialization": [],
+    "org.apache.flink.types.RecordTest_testClear": [],
+    "org.apache.flink.types.RecordTest_testRemoveField": []
+  }
+}

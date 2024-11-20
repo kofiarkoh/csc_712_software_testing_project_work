@@ -1,1 +1,16 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.typeutils.base.ByteComparatorTest_testNormalizedKeysEqualsHalfLength":[],"org.apache.flink.api.common.typeutils.base.ByteComparatorTest_testInequality":[],"org.apache.flink.api.common.typeutils.base.ByteComparatorTest_testKeyExtraction":[],"org.apache.flink.api.common.typeutils.base.ByteComparatorTest_testNormalizedKeysEqualsFullLength":[],"org.apache.flink.api.common.typeutils.base.ByteComparatorTest_testEqualityWithReference":[],"org.apache.flink.api.common.typeutils.base.ByteComparatorTest_testNormalizedKeysGreatSmallAscDescHalfLength":[],"org.apache.flink.api.common.typeutils.base.ByteComparatorTest_testDuplicate":[],"org.apache.flink.api.common.typeutils.base.ByteComparatorTest_testNormalizedKeysGreatSmallFullLength":[],"org.apache.flink.api.common.typeutils.base.ByteComparatorTest_testNormalizedKeyReadWriter":[],"org.apache.flink.api.common.typeutils.base.ByteComparatorTest_testInequalityWithReference":[],"org.apache.flink.api.common.typeutils.base.ByteComparatorTest_testEquality":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeutils.base.ByteComparatorTest_testNormalizedKeysEqualsHalfLength": [],
+    "org.apache.flink.api.common.typeutils.base.ByteComparatorTest_testInequality": [],
+    "org.apache.flink.api.common.typeutils.base.ByteComparatorTest_testKeyExtraction": [],
+    "org.apache.flink.api.common.typeutils.base.ByteComparatorTest_testNormalizedKeysEqualsFullLength": [],
+    "org.apache.flink.api.common.typeutils.base.ByteComparatorTest_testEqualityWithReference": [],
+    "org.apache.flink.api.common.typeutils.base.ByteComparatorTest_testNormalizedKeysGreatSmallAscDescHalfLength": [],
+    "org.apache.flink.api.common.typeutils.base.ByteComparatorTest_testDuplicate": [],
+    "org.apache.flink.api.common.typeutils.base.ByteComparatorTest_testNormalizedKeysGreatSmallFullLength": [],
+    "org.apache.flink.api.common.typeutils.base.ByteComparatorTest_testNormalizedKeyReadWriter": [],
+    "org.apache.flink.api.common.typeutils.base.ByteComparatorTest_testInequalityWithReference": [],
+    "org.apache.flink.api.common.typeutils.base.ByteComparatorTest_testEquality": []
+  }
+}

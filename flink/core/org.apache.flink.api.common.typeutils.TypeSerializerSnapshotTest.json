@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.typeutils.TypeSerializerSnapshotTest_testNestedSchemaCompatibility":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeutils.TypeSerializerSnapshotTest_testNestedSchemaCompatibility": []
+  }
+}

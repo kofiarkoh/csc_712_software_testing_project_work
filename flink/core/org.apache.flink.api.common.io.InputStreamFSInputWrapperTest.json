@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.io.InputStreamFSInputWrapperTest_testClose":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.io.InputStreamFSInputWrapperTest_testClose": []
+  }
+}

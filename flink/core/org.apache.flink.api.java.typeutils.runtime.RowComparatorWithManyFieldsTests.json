@@ -1,1 +1,16 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.runtime.RowComparatorWithManyFieldsTests_testKeyExtraction":[],"org.apache.flink.api.java.typeutils.runtime.RowComparatorWithManyFieldsTests_testDuplicate":[],"org.apache.flink.api.java.typeutils.runtime.RowComparatorWithManyFieldsTests_testNormalizedKeysGreatSmallFullLength":[],"org.apache.flink.api.java.typeutils.runtime.RowComparatorWithManyFieldsTests_testNormalizedKeysGreatSmallAscDescHalfLength":[],"org.apache.flink.api.java.typeutils.runtime.RowComparatorWithManyFieldsTests_testEquality":[],"org.apache.flink.api.java.typeutils.runtime.RowComparatorWithManyFieldsTests_testEqualityWithReference":[],"org.apache.flink.api.java.typeutils.runtime.RowComparatorWithManyFieldsTests_testInequality":[],"org.apache.flink.api.java.typeutils.runtime.RowComparatorWithManyFieldsTests_testNormalizedKeysEqualsFullLength":[],"org.apache.flink.api.java.typeutils.runtime.RowComparatorWithManyFieldsTests_testNormalizedKeysEqualsHalfLength":[],"org.apache.flink.api.java.typeutils.runtime.RowComparatorWithManyFieldsTests_testNormalizedKeyReadWriter":[],"org.apache.flink.api.java.typeutils.runtime.RowComparatorWithManyFieldsTests_testInequalityWithReference":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.runtime.RowComparatorWithManyFieldsTests_testKeyExtraction": [],
+    "org.apache.flink.api.java.typeutils.runtime.RowComparatorWithManyFieldsTests_testDuplicate": [],
+    "org.apache.flink.api.java.typeutils.runtime.RowComparatorWithManyFieldsTests_testNormalizedKeysGreatSmallFullLength": [],
+    "org.apache.flink.api.java.typeutils.runtime.RowComparatorWithManyFieldsTests_testNormalizedKeysGreatSmallAscDescHalfLength": [],
+    "org.apache.flink.api.java.typeutils.runtime.RowComparatorWithManyFieldsTests_testEquality": [],
+    "org.apache.flink.api.java.typeutils.runtime.RowComparatorWithManyFieldsTests_testEqualityWithReference": [],
+    "org.apache.flink.api.java.typeutils.runtime.RowComparatorWithManyFieldsTests_testInequality": [],
+    "org.apache.flink.api.java.typeutils.runtime.RowComparatorWithManyFieldsTests_testNormalizedKeysEqualsFullLength": [],
+    "org.apache.flink.api.java.typeutils.runtime.RowComparatorWithManyFieldsTests_testNormalizedKeysEqualsHalfLength": [],
+    "org.apache.flink.api.java.typeutils.runtime.RowComparatorWithManyFieldsTests_testNormalizedKeyReadWriter": [],
+    "org.apache.flink.api.java.typeutils.runtime.RowComparatorWithManyFieldsTests_testInequalityWithReference": []
+  }
+}

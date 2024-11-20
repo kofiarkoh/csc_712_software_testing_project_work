@@ -1,1 +1,9 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.typeinfo.TypeInformationTest_testOfClass":[],"org.apache.flink.api.common.typeinfo.TypeInformationTest_testOfGenericClassForGenericType":[],"org.apache.flink.api.common.typeinfo.TypeInformationTest_testOfTypeHint":[],"org.apache.flink.api.common.typeinfo.TypeInformationTest_testOfGenericClassForFlink":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeinfo.TypeInformationTest_testOfClass": [],
+    "org.apache.flink.api.common.typeinfo.TypeInformationTest_testOfGenericClassForGenericType": [],
+    "org.apache.flink.api.common.typeinfo.TypeInformationTest_testOfTypeHint": [],
+    "org.apache.flink.api.common.typeinfo.TypeInformationTest_testOfGenericClassForFlink": []
+  }
+}

@@ -1,1 +1,15 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.runtime.TupleSerializerTest_testTuple1Int":[],"org.apache.flink.api.java.typeutils.runtime.TupleSerializerTest_testTuple2StringStringArray":[],"org.apache.flink.api.java.typeutils.runtime.TupleSerializerTest_testTuple1StringArray":[],"org.apache.flink.api.java.typeutils.runtime.TupleSerializerTest_testTuple0":[],"org.apache.flink.api.java.typeutils.runtime.TupleSerializerTest_testTuple5CustomObjects":["pipeline.generic-types","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.TupleSerializerTest_testTuple2StringDouble":[],"org.apache.flink.api.java.typeutils.runtime.TupleSerializerTest_testTuple1String":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.runtime.TupleSerializerTest_testTuple1Int": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleSerializerTest_testTuple2StringStringArray": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleSerializerTest_testTuple1StringArray": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleSerializerTest_testTuple0": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleSerializerTest_testTuple5CustomObjects": [
+      "pipeline.generic-types",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.TupleSerializerTest_testTuple2StringDouble": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleSerializerTest_testTuple1String": []
+  }
+}

@@ -1,1 +1,8 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.EnumTypeInfoTest_testSerialization":[],"org.apache.flink.api.java.typeutils.EnumTypeInfoTest_testGetTotalFields":[],"org.apache.flink.api.java.typeutils.EnumTypeInfoTest_testHashcodeAndEquals":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.EnumTypeInfoTest_testSerialization": [],
+    "org.apache.flink.api.java.typeutils.EnumTypeInfoTest_testGetTotalFields": [],
+    "org.apache.flink.api.java.typeutils.EnumTypeInfoTest_testHashcodeAndEquals": []
+  }
+}

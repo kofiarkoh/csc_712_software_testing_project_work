@@ -1,1 +1,7 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.util.WrappingProxyUtilTest_testThrowsExceptionIfTooManyProxies":[],"org.apache.flink.util.WrappingProxyUtilTest_testStripsAllProxies":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.util.WrappingProxyUtilTest_testThrowsExceptionIfTooManyProxies": [],
+    "org.apache.flink.util.WrappingProxyUtilTest_testStripsAllProxies": []
+  }
+}

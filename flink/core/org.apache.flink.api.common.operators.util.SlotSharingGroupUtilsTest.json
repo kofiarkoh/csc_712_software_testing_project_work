@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.operators.util.SlotSharingGroupUtilsTest_testCovertToResourceSpec":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.operators.util.SlotSharingGroupUtilsTest_testCovertToResourceSpec": []
+  }
+}

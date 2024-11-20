@@ -1,1 +1,12 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.dag.TransformationTest_testDeclareManagedMemoryOperatorScopeUseCaseFailNegativeWeight":[],"org.apache.flink.api.dag.TransformationTest_testDeclareManagedMemoryOperatorScopeUseCaseFailZeroWeight":[],"org.apache.flink.api.dag.TransformationTest_testSetResourcesUseCaseFailNullResources":[],"org.apache.flink.api.dag.TransformationTest_testDeclareManagedMemorySlotScopeUseCaseFailWrongScope":[],"org.apache.flink.api.dag.TransformationTest_testDeclareManagedMemoryUseCase":[],"org.apache.flink.api.dag.TransformationTest_testDeclareManagedMemoryOperatorScopeUseCaseFailWrongScope":[],"org.apache.flink.api.dag.TransformationTest_testGetNewNodeIdIsThreadSafe":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.dag.TransformationTest_testDeclareManagedMemoryOperatorScopeUseCaseFailNegativeWeight": [],
+    "org.apache.flink.api.dag.TransformationTest_testDeclareManagedMemoryOperatorScopeUseCaseFailZeroWeight": [],
+    "org.apache.flink.api.dag.TransformationTest_testSetResourcesUseCaseFailNullResources": [],
+    "org.apache.flink.api.dag.TransformationTest_testDeclareManagedMemorySlotScopeUseCaseFailWrongScope": [],
+    "org.apache.flink.api.dag.TransformationTest_testDeclareManagedMemoryUseCase": [],
+    "org.apache.flink.api.dag.TransformationTest_testDeclareManagedMemoryOperatorScopeUseCaseFailWrongScope": [],
+    "org.apache.flink.api.dag.TransformationTest_testGetNewNodeIdIsThreadSafe": []
+  }
+}

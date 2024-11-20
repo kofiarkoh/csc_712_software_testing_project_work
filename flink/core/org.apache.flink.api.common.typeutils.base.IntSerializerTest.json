@@ -1,1 +1,22 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.typeutils.base.IntSerializerTest_testNullability":[],"org.apache.flink.api.common.typeutils.base.IntSerializerTest_testCopyIndependently":[],"org.apache.flink.api.common.typeutils.base.IntSerializerTest_testSerializeIndividuallyReusingValues":[],"org.apache.flink.api.common.typeutils.base.IntSerializerTest_testConfigSnapshotInstantiation":[],"org.apache.flink.api.common.typeutils.base.IntSerializerTest_testSnapshotConfigurationAndReconfigure":[],"org.apache.flink.api.common.typeutils.base.IntSerializerTest_testGetLength":[],"org.apache.flink.api.common.typeutils.base.IntSerializerTest_testCopyIntoReusedElements":[],"org.apache.flink.api.common.typeutils.base.IntSerializerTest_testCopyIntoNewElements":[],"org.apache.flink.api.common.typeutils.base.IntSerializerTest_testDuplicate":[],"org.apache.flink.api.common.typeutils.base.IntSerializerTest_testSerializabilityAndEquals":[],"org.apache.flink.api.common.typeutils.base.IntSerializerTest_testCopy":[],"org.apache.flink.api.common.typeutils.base.IntSerializerTest_testInstantiate":[],"org.apache.flink.api.common.typeutils.base.IntSerializerTest_testSerializedCopyIndividually":[],"org.apache.flink.api.common.typeutils.base.IntSerializerTest_testSerializeAsSequenceReusingValues":[],"org.apache.flink.api.common.typeutils.base.IntSerializerTest_testSerializeAsSequenceNoReuse":[],"org.apache.flink.api.common.typeutils.base.IntSerializerTest_testSerializedCopyAsSequence":[],"org.apache.flink.api.common.typeutils.base.IntSerializerTest_testSerializeIndividually":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeutils.base.IntSerializerTest_testNullability": [],
+    "org.apache.flink.api.common.typeutils.base.IntSerializerTest_testCopyIndependently": [],
+    "org.apache.flink.api.common.typeutils.base.IntSerializerTest_testSerializeIndividuallyReusingValues": [],
+    "org.apache.flink.api.common.typeutils.base.IntSerializerTest_testConfigSnapshotInstantiation": [],
+    "org.apache.flink.api.common.typeutils.base.IntSerializerTest_testSnapshotConfigurationAndReconfigure": [],
+    "org.apache.flink.api.common.typeutils.base.IntSerializerTest_testGetLength": [],
+    "org.apache.flink.api.common.typeutils.base.IntSerializerTest_testCopyIntoReusedElements": [],
+    "org.apache.flink.api.common.typeutils.base.IntSerializerTest_testCopyIntoNewElements": [],
+    "org.apache.flink.api.common.typeutils.base.IntSerializerTest_testDuplicate": [],
+    "org.apache.flink.api.common.typeutils.base.IntSerializerTest_testSerializabilityAndEquals": [],
+    "org.apache.flink.api.common.typeutils.base.IntSerializerTest_testCopy": [],
+    "org.apache.flink.api.common.typeutils.base.IntSerializerTest_testInstantiate": [],
+    "org.apache.flink.api.common.typeutils.base.IntSerializerTest_testSerializedCopyIndividually": [],
+    "org.apache.flink.api.common.typeutils.base.IntSerializerTest_testSerializeAsSequenceReusingValues": [],
+    "org.apache.flink.api.common.typeutils.base.IntSerializerTest_testSerializeAsSequenceNoReuse": [],
+    "org.apache.flink.api.common.typeutils.base.IntSerializerTest_testSerializedCopyAsSequence": [],
+    "org.apache.flink.api.common.typeutils.base.IntSerializerTest_testSerializeIndividually": []
+  }
+}

@@ -1,1 +1,10 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.util.StringUtilsTest_testArrayAwareToString":[],"org.apache.flink.util.StringUtilsTest_testStringToHexArray":[],"org.apache.flink.util.StringUtilsTest_testHexArrayToString":[],"org.apache.flink.util.StringUtilsTest_testGenerateAlphanumeric":[],"org.apache.flink.util.StringUtilsTest_testControlCharacters":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.util.StringUtilsTest_testArrayAwareToString": [],
+    "org.apache.flink.util.StringUtilsTest_testStringToHexArray": [],
+    "org.apache.flink.util.StringUtilsTest_testHexArrayToString": [],
+    "org.apache.flink.util.StringUtilsTest_testGenerateAlphanumeric": [],
+    "org.apache.flink.util.StringUtilsTest_testControlCharacters": []
+  }
+}

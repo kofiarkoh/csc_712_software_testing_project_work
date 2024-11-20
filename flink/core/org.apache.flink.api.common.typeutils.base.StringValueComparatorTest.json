@@ -1,1 +1,16 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.typeutils.base.StringValueComparatorTest_testInequality":[],"org.apache.flink.api.common.typeutils.base.StringValueComparatorTest_testEqualityWithReference":[],"org.apache.flink.api.common.typeutils.base.StringValueComparatorTest_testNormalizedKeysGreatSmallFullLength":[],"org.apache.flink.api.common.typeutils.base.StringValueComparatorTest_testNormalizedKeysEqualsHalfLength":[],"org.apache.flink.api.common.typeutils.base.StringValueComparatorTest_testNormalizedKeysGreatSmallAscDescHalfLength":[],"org.apache.flink.api.common.typeutils.base.StringValueComparatorTest_testNormalizedKeysEqualsFullLength":[],"org.apache.flink.api.common.typeutils.base.StringValueComparatorTest_testEquality":[],"org.apache.flink.api.common.typeutils.base.StringValueComparatorTest_testInequalityWithReference":[],"org.apache.flink.api.common.typeutils.base.StringValueComparatorTest_testKeyExtraction":[],"org.apache.flink.api.common.typeutils.base.StringValueComparatorTest_testNormalizedKeyReadWriter":[],"org.apache.flink.api.common.typeutils.base.StringValueComparatorTest_testDuplicate":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeutils.base.StringValueComparatorTest_testInequality": [],
+    "org.apache.flink.api.common.typeutils.base.StringValueComparatorTest_testEqualityWithReference": [],
+    "org.apache.flink.api.common.typeutils.base.StringValueComparatorTest_testNormalizedKeysGreatSmallFullLength": [],
+    "org.apache.flink.api.common.typeutils.base.StringValueComparatorTest_testNormalizedKeysEqualsHalfLength": [],
+    "org.apache.flink.api.common.typeutils.base.StringValueComparatorTest_testNormalizedKeysGreatSmallAscDescHalfLength": [],
+    "org.apache.flink.api.common.typeutils.base.StringValueComparatorTest_testNormalizedKeysEqualsFullLength": [],
+    "org.apache.flink.api.common.typeutils.base.StringValueComparatorTest_testEquality": [],
+    "org.apache.flink.api.common.typeutils.base.StringValueComparatorTest_testInequalityWithReference": [],
+    "org.apache.flink.api.common.typeutils.base.StringValueComparatorTest_testKeyExtraction": [],
+    "org.apache.flink.api.common.typeutils.base.StringValueComparatorTest_testNormalizedKeyReadWriter": [],
+    "org.apache.flink.api.common.typeutils.base.StringValueComparatorTest_testDuplicate": []
+  }
+}

@@ -1,1 +1,39 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.ExecutionConfigTest_testNotOverridingDefaultKryoSerializersFromConfiguration":[],"org.apache.flink.api.common.ExecutionConfigTest_testExecutionConfigSerialization":["pipeline.force-avro","pipeline.generic-types","pipeline.closure-cleaner-level","parallelism.default","pipeline.object-reuse","pipeline.force-kryo"],"org.apache.flink.api.common.ExecutionConfigTest_testDoubleTypeRegistration":["pipeline.force-kryo"],"org.apache.flink.api.common.ExecutionConfigTest_testNotOverridingRegisteredPojoTypesWithDefaultsFromConfiguration":[],"org.apache.flink.api.common.ExecutionConfigTest_testLoadingSchedulerTypeFromConfiguration":[],"org.apache.flink.api.common.ExecutionConfigTest_testGlobalParametersHashCode":[],"org.apache.flink.api.common.ExecutionConfigTest_testNotOverridingRestartStrategiesWithDefaultsFromConfiguration":["restart-strategy.type"],"org.apache.flink.api.common.ExecutionConfigTest_testDisableGenericTypes":["pipeline.generic-types","pipeline.force-kryo"],"org.apache.flink.api.common.ExecutionConfigTest_testNotOverridingRegisteredKryoTypesWithDefaultsFromConfiguration":["pipeline.force-kryo"],"org.apache.flink.api.common.ExecutionConfigTest_testLoadingRegisteredPojoTypesFromConfiguration":[],"org.apache.flink.api.common.ExecutionConfigTest_testLoadingRegisteredKryoTypesFromConfiguration":["pipeline.force-kryo"],"org.apache.flink.api.common.ExecutionConfigTest_testConfigurationOfParallelism":["parallelism.default"],"org.apache.flink.api.common.ExecutionConfigTest_testGlobalParametersNotNull":[],"org.apache.flink.api.common.ExecutionConfigTest_testReadingDefaultConfig":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.ExecutionConfigTest_testNotOverridingDefaultKryoSerializersFromConfiguration": [],
+    "org.apache.flink.api.common.ExecutionConfigTest_testExecutionConfigSerialization": [
+      "pipeline.force-avro",
+      "pipeline.generic-types",
+      "pipeline.closure-cleaner-level",
+      "parallelism.default",
+      "pipeline.object-reuse",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.common.ExecutionConfigTest_testDoubleTypeRegistration": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.common.ExecutionConfigTest_testNotOverridingRegisteredPojoTypesWithDefaultsFromConfiguration": [],
+    "org.apache.flink.api.common.ExecutionConfigTest_testLoadingSchedulerTypeFromConfiguration": [],
+    "org.apache.flink.api.common.ExecutionConfigTest_testGlobalParametersHashCode": [],
+    "org.apache.flink.api.common.ExecutionConfigTest_testNotOverridingRestartStrategiesWithDefaultsFromConfiguration": [
+      "restart-strategy.type"
+    ],
+    "org.apache.flink.api.common.ExecutionConfigTest_testDisableGenericTypes": [
+      "pipeline.generic-types",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.common.ExecutionConfigTest_testNotOverridingRegisteredKryoTypesWithDefaultsFromConfiguration": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.common.ExecutionConfigTest_testLoadingRegisteredPojoTypesFromConfiguration": [],
+    "org.apache.flink.api.common.ExecutionConfigTest_testLoadingRegisteredKryoTypesFromConfiguration": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.common.ExecutionConfigTest_testConfigurationOfParallelism": [
+      "parallelism.default"
+    ],
+    "org.apache.flink.api.common.ExecutionConfigTest_testGlobalParametersNotNull": [],
+    "org.apache.flink.api.common.ExecutionConfigTest_testReadingDefaultConfig": []
+  }
+}

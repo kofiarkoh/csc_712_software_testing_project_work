@@ -1,1 +1,10 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.typeutils.base.ListSerializerUpgradeTest_upgradedSerializerIsValidAfterReconfiguration":[],"org.apache.flink.api.common.typeutils.base.ListSerializerUpgradeTest_restoreSerializerIsValid":[],"org.apache.flink.api.common.typeutils.base.ListSerializerUpgradeTest_upgradedSerializerIsValidWhenCompatibleAsIs":[],"org.apache.flink.api.common.typeutils.base.ListSerializerUpgradeTest_upgradedSerializerIsValidAfterMigration":[],"org.apache.flink.api.common.typeutils.base.ListSerializerUpgradeTest_upgradedSerializerHasExpectedSchemaCompatibility":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeutils.base.ListSerializerUpgradeTest_upgradedSerializerIsValidAfterReconfiguration": [],
+    "org.apache.flink.api.common.typeutils.base.ListSerializerUpgradeTest_restoreSerializerIsValid": [],
+    "org.apache.flink.api.common.typeutils.base.ListSerializerUpgradeTest_upgradedSerializerIsValidWhenCompatibleAsIs": [],
+    "org.apache.flink.api.common.typeutils.base.ListSerializerUpgradeTest_upgradedSerializerIsValidAfterMigration": [],
+    "org.apache.flink.api.common.typeutils.base.ListSerializerUpgradeTest_upgradedSerializerHasExpectedSchemaCompatibility": []
+  }
+}

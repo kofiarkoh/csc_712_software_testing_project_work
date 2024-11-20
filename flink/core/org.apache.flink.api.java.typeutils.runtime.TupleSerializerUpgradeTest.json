@@ -1,1 +1,10 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.runtime.TupleSerializerUpgradeTest_upgradedSerializerIsValidWhenCompatibleAsIs":[],"org.apache.flink.api.java.typeutils.runtime.TupleSerializerUpgradeTest_upgradedSerializerIsValidAfterReconfiguration":[],"org.apache.flink.api.java.typeutils.runtime.TupleSerializerUpgradeTest_restoreSerializerIsValid":[],"org.apache.flink.api.java.typeutils.runtime.TupleSerializerUpgradeTest_upgradedSerializerHasExpectedSchemaCompatibility":[],"org.apache.flink.api.java.typeutils.runtime.TupleSerializerUpgradeTest_upgradedSerializerIsValidAfterMigration":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.runtime.TupleSerializerUpgradeTest_upgradedSerializerIsValidWhenCompatibleAsIs": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleSerializerUpgradeTest_upgradedSerializerIsValidAfterReconfiguration": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleSerializerUpgradeTest_restoreSerializerIsValid": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleSerializerUpgradeTest_upgradedSerializerHasExpectedSchemaCompatibility": [],
+    "org.apache.flink.api.java.typeutils.runtime.TupleSerializerUpgradeTest_upgradedSerializerIsValidAfterMigration": []
+  }
+}

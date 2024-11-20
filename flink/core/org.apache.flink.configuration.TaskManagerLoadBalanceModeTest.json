@@ -1,1 +1,8 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.configuration.TaskManagerLoadBalanceModeTest_testReadTaskManagerLoadBalanceMode":["taskmanager.load-balance.mode"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.configuration.TaskManagerLoadBalanceModeTest_testReadTaskManagerLoadBalanceMode": [
+      "taskmanager.load-balance.mode"
+    ]
+  }
+}

@@ -1,1 +1,10 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.operators.DualInputSemanticPropertiesTest_testGetReadSet":[],"org.apache.flink.api.common.operators.DualInputSemanticPropertiesTest_testGetTargetFields":[],"org.apache.flink.api.common.operators.DualInputSemanticPropertiesTest_testAddForwardedFieldsTargetTwice2":[],"org.apache.flink.api.common.operators.DualInputSemanticPropertiesTest_testAddForwardedFieldsTargetTwice1":[],"org.apache.flink.api.common.operators.DualInputSemanticPropertiesTest_testGetSourceField":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.operators.DualInputSemanticPropertiesTest_testGetReadSet": [],
+    "org.apache.flink.api.common.operators.DualInputSemanticPropertiesTest_testGetTargetFields": [],
+    "org.apache.flink.api.common.operators.DualInputSemanticPropertiesTest_testAddForwardedFieldsTargetTwice2": [],
+    "org.apache.flink.api.common.operators.DualInputSemanticPropertiesTest_testAddForwardedFieldsTargetTwice1": [],
+    "org.apache.flink.api.common.operators.DualInputSemanticPropertiesTest_testGetSourceField": []
+  }
+}

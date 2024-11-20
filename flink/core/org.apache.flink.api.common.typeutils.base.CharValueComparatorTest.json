@@ -1,1 +1,16 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.typeutils.base.CharValueComparatorTest_testNormalizedKeysGreatSmallAscDescHalfLength":[],"org.apache.flink.api.common.typeutils.base.CharValueComparatorTest_testKeyExtraction":[],"org.apache.flink.api.common.typeutils.base.CharValueComparatorTest_testEquality":[],"org.apache.flink.api.common.typeutils.base.CharValueComparatorTest_testNormalizedKeysEqualsFullLength":[],"org.apache.flink.api.common.typeutils.base.CharValueComparatorTest_testNormalizedKeysGreatSmallFullLength":[],"org.apache.flink.api.common.typeutils.base.CharValueComparatorTest_testNormalizedKeysEqualsHalfLength":[],"org.apache.flink.api.common.typeutils.base.CharValueComparatorTest_testDuplicate":[],"org.apache.flink.api.common.typeutils.base.CharValueComparatorTest_testEqualityWithReference":[],"org.apache.flink.api.common.typeutils.base.CharValueComparatorTest_testInequality":[],"org.apache.flink.api.common.typeutils.base.CharValueComparatorTest_testInequalityWithReference":[],"org.apache.flink.api.common.typeutils.base.CharValueComparatorTest_testNormalizedKeyReadWriter":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeutils.base.CharValueComparatorTest_testNormalizedKeysGreatSmallAscDescHalfLength": [],
+    "org.apache.flink.api.common.typeutils.base.CharValueComparatorTest_testKeyExtraction": [],
+    "org.apache.flink.api.common.typeutils.base.CharValueComparatorTest_testEquality": [],
+    "org.apache.flink.api.common.typeutils.base.CharValueComparatorTest_testNormalizedKeysEqualsFullLength": [],
+    "org.apache.flink.api.common.typeutils.base.CharValueComparatorTest_testNormalizedKeysGreatSmallFullLength": [],
+    "org.apache.flink.api.common.typeutils.base.CharValueComparatorTest_testNormalizedKeysEqualsHalfLength": [],
+    "org.apache.flink.api.common.typeutils.base.CharValueComparatorTest_testDuplicate": [],
+    "org.apache.flink.api.common.typeutils.base.CharValueComparatorTest_testEqualityWithReference": [],
+    "org.apache.flink.api.common.typeutils.base.CharValueComparatorTest_testInequality": [],
+    "org.apache.flink.api.common.typeutils.base.CharValueComparatorTest_testInequalityWithReference": [],
+    "org.apache.flink.api.common.typeutils.base.CharValueComparatorTest_testNormalizedKeyReadWriter": []
+  }
+}

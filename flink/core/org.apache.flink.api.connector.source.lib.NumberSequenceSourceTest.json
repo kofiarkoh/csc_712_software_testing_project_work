@@ -1,1 +1,6 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.connector.source.lib.NumberSequenceSourceTest_testReaderCheckpoints":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.connector.source.lib.NumberSequenceSourceTest_testReaderCheckpoints": []
+  }
+}

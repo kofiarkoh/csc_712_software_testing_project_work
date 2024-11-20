@@ -1,1 +1,9 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.ValueTypeInfoTest_testGetTotalFields":[],"org.apache.flink.api.java.typeutils.ValueTypeInfoTest_testValueTypeEqualsWithNull":[],"org.apache.flink.api.java.typeutils.ValueTypeInfoTest_testHashcodeAndEquals":[],"org.apache.flink.api.java.typeutils.ValueTypeInfoTest_testSerialization":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.ValueTypeInfoTest_testGetTotalFields": [],
+    "org.apache.flink.api.java.typeutils.ValueTypeInfoTest_testValueTypeEqualsWithNull": [],
+    "org.apache.flink.api.java.typeutils.ValueTypeInfoTest_testHashcodeAndEquals": [],
+    "org.apache.flink.api.java.typeutils.ValueTypeInfoTest_testSerialization": []
+  }
+}

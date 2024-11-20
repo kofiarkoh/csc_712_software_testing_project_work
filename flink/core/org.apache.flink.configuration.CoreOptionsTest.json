@@ -1,1 +1,13 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.configuration.CoreOptionsTest_testGetParentFirstLoaderPatterns":["classloader.parent-first-patterns.default","classloader.parent-first-patterns.additional"],"org.apache.flink.configuration.CoreOptionsTest_testGetPluginParentFirstLoaderPatterns":["plugin.classloader.parent-first-patterns.default","plugin.classloader.parent-first-patterns.additional"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.configuration.CoreOptionsTest_testGetParentFirstLoaderPatterns": [
+      "classloader.parent-first-patterns.default",
+      "classloader.parent-first-patterns.additional"
+    ],
+    "org.apache.flink.configuration.CoreOptionsTest_testGetPluginParentFirstLoaderPatterns": [
+      "plugin.classloader.parent-first-patterns.default",
+      "plugin.classloader.parent-first-patterns.additional"
+    ]
+  }
+}

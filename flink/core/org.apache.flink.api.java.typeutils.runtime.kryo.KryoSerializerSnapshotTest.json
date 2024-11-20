@@ -1,1 +1,20 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerSnapshotTest_reorderingIsCompatibleAfterReconfiguration":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerSnapshotTest_sanityTest":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerSnapshotTest_tryingToRestoreWithNonExistingClassShouldBeIncompatible":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerSnapshotTest_addingTypesIsCompatibleAfterReconfiguration":["pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerSnapshotTest_replacingKryoSerializersIsCompatibleAsIs":["pipeline.force-kryo"]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerSnapshotTest_reorderingIsCompatibleAfterReconfiguration": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerSnapshotTest_sanityTest": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerSnapshotTest_tryingToRestoreWithNonExistingClassShouldBeIncompatible": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerSnapshotTest_addingTypesIsCompatibleAfterReconfiguration": [
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.kryo.KryoSerializerSnapshotTest_replacingKryoSerializersIsCompatibleAsIs": [
+      "pipeline.force-kryo"
+    ]
+  }
+}

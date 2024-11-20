@@ -1,1 +1,11 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.runtime.RowSerializerTest_testRowSerializerWithComplexTypes":["pipeline.force-avro","pipeline.force-kryo"],"org.apache.flink.api.java.typeutils.runtime.RowSerializerTest_testRowSerializer":[],"org.apache.flink.api.java.typeutils.runtime.RowSerializerTest_testLargeRowSerializer":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.runtime.RowSerializerTest_testRowSerializerWithComplexTypes": [
+      "pipeline.force-avro",
+      "pipeline.force-kryo"
+    ],
+    "org.apache.flink.api.java.typeutils.runtime.RowSerializerTest_testRowSerializer": [],
+    "org.apache.flink.api.java.typeutils.runtime.RowSerializerTest_testLargeRowSerializer": []
+  }
+}

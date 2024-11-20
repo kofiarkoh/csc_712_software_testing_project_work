@@ -1,1 +1,16 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.java.typeutils.runtime.CopyableValueComparatorTest_testDuplicate":[],"org.apache.flink.api.java.typeutils.runtime.CopyableValueComparatorTest_testNormalizedKeysGreatSmallFullLength":[],"org.apache.flink.api.java.typeutils.runtime.CopyableValueComparatorTest_testNormalizedKeysEqualsHalfLength":[],"org.apache.flink.api.java.typeutils.runtime.CopyableValueComparatorTest_testNormalizedKeysEqualsFullLength":[],"org.apache.flink.api.java.typeutils.runtime.CopyableValueComparatorTest_testInequalityWithReference":[],"org.apache.flink.api.java.typeutils.runtime.CopyableValueComparatorTest_testNormalizedKeyReadWriter":[],"org.apache.flink.api.java.typeutils.runtime.CopyableValueComparatorTest_testEquality":[],"org.apache.flink.api.java.typeutils.runtime.CopyableValueComparatorTest_testEqualityWithReference":[],"org.apache.flink.api.java.typeutils.runtime.CopyableValueComparatorTest_testInequality":[],"org.apache.flink.api.java.typeutils.runtime.CopyableValueComparatorTest_testKeyExtraction":[],"org.apache.flink.api.java.typeutils.runtime.CopyableValueComparatorTest_testNormalizedKeysGreatSmallAscDescHalfLength":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.java.typeutils.runtime.CopyableValueComparatorTest_testDuplicate": [],
+    "org.apache.flink.api.java.typeutils.runtime.CopyableValueComparatorTest_testNormalizedKeysGreatSmallFullLength": [],
+    "org.apache.flink.api.java.typeutils.runtime.CopyableValueComparatorTest_testNormalizedKeysEqualsHalfLength": [],
+    "org.apache.flink.api.java.typeutils.runtime.CopyableValueComparatorTest_testNormalizedKeysEqualsFullLength": [],
+    "org.apache.flink.api.java.typeutils.runtime.CopyableValueComparatorTest_testInequalityWithReference": [],
+    "org.apache.flink.api.java.typeutils.runtime.CopyableValueComparatorTest_testNormalizedKeyReadWriter": [],
+    "org.apache.flink.api.java.typeutils.runtime.CopyableValueComparatorTest_testEquality": [],
+    "org.apache.flink.api.java.typeutils.runtime.CopyableValueComparatorTest_testEqualityWithReference": [],
+    "org.apache.flink.api.java.typeutils.runtime.CopyableValueComparatorTest_testInequality": [],
+    "org.apache.flink.api.java.typeutils.runtime.CopyableValueComparatorTest_testKeyExtraction": [],
+    "org.apache.flink.api.java.typeutils.runtime.CopyableValueComparatorTest_testNormalizedKeysGreatSmallAscDescHalfLength": []
+  }
+}

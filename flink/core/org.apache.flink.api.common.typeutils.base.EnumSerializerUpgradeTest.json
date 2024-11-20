@@ -1,1 +1,10 @@
-{"classLevelParams":[],"methodLevelParams":{"org.apache.flink.api.common.typeutils.base.EnumSerializerUpgradeTest_upgradedSerializerIsValidWhenCompatibleAsIs":[],"org.apache.flink.api.common.typeutils.base.EnumSerializerUpgradeTest_upgradedSerializerIsValidAfterMigration":[],"org.apache.flink.api.common.typeutils.base.EnumSerializerUpgradeTest_upgradedSerializerIsValidAfterReconfiguration":[],"org.apache.flink.api.common.typeutils.base.EnumSerializerUpgradeTest_restoreSerializerIsValid":[],"org.apache.flink.api.common.typeutils.base.EnumSerializerUpgradeTest_upgradedSerializerHasExpectedSchemaCompatibility":[]}}
+{
+  "classLevelParams": [],
+  "methodLevelParams": {
+    "org.apache.flink.api.common.typeutils.base.EnumSerializerUpgradeTest_upgradedSerializerIsValidWhenCompatibleAsIs": [],
+    "org.apache.flink.api.common.typeutils.base.EnumSerializerUpgradeTest_upgradedSerializerIsValidAfterMigration": [],
+    "org.apache.flink.api.common.typeutils.base.EnumSerializerUpgradeTest_upgradedSerializerIsValidAfterReconfiguration": [],
+    "org.apache.flink.api.common.typeutils.base.EnumSerializerUpgradeTest_restoreSerializerIsValid": [],
+    "org.apache.flink.api.common.typeutils.base.EnumSerializerUpgradeTest_upgradedSerializerHasExpectedSchemaCompatibility": []
+  }
+}
