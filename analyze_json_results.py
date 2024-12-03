@@ -54,6 +54,7 @@ for method, params in method_level_params.items():
 
 configs = list(set(configs))
 tests = list(set(tests))
+print("----- APACH FLINK -----")
 print(f"Number of Configurations :{len(configs)} ")
 print(f"Number of Tests Files Executed :{num_tests}")
 print(f"Number of Tests Files Using Configurations {num_tests_using_configs}")
