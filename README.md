@@ -5,5 +5,8 @@ Paper: [Testing Configuration Changes in Context to Prevent Production Failures]
 ### Requirements
 - install the requirements by running `pip install requirements.txt`
 ### USAGE
-- There are two jupyter notebooks. We used `analyze_json_results` to analyzed json logs from [ctest4j](https://github.com/xlab-uiuc/ctest4j) while `analyze_tsv_results` 
+- Clone the repository by running `git clone git@github.com:kofiarkoh/csc_712_software_testing_project_work.git`
+- There are two python files. We used `analyze_json_results.py` to analyzed json logs from [ctest4j](https://github.com/xlab-uiuc/ctest4j) while `analyze_tsv_results.py` 
 was used to analyze the results from the initial version of [openctest](https://github.com/xlab-uiuc/openctest). Both of them have the same under core implementation.
+- To analyze the results, run `python analyze_json_results.py`.
+- To analyze the tsv results, run `python analyze_json_results.py`
